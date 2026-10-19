@@ -1,0 +1,41 @@
+name: Extract PDF text
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pdftotext
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Extract text from PDFs
+        shell: bash
+        run: |
+          mkdir -p extracted_text
+          find . -maxdepth 1 -type f -iname '*.pdf' -print0 | while IFS= read -r -d '' f; do
+            base="$(basename "$f" .pdf)"
+            pdftotext -layout "$f" "extracted_text/$base.txt" || true
+          done
+
+      - name: Commit extracted text
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extracted_text
+          if git diff --cached --quiet; then
+            echo "No extracted text changes."
+            exit 0
+          fi
+          git commit -m "Extract PDF text for compliance review"
+          git push

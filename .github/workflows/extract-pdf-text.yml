@@ -27,12 +27,15 @@ jobs:
             pdftotext -layout "$f" "extracted_text/$base.txt" || true
           done
 
-      - name: Commit extracted text
+      - name: Build compliance CSV
+        run: python build_compliance.py
+
+      - name: Commit extracted text and compliance CSV
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add extracted_text
+          git add extracted_text COMPLIANCE_EXTRACT.csv
           if git diff --cached --quiet; then
             echo "No extracted text changes."
             exit 0

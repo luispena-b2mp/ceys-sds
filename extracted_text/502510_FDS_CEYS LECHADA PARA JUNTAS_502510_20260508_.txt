@@ -1,0 +1,945 @@
+                                          CEYS LECHADA PARA JUNTAS
+                                          Ficha de Datos de Seguridad
+                                          según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                          Fecha de emisión: 06/02/2023 Fecha de revisión: 08/05/2026 Reemplaza la versión de: 04/01/2024 Versión: 2.1
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                    :   Mezcla
+Nombre comercial                                      :   CEYS LECHADA PARA JUNTAS
+UFI                                                   :   CRPV-FE9P-2103-9Q09
+Código de producto                                    :   502510
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                            : Uso por el consumidor
+Función o categoría de uso                            : Aditivos para materiales de construcción
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+Fabricante                                                                  Distribuidor
+AC Marca Adhesives, S.A.                                                    AC Marca Chile, Ltda.
+Avda. Carrilet, 293-297, L'Hospitalet de Llobregat 293-297                  Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                     Providencia., Santiago
+T +34 93 260 68 00                                                          Chile
+regulatory.mpq@acmarca.com                                                  T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                            infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Empresa                                                                       Número de emergencia
+Chile                 CITUC.                                                                        2-2635 38 00
+                      CENTRO DE INFORMACIÓN TOXICOLOGICA DE LA PONTIFICIA
+                      UNIVERSIDAD CATÓLICA DE CHILE.
+                      Avda. Libertador Bernardo O'Higgins 340 Santiago de Chile.
+
+España                Servicio de Información Toxicológica.                                         +34 91 562 04 20
+                      Instituto Nacional de Toxicología y Ciencias Forenses. Departamento de        +34 91 411 26 76 (teléfono solo para médicos)
+                      Madrid.                                                                       (solo emergencias toxicológicas), Información en
+                      C/José Echegaray nº4 28232 Las Rozas de Madrid.                               español (24h/365 días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Irritación o corrosión cutáneas, categoría 2                     H315
+Lesiones oculares graves o irritación ocular, categoría 1        H318
+Sensibilización cutánea, categoría 1                             H317
+Toxicidad específica en determinados órganos – Exposición        H335
+única, categoría 3, irritación de las vías respiratorias
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Puede irritar las vías respiratorias. Provoca irritación cutánea. Puede provocar una reacción alérgica en la piel. Provoca lesiones oculares graves.
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                                         1/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                           :
+
+
+
+
+                                                             GHS05         GHS07
+Palabra de advertencia (CLP)                           : Peligro
+Contiene                                               : Cemento, portland, productos químicos; 2-octil-2H-isotiazol-3-ona
+
+Indicaciones de peligro (CLP)                          : H315 - Provoca irritación cutánea.
+                                                         H317 - Puede provocar una reacción alérgica en la piel.
+                                                         H318 - Provoca lesiones oculares graves.
+                                                         H335 - Puede irritar las vías respiratorias.
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P271 - Utilizar únicamente en exteriores o en un lugar bien ventilado.
+                                                         P280 - Llevar guantes de protección, equipo de protección para los ojos y la cara.
+                                                         P305+P351+P338 - EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua
+                                                         cuidadosamente durante varios minutos. Quitar las lentes de contacto cuando estén
+                                                         presentes y pueda hacerse con facilidad. Proseguir con el lavado.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                         en caso de que no se haya consumido completamente.
+Frases suplementarias                                  : No ingerir.
+Cierre de seguridad para niños                         : No aplicable
+Indicación de peligro detectable con el tacto          : No aplicable
+
+2.3. Otros peligros
+No contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+La mezcla no contiene ni sustancia(s) incluida(s) en la lista establecida con arreglo al artículo 59, apartado 1 del Reglamento REACH por sus
+propiedades de alteración endocrina, ni sustancia(s) identificada(s) como poseedoras de propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado (UE) 2017/2100 de la Comisión o en el Reglamento (UE) 2018/605 de la Comisión en una
+concentración igual o superior al 0,1 %
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.2. Mezclas
+
+Nombre                                                     Identificador de               %               Clasificación según Reglamento
+                                                           producto                                       (UE) n° 1272/2008 [CLP]
+Cemento, portland, productos químicos                      N° CAS: 65997-15-1             20 – 30         Skin Irrit. 2, H315
+sustancia con uno o varios límites nacionales de           N° CE: 266-043-4                               Eye Dam. 1, H318
+exposición en el lugar de trabajo (ES)                                                                    Skin Sens. 1B, H317
+                                                                                                          STOT SE 3, H335
+
+Cuarzo (SiO2)                                              N° CAS: 14808-60-7             20 – 30         Acute Tox. No clasificado (Oral)
+sustancia con uno o varios límites nacionales de           N° CE: 238-878-4
+exposición en el lugar de trabajo (ES)
+
+
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                                  2/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Nombre                                                    Identificador de            %               Clasificación según Reglamento
+                                                          producto                                    (UE) n° 1272/2008 [CLP]
+dihidróxido de calcio                                     REACH-no: 01-2119475151-    1–3             Acute Tox. No clasificado (Oral)
+sustancia con uno o varios límites nacionales de          45                                          Acute Tox. No clasificado (Cutánea)
+exposición en el lugar de trabajo (ES); sustancia a la                                                Skin Irrit. 2, H315
+que se aplica un límite comunitario de exposición en                                                  Eye Dam. 1, H318
+el lugar de trabajo                                                                                   STOT SE 3, H335
+                                                                                                      STOT RE No clasificado
+                                                                                                      Aquatic Acute No clasificado
+
+Piritiona cíncica; (T-4)-bis[1-(hidroxi-κΟ)piridina-      N° CAS: 13463-41-7          0,0002 –        Acute Tox. 3 (Oral), H301 (ATE=100
+2(1H)-tionato-κS] de cinc                                 N° CE: 236-671-3            0,0025          mg/kg de peso corporal)
+                                                          N° Índice: 613-333-00-7                     Acute Tox. 2 (Inhalación), H330
+                                                          REACH-no: 01-2119511196-                    (ATE=1,34 mg/l/4h)
+                                                          46                                          Acute Tox. No clasificado (Inhalación:
+                                                                                                      polvo, niebla)
+                                                                                                      Eye Dam. 1, H318
+                                                                                                      Repr. 1B, H360D
+                                                                                                      STOT RE 1, H372
+                                                                                                      Aquatic Acute 1, H400 (M=1000)
+                                                                                                      Aquatic Chronic 1, H410 (M=10)
+
+2-octil-2H-isotiazol-3-ona                                N° CAS: 26530-20-1          0,0002 –        Acute Tox. 3 (Oral), H301 (ATE=125
+                                                          N° CE: 247-761-7            0,0015          mg/kg de peso corporal)
+                                                          N° Índice: 613-112-00-5                     Acute Tox. 3 (Cutánea), H311 (ATE=311
+                                                                                                      mg/kg de peso corporal)
+                                                                                                      Acute Tox. 2 (Inhalación), H330
+                                                                                                      (ATE=0,27 mg/l/4h)
+                                                                                                      Skin Corr. 1, H314
+                                                                                                      Eye Dam. 1, H318
+                                                                                                      Skin Sens. 1A, H317
+                                                                                                      Aquatic Acute 1, H400 (M=100)
+                                                                                                      Aquatic Chronic 1, H410 (M=100)
+                                                                                                      EUH071
+
+
+Límites de concentración específicos:
+Nombre                                                    Identificador de producto   Límites de concentración específicos (%)
+
+2-octil-2H-isotiazol-3-ona                                N° CAS: 26530-20-1          (0,00015 ≤ C < 0,0015) EUH208
+                                                          N° CE: 247-761-7            (0,0015 ≤ C ≤ 100) Skin Sens. 1A; H317
+                                                          N° Índice: 613-112-00-5
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración. Llamar a un centro de información toxicológica o a un médico en caso de
+                                                     malestar.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua. Quitar las prendas contaminadas. En caso de irritación o
+con la piel                                          erupción cutánea: Consultar a un médico.
+Medidas de primeros auxilios en caso de contacto   : Aclarar cuidadosamente con agua durante varios minutos. Quitar las lentes de contacto, si
+con los ojos                                         lleva y resulta fácil. Seguir aclarando. Llamar inmediatamente a un médico.
+Medidas de primeros auxilios en caso de ingestión : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+Autoprotección del personal de primeros auxilios   : El personal de primeros auxilios debe priorizar su autoprotección utilizando los equipos de
+                                                     protección individual (EPI) recomendados (véase la sección 8).
+
+
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                                3/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                 :   Puede irritar las vías respiratorias.
+Síntomas/efectos después de contacto con la piel       :   Irritación. Puede provocar una reacción alérgica en la piel.
+Síntomas/efectos después del contacto con el ojo       :   Lesiones oculares graves.
+Síntomas/efectos después de ingestión                  :   Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma.
+Medios de extinción no apropiados                      : No utilizar agua a presión.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Sin riesgos de incendio.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Avisar a las autoridades si el producto llega a los desagües o las conducciones públicas de
+                                                         agua. Absorber el vertido para que no dañe otros materiales.
+
+Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el
+                                                         aerosol. Evitar el contacto con los ojos y la piel.
+
+Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Con una pala limpia, introduzca el material en un recipiente seco y tápelo sin llegar a
+                                                         comprimirlo.
+Procedimientos de limpieza                             : Recoger mecánicamente el producto.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+
+08/05/2026 (Fecha de revisión)                                            ES - es                                                                  4/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : Utilizar únicamente en exteriores o en un lugar bien ventilado. Evitar respirar el polvo/el
+                                                         humo/el gas/la niebla/los vapores/el aerosol. Evitar el contacto con los ojos y la piel. Llevar
+                                                         un equipo de protección individual.
+Medidas de higiene                                     : Lavar las prendas contaminadas antes de volver a usarlas. Las prendas de trabajo
+                                                         contaminadas no podrán sacarse del lugar de trabajo. No comer, beber ni fumar durante su
+                                                         utilización. Lavarse las manos después de cualquier manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+Condiciones de almacenamiento                          : Guardar bajo llave. Almacenar en un lugar bien ventilado. Mantener el recipiente
+                                                         herméticamente cerrado.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+Valores límite nacionales de exposición profesional y biológicos
+
+Cemento, portland, productos químicos (65997-15-1)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Cemento Portland
+
+VLA-ED (OEL TWA)                                          4 mg/m³
+
+Comentarios                                               e (Este valor es para la materia particulada que no contenga amianto y menos de un 1%
+                                                          de sílice cristalina), d (Véase UNE EN 481: Atmósferas en los puestos de trabajo.
+                                                          Definición de las fracciones por el tamaño de las partículas para la medición de
+                                                          aerosoles).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2023. INSHT
+
+dihidróxido de calcio
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Calcium dihydroxide
+
+IOEL TWA                                                  1 mg/m³ (Respirable fraction)
+
+IOEL STEL                                                 4 mg/m³ (Respirable fraction)
+
+Referencia normativa                                      COMMISSION DIRECTIVE (EU) 2017/164
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Hidróxido de calcio
+
+VLA-ED (OEL TWA)                                          1 mg/m³ Fracción respirable
+
+VLA-EC (OEL STEL)                                         4 mg/m³ Fracción respirable
+
+Comentarios                                               VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo), d
+                                                          (Véase UNE EN 481: Atmósferas en los puestos de trabajo. Definición de las fracciones
+                                                          por el tamaño de las partículas para la medición de aerosoles).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                                     5/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Cuarzo (SiO2) (14808-60-7)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Silica crystaline (Quartz)
+
+Comentarios                                               SCOEL Recommendations (2003)
+
+Referencia normativa                                      SCOEL Recommendations
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Sílice Cristalina (Cuarzo)
+
+VLA-ED (OEL TWA)                                          0,05 mg/m³ Fracción respirable
+
+Comentarios                                               n (En las industrias extractivas véase la Orden ITC 2585/2007, de 30 de agosto (BOE nº
+                                                          315 de 7 de septiembre de 2007), por la que se aprueba la Instrucción Técnica
+                                                          Complementaria 2.0.02 del Reglamento General de Normas Básicas de Seguridad
+                                                          Minera), d (Véase UNE EN 481: Atmósferas en los puestos de trabajo. Definición de las
+                                                          fracciones por el tamaño de las partículas para la medición de aerosoles), y
+                                                          (Reclasificado, por la International Agency for Research on Cancer (IARC) de grupo 2A
+                                                          (probablemente carcinogénico en humanos) a grupo 1 (carcinogénico en humanos)),
+                                                          véase ITC/2585/2007.
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos.
+
+8.2. Controles de la exposición
+Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado.
+
+Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado. Fuente ocular con líquido adaptado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+Protección de los ojos y la cara
+Protección ocular:
+Utilizar protección para los ojos: Gafas químicas o gafas de seguridad
+
+Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas
+
+Protección de las manos:
+Utilizar guantes protectores
+
+Protección respiratoria
+Protección respiratoria:
+Llevar una máscara adecuada: utilizar máscara antipolvo con filtro P2
+
+
+
+
+08/05/2026 (Fecha de revisión)                                           ES - es                                                                  6/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Controles de exposición medioambiental
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para consumidor final.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Sólido
+Color                                                  :   Blanco.
+Apariencia                                             :   Polvo.
+Olor                                                   :   característico.
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No disponible
+Punto de congelación                                   :   No aplicable
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   No inflamable
+Límite inferior de explosividad                        :   No aplicable
+Límite superior de explosividad                        :   No aplicable
+Punto de inflamación                                   :   No aplicable
+Temperatura de auto-inflamación                        :   No aplicable
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   ≥ 11,5
+Solución pH                                            :   No disponible
+Viscosidad, cinemática                                 :   No aplicable
+Solubilidad                                            :   Poco soluble en el agua.
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   2,658 g/cm³ (23ºC)
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No aplicable
+Tamaño de las partículas                               :   No disponible
+
+9.2. Otros datos
+No se dispone de información adicional
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+El producto no es reactivo en condiciones normales de utilización, almacenamiento y transporte.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Ninguna en las condiciones de almacenamiento y de manipulación recomendadas (véase la sección 7).
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+08/05/2026 (Fecha de revisión)                                           ES - es                                            7/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+Corrosión o irritación cutáneas                        : Provoca irritación cutánea.
+                                                         pH: ≥ 11,5
+Lesiones oculares graves o irritación ocular           : Provoca lesiones oculares graves.
+                                                         pH: ≥ 11,5
+Sensibilización respiratoria o cutánea                 : Puede provocar una reacción alérgica en la piel.
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+
+Cuarzo (SiO2) (14808-60-7)
+Grupo CIIC                                                1 - Carcinógenico en humanos
+Toxicidad para la reproducción                         : No clasificado
+Toxicidad específica en determinados órganos           : Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Cemento, portland, productos químicos (65997-15-1)
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+dihidróxido de calcio
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+
+Piritiona cíncica; (T-4)-bis[1-(hidroxi-κΟ)piridina-2(1H)-tionato-κS] de cinc (13463-41-7)
+Toxicidad específica en determinados órganos              Provoca daños en los órganos tras exposiciones prolongadas o repetidas.
+(STOT) – exposición repetida
+Peligro por aspiración                                 : No clasificado
+
+CEYS LECHADA PARA JUNTAS
+Viscosidad, cinemática                                    No aplicable
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Este producto no se considera nocivo para los organismos acuáticos o no que cause
+                                                         efectos adversos a largo plazo en el medio ambiente.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : No clasificado
+ambiente acuático
+
+2-octil-2H-isotiazol-3-ona (26530-20-1)
+CL50 - Peces [2]                                          0,122 mg/l
+
+CEr50 algas                                               0,15 mg/l
+
+NOEC crónico peces                                        0,022 mg/l
+
+
+08/05/2026 (Fecha de revisión)                                            ES - es                                                            8/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+2-octil-2H-isotiazol-3-ona (26530-20-1)
+NOEC crónico crustáceos                                   0,035 mg/l
+
+12.2. Persistencia y degradabilidad
+
+CEYS LECHADA PARA JUNTAS
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Cemento, portland, productos químicos (65997-15-1)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+dihidróxido de calcio
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Piritiona cíncica; (T-4)-bis[1-(hidroxi-κΟ)piridina-2(1H)-tionato-κS] de cinc (13463-41-7)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+2-octil-2H-isotiazol-3-ona (26530-20-1)
+Persistencia y degradabilidad                             No fácilmente degradable
+
+Cuarzo (SiO2) (14808-60-7)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+
+2-octil-2H-isotiazol-3-ona (26530-20-1)
+Coeficiente de partición n-octanol/agua (Log Kow)         2,61 25ºC
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+No se dispone de información adicional
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Respetar la normativa vigente en materia de eliminación de residuos sólidos. Eliminar de
+productos/envases                                  acuerdo con la normativa oficial.
+Información adicional                            : No reutilizar los recipientes vacíos.
+Información sobre residuos ecológicos            : Los residuos del producto se consideran tan peligrosos como el mismo producto con el
+                                                   potencial de impactar el medio ambiente de la misma manera. Considere la gestión y
+                                                   eliminación de los residuos como se define para el propio producto.
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                              9/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                             IMDG                           IATA                           ADN                            RID
+
+14.1. Número ONU o número ID
+El producto no es peligroso de conformidad con la normativa aplicable al transporte
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+         No regulado                      No regulado                    No regulado                    No regulado                   No regulado
+
+14.3. Clase(s) de peligro para el transporte
+         No regulado                      No regulado                    No regulado                    No regulado                   No regulado
+
+14.4. Grupo de embalaje
+         No regulado                      No regulado                    No regulado                    No regulado                   No regulado
+
+14.5. Peligros para el medio ambiente
+         No regulado                      No regulado                    No regulado                    No regulado                   No regulado
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+No regulado
+
+Transporte marítimo
+No regulado
+
+Transporte aéreo
+No regulado
+
+Transporte por vía fluvial
+No regulado
+
+Transporte ferroviario
+No regulado
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+Normativa de la UE
+
+Anexo XVII de REACH (Lista de restricciones)
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en                 Título o descripción de la entrada
+
+3(b)                             2-octil-2H-isotiazol-3-ona   Sustancias o mezclas que reúnan los criterios de cualquiera de las siguientes clases o
+                                                              categorías de peligro establecidas en el anexo I del Reglamento (CE) n° 1272/2008:
+                                                              Clases de peligro 3.1 a 3.6, 3.7 efectos adversos sobre la función sexual y la fertilidad o
+                                                              sobre el desarrollo, 3.8 efectos distintos de los narcóticos, 3.9 y 3.10
+
+
+
+
+08/05/2026 (Fecha de revisión)                                              ES - es                                                                    10/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en                 Título o descripción de la entrada
+
+3(c)                             2-octil-2H-isotiazol-3-ona   Sustancias o mezclas que reúnan los criterios de cualquiera de las siguientes clases o
+                                                              categorías de peligro establecidas en el anexo I del Reglamento (CE) n° 1272/2008:
+                                                              Clase de peligro 4.1
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+No contiene ninguna sustancia incluida en la lista de sustancias candidatas de REACH
+
+Regulación PIC (consentimiento fundamentado previo)
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Reglamento sobre el ozono (2024/590)
+No incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590)
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento (CE) del Consejo para el control de productos de doble uso
+No contiene sustancias sujetas al REGLAMENTO (CE) DEL CONSEJO para el control de productos de doble uso
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ACGIH                            Asociación Estadounidense de Higienistas Industriales, EE. UU.
+
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+CLP                              Reglamento (CE) n° 1272/2008 sobre clasificación, etiquetado y envasado
+
+DQO                              Demanda química de oxígeno (DQO)
+
+CSA                              Evaluación de la seguridad química
+
+DMEL                             Nivel derivado con efecto mínimo
+
+
+
+08/05/2026 (Fecha de revisión)                                             ES - es                                                                 11/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+AE                               Alterador endocrino
+
+EN                               Norma europea
+
+CER                              Catálogo europeo de residuos
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+Log Kow                          Coeficiente de partición n-octanol/agua (Log Kow)
+
+Log Pow                          Coeficiente de partición n-octanol/agua (Log Pow)
+
+MAK                              concentración máxima en el lugar de trabajo
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+N.E.P                            No especificado en otra parte
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+OSHA                             Agencia Federal de Higiene y Seguridad Profesional del Departamento de Trabajo de los Estados Unidos
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+EPI                              Equipos de protección personal
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+TF                               Función técnica
+
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+TWA                              Concentración media ponderada en el tiempo
+
+COV                              Compuestos orgánicos volátiles
+
+mPmB                             Muy persistente y muy bioacumulable
+
+UFI                              Identificador único de fórmula
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 2 (Inhalación)        Toxicidad aguda (por inhalación), categoría 2
+
+Acute Tox. 3 (Cutánea)           Toxicidad aguda (cutánea), categoría 3
+
+
+08/05/2026 (Fecha de revisión)                                             ES - es                                                      12/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 3 (Oral)              Toxicidad aguda (oral), categoría 3
+
+Acute Tox. No clasificado        Toxicidad aguda (cutánea) No clasificado
+(Cutánea)
+
+Acute Tox. No clasificado Toxicidad aguda (inhalación:polvo,niebla) No clasificado
+(Inhalación: polvo, niebla)
+
+Acute Tox. No clasificado        Toxicidad aguda (oral) No clasificado
+(Oral)
+
+Aquatic Acute 1                  Peligroso para el medio ambiente acuático – Peligro agudo, categoría 1
+
+Aquatic Acute No                 Peligroso para el medio ambiente acuático – Peligro agudo No clasificado
+clasificado
+
+Aquatic Chronic 1                Peligroso para el medio ambiente acuático – Peligro crónico, categoría 1
+
+EUH208                           Contiene {0|message≤nombre de la sustancia sensibilizante>|fieldvalue=_SENSITIZER_COMPONENTS}. Puede
+                                 provocar una reacción alérgica.
+
+Eye Dam. 1                       Lesiones oculares graves o irritación ocular, categoría 1
+
+Repr. 1B                         Toxicidad para la reproducción, categoría 1B
+
+Skin Corr. 1                     Irritación o corrosión cutáneas, categoría 1
+
+Skin Irrit. 2                    Irritación o corrosión cutáneas, categoría 2
+
+Skin Sens. 1A                    Sensibilización cutánea, categoría 1A
+
+Skin Sens. 1B                    Sensibilización cutánea, categoría 1B
+
+STOT RE 1                        Toxicidad específica en determinados órganos – Exposiciones repetidas, categoría 1
+
+STOT RE No clasificado           Toxicidad específica en determinados órganos (exposiciones repetidas) No clasificado
+
+STOT SE 3                        Toxicidad específica en determinados órganos – Exposición única, categoría 3, irritación de las vías respiratorias
+
+H301                             Tóxico en caso de ingestión.
+
+H311                             Tóxico en contacto con la piel.
+
+H314                             Provoca quemaduras graves en la piel y lesiones oculares graves.
+
+H315                             Provoca irritación cutánea.
+
+H317                             Puede provocar una reacción alérgica en la piel.
+
+H318                             Provoca lesiones oculares graves.
+
+H330                             Mortal en caso de inhalación.
+
+H335                             Puede irritar las vías respiratorias.
+
+H360D                            Puede dañar al feto.
+
+H372                             Provoca daños en los órganos tras exposiciones prolongadas o repetidas.
+
+H400                             Muy tóxico para los organismos acuáticos.
+
+H410                             Muy tóxico para los organismos acuáticos, con efectos duraderos.
+
+EUH071                           Corrosivo para las vías respiratorias.
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Skin Irrit. 2                    H315                          Criterio experto
+
+Eye Dam. 1                       H318                          Conforme a datos obtenidos de ensayos
+
+Skin Sens. 1                     H317                          Método de cálculo
+
+
+
+08/05/2026 (Fecha de revisión)                                               ES - es                                                                  13/14
+CEYS LECHADA PARA JUNTAS
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+STOT SE 3                        H335                     Método de cálculo
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+08/05/2026 (Fecha de revisión)                                          ES - es                                                                14/14
+

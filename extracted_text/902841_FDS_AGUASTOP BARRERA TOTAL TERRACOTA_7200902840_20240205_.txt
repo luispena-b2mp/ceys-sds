@@ -1,0 +1,879 @@
+                                         AGUASTOP BARRERA TOTAL TERRACOTA
+                                         Ficha de Datos de Seguridad
+                                         según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                         Fecha de emisión: 29/01/2021 Fecha de revisión: 05/02/2024 Reemplaza la versión de: 29/01/2021 Versión: 5.0
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                   :   Mezcla
+Nombre comercial                                     :   AGUASTOP BARRERA TOTAL TERRACOTA
+UFI                                                  :   DAWY-9F5F-950U-5X55
+Código de producto                                   :   902840, 902841, 902842
+Tipo de producto                                     :   adhesivos
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+1.2.1. Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                           : Uso por el consumidor
+Uso de la sustancia/mezcla                           : Pintura antihumedad
+
+1.2.2. Usos desaconsejados
+Restricciones de utilización                         : No utilizar para usos diferentes de aquellos para los que el producto fue diseñado
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+
+Fabricante                                                                 Distribuidor
+AC Marca Adhesives, S.A.                                                   AC Marca Chile, Ltda.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297                          Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                    Providencia., Santiago
+T +34 93 260 68 00, F +34 93 260 68 98                                     Chile
+reach@grupoacmarca.com                                                     T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                           infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona            Organismo/Empresa                          Dirección                         Número de                     Comentario
+                                                                                                  emergencia
+Chile                CITUC                                      Avda. Libertador Bernardo         2-2635 38 00
+                     CENTRO DE INFORMACIÓN                      O'Higgins 340
+                     TOXICOLOGICA DE LA PONTIFICIA              Santiago de Chile
+                     UNIVERSIDAD CATÓLICA DE CHILE
+
+España               Servicio de Información Toxicológica       C/José Echegaray nº4              +34 91 562 04 20              (solo emergencias
+                     Instituto Nacional de Toxicología y        28232 Las Rozas de Madrid         +34 91 411 26 76              toxicológicas),
+                     Ciencias Forenses, Departamento de                                           (teléfono solo para           Información en
+                     Madrid                                                                       médicos)                      español (24h/365
+                                                                                                                                días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Sensibilización cutánea No clasificado
+Texto completo de las frases H y EUH: ver sección 16
+
+
+05/02/2024 (Fecha de revisión)                                       ES (español)                                                                      1/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Que se sepa, el producto no presenta ningún riesgo especial siempre que se respeten las normas generales de higiene industrial.
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                         o especiales.
+Frases EUH                                             : EUH208 - Contiene Trimetoxivinilsilano; trimetoxi(vinil)silano. Puede provocar una reacción
+                                                         alérgica.
+                                                         EUH211 - ¡Atención! Al utilizarse, pueden formarse gotas respirables peligrosas. No
+                                                         respirar el aerosol.
+
+Frases suplementarias                                  : No ingerir.
+Cierre de seguridad para niños                         : No aplicable
+Indicación de peligro detectable con el tacto          : No aplicable
+
+2.3. Otros peligros
+No contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+La mezcla no contiene sustancia(s) incluidas en la lista establecida con arreglo al artículo 59, apartado1, debido a sus propiedades de alteración
+endocrina, ni se ha identificado que tengan propiedades de alteración endocrina con arreglo a los criterios establecidos en el Reglamento Delegado
+(UE) 2017/2100 de la Comisión y en el Reglamento (UE) 2018/605 de la Comisión en una concentración igual o superior al 0,1%.
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.1. Sustancias
+No aplicable
+
+3.2. Mezclas
+
+Nombre                                                   Identificador de                %               Clasificación según Reglamento
+                                                         producto                                        (UE) n° 1272/2008 [CLP]
+Trimetoxivinilsilano; trimetoxi(vinil)silano             N° CAS: 2768-02-7               1,09 – 1,5      Flam. Liq. 3, H226
+                                                         N° CE: 220-449-8                                Acute Tox. 4 (Inhalación), H332
+                                                         N° Índice: 014-049-00-0                         Skin Sens. 1B, H317
+                                                                                                         STOT RE No clasificado
+
+Dióxido de titanio; [en forma de polvo que contenga el N° CAS: 13463-67-7                1–2             Carc. 2, H351
+1 % o más de partículas con un diámetro                N° CE: 236-675-5
+aerodinámico ≤ 10 μm]                                  N° Índice: 022-006-002
+                                                       REACH-no: 01-2119489379-
+                                                       17
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : En caso de malestar, consultar a un médico.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua.
+con la piel
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                               2/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Medidas de primeros auxilios en caso de contacto       : Aclarar los ojos con agua como medida de precaución.
+con los ojos
+Medidas de primeros auxilios en caso de ingestión      : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                 : Aunque no se dispone de datos acerca de una posible toxicidad para los seres humanos o
+                                                         los animales, la inhalación de este producto se considera peligrosa.
+Síntomas/efectos después de contacto con la piel       : Ninguno en condiciones normales.
+Síntomas/efectos después del contacto con el ojo       : Ninguno en condiciones normales.
+Síntomas/efectos después de ingestión                  : Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar flujos de agua potentes.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Sin riesgos de incendio.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+6.1.1. Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame.
+
+6.1.2. Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Absorber todo el producto vertido con arena o tierra. Confinar todo tipo de fugas o
+                                                         derrames mediante diques o productos absorbentes para evitar el desplazamiento y la
+                                                         entrada en el alcantarillado o cursos de agua. Detener la fuga, a ser posible sin exponerse
+                                                         a riesgos.
+Procedimientos de limpieza                             : Absorber el líquido derramado mediante un producto absorbente.
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                                  3/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : El puesto de trabajo ha de estar bien ventilado. Llevar un equipo de protección individual.
+Medidas de higiene                                     : No comer, beber ni fumar durante su utilización. Lavarse las manos después de cualquier
+                                                         manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+Condiciones de almacenamiento                          : Conservar en un lugar fresco. Proteger de la luz del sol.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+8.1.1 Valores límite nacionales de exposición profesional y biológicos
+
+Metanol (67-56-1)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                             Methanol
+
+IOEL TWA                                                 260 mg/m³
+
+                                                         200 ppm
+
+Comentarios                                              Skin
+
+Referencia normativa                                     COMMISSION DIRECTIVE 2006/15/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                             Metanol (Alcohol metílico)
+
+VLA-ED (OEL TWA)                                         266 mg/m³
+
+                                                         200 ppm
+
+Comentarios                                              Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                         cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                         medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                         control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                         VLB® (Agente químico que tiene Valor Límite Biológico), VLI (Agente químico para el que
+                                                         la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                     Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                             Metanol (Alcohol metílico)
+
+
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                                4/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Metanol (67-56-1)
+BLV                                                      15 mg/l Parámetro: Metanol - Medio: Orina - Momento de muestreo: Final de la jornada
+                                                         laboral - Notas: F (Fondo. El indicador está generalmente presente en cantidades
+                                                         detectables en personas no expuestas laboraboralmente. Estos niveles de fondo están
+                                                         considerados en el valor VLB), I (Significa que el indicador biológico es inespecífico
+                                                         puesto que puede encontrarse después de la exposición a otros agentes químicos)
+
+Referencia normativa                                     Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+1-Metoxi-2-propanol; éter monometílico de propilenglicol (107-98-2)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                             1-Methoxypropanol-2
+
+IOEL TWA                                                 375 mg/m³
+
+                                                         100 ppm
+
+IOEL STEL                                                568 mg/m³
+
+                                                         150 ppm
+
+Comentarios                                              Skin
+
+Referencia normativa                                     COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                             1-Metoxipropan-2-ol (Éter 1-metílico de propilenglicol)
+
+VLA-ED (OEL TWA)                                         375 mg/m³
+
+                                                         100 ppm
+
+VLA-EC (OEL STEL)                                        568 mg/m³
+
+                                                         150 ppm
+
+Comentarios                                              Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                         cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                         medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                         control biológico para poder cuantificar la cantidad global absorbida del contaminante.
+                                                         Para más información véase el Apartado 5 de este documento), VLI (Agente químico para
+                                                         el que la U.E. estableció en su día un valor límite indicativo. Todos estos agentes
+                                                         químicos figuran al menos en una de las directivas de valores límite indicativos publicadas
+                                                         hasta ahora (ver Anexo C. Bibliografía). Los estados miembros disponen de un tiempo
+                                                         fijado en dichas directivas para su transposición a los valores límites de cada país
+                                                         miembro. Una vez adoptados, estos valores tienen la misma validez que el resto de los
+                                                         valores adoptados por el país).
+
+Referencia normativa                                     Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+España - Valores límite de exposición profesional
+
+Nombre local                                             Dióxido de titanio
+
+VLA-ED (OEL TWA)                                         10 mg/m³
+
+Referencia normativa                                     Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+8.1.2. Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                    Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                         medición de los agentes químicos.
+
+
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                                5/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+8.1.3. Contaminantes del aire formados
+No se dispone de información adicional
+
+8.1.4. DNEL y PNEC
+No se dispone de información adicional
+
+8.1.5. Bandas de control
+No se dispone de información adicional
+
+8.2. Controles de la exposición
+8.2.1. Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado.
+
+8.2.2. Equipos de protección personal
+
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+8.2.2.1. Protección de los ojos y la cara
+
+Protección ocular:
+Utilice un protector facial
+
+8.2.2.2. Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas. Utilizar calzado de seguridad
+
+Protección de las manos:
+Utilizar guantes protectores
+
+8.2.2.3. Protección respiratoria
+Protección respiratoria:
+En caso de emisión de vapores: Media máscara desechable
+
+8.2.2.4. Peligros térmicos
+No se dispone de información adicional
+
+8.2.3. Controles de exposición medioambiental
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para uso particular.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   Naranja oscuro.
+Apariencia                                             :   Viscoso.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                              6/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   912 °C (valor estimado)
+Inflamabilidad                                         :   No inflamable.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   81 °C (valor estimado)
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   No disponible
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+9.2.1. Información relativa a las clases de peligro físico
+No se dispone de información adicional
+
+9.2.2. Otras características de seguridad
+No se dispone de información adicional
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+El producto no es reactivo en condiciones normales de utilización, almacenamiento y transporte.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Ninguna en las condiciones de almacenamiento y de manipulación recomendadas (véase la sección 7).
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+
+
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                          7/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+DL50 oral rata                                           > 5000 mg/kg de peso corporal Animal: rat, Animal sex: female, Guideline: OECD
+                                                         Guideline 425 (Acute Oral Toxicity: Up-and-Down Procedure), Guideline: EPA OPPTS
+                                                         870.1100 (Acute Oral Toxicity)
+
+DL50 oral                                                > 5000 mg/kg de peso corporal
+
+DL50 vía cutánea                                         > 10000 mg/kg de peso corporal
+
+CL50 Inhalación - Rata (Polvo/niebla)                    > 6820 mg/l
+Corrosión o irritación cutáneas                        : No clasificado
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+pH                                                       7
+Lesiones oculares graves o irritación ocular           : No clasificado
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+pH                                                       7
+Sensibilización respiratoria o cutánea                 : Sensibilización cutánea: No clasificado.
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+Grupo CIIC                                               2B - Posiblemente carcinógenico en humanos
+Toxicidad para la reproducción                         : No clasificado
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+NOAEL (animal/macho, F0/P)                               1000 mg/kg de peso corporal Animal: rat, Animal sex: male, Guideline: OECD Combined
+                                                         Repeated Dose and Reproductive / Developmental Toxicity Screening Test (Precursor
+                                                         Protocol of GL 422)
+
+NOAEL (animal/hembra, F0/P)                              250 mg/kg de peso corporal Animal: rat, Animal sex: female, Guideline: OECD Combined
+                                                         Repeated Dose and Reproductive / Developmental Toxicity Screening Test (Precursor
+                                                         Protocol of GL 422)
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+LOAEL (oral, rata, 90 días)                              62,5 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 422 (Combined
+                                                         Repeated Dose Toxicity Study with the Reproduction / Developmental Toxicity Screening
+                                                         Test)
+
+NOAEL (oral, rata, 90 días)                              < 62,5 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 422 (Combined
+                                                         Repeated Dose Toxicity Study with the Reproduction / Developmental Toxicity Screening
+                                                         Test)
+Peligro por aspiración                                 : No clasificado
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Viscosidad, cinemática                                   0,7 mm²/s Temp.: '20°C' Parameter: 'kinematic viscosity (in mm²/s)'
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+05/02/2024 (Fecha de revisión)                                         ES (español)                                                          8/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Este producto no se considera nocivo para los organismos acuáticos o no que cause
+                                                         efectos adversos a largo plazo en el medio ambiente.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : No clasificado
+ambiente acuático
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+CL50 - Peces [1]                                         > 100 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)
+
+CE50 - Crustáceos [1]                                    168,7 mg/l Test organisms (species): Daphnia magna
+
+CE50 72h - Algas [1]                                     > 957 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                         Scenedesmus subspicatus)
+
+LOEC (crónico)                                           52,4 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+NOEC (crónico)                                           28,1 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+CL50 - Peces [1]                                         155 mg/l Test organisms (species): other:Japanese Medaka
+
+CE50 - Crustáceos [1]                                    19,3 mg/l Test organisms (species): Daphnia magna
+
+CE50 - Crustáceos [2]                                    27,8 mg/l Test organisms (species): Daphnia magna
+
+CE50 - Otros organismos acuáticos [1]                    > 10000 mg/l waterflea
+
+CE50 - Otros organismos acuáticos [2]                    > 10000 mg/l
+
+CE50 72h - Algas [1]                                     > 100 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                         Raphidocelis subcapitata, Selenastrum capricornutum)
+
+NOEC (crónico)                                           ≥ 2,92 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+12.2. Persistencia y degradabilidad
+
+AGUASTOP BARRERA TOTAL TERRACOTA
+Persistencia y degradabilidad                            Rápidamente degradable
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Persistencia y degradabilidad                            Rápidamente degradable
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+Persistencia y degradabilidad                            Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Coeficiente de partición n-octanol/agua (Log Pow)        -0,82 Source: ECHA Registered substances
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+No se dispone de información adicional
+
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                               9/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+            ADR                          IMDG                           IATA                     ADN                           RID
+
+14.1. Número ONU o número ID
+El producto no es peligroso de conformidad con la normativa aplicable al transporte
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+        No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+14.3. Clase(s) de peligro para el transporte
+        No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+14.4. Grupo de embalaje
+        No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+14.5. Peligros para el medio ambiente
+        No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+No regulado
+
+Transporte marítimo
+No regulado
+
+Transporte aéreo
+No regulado
+
+Transporte por vía fluvial
+No regulado
+
+Transporte ferroviario
+No regulado
+
+
+
+
+05/02/2024 (Fecha de revisión)                                        ES (español)                                                          10/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+15.1.1. Normativa de la UE
+
+Anexo XVII de REACH (condiciones de las restricciones)
+No contiene ninguna sustancia incluida en el Anexo XVII de REACH (Condiciones de restricción)
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+No contiene ninguna sustancia incluida en la lista de sustancias candidatas de REACH
+
+Reglamento PIC
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Agotamiento de la capa de ozono
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 1005/2009 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento sobre productos de doble uso (428/2009)
+No contiene ninguna sustancia sujeta al REGLAMENTO (CE) N.º 428/2009 DEL CONSEJO, de 5 de mayo de 2009, por el que se establece un
+régimen comunitario de control de las exportaciones, la transferencia, el corretaje y el tránsito de productos de doble uso.
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.1.2. Normativas nacionales
+No se dispone de información adicional
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+
+
+05/02/2024 (Fecha de revisión)                                          ES (español)                                                            11/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+DQO                              Demanda química de oxígeno (DQO)
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+EN                               Norma europea
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+COV                              Compuestos orgánicos volátiles
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+N.E.P                            No especificado en otra parte
+
+mPmB                             Muy persistente y muy bioacumulable
+
+ED                               Propiedades de alteración endocrina
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 4 (Inhalación)        Toxicidad aguda (por inhalación), categoría 4
+
+Carc. 2                          Carcinogenicidad, categoría 2
+
+EUH208                           Contiene Trimetoxivinilsilano; trimetoxi(vinil)silano. Puede provocar una reacción alérgica.
+
+EUH211+EUH212                    ¡Atención! Al utilizarse, pueden formarse gotas respirables peligrosas. Una vez endurecido, si se lija, puede formarse
+                                 polvo respirable peligroso. No respirar el aerosol ni el polvo.
+
+Flam. Liq. 3                     Líquidos inflamables, categoría 3
+
+H226                             Líquidos y vapores inflamables.
+
+H317                             Puede provocar una reacción alérgica en la piel.
+
+
+
+05/02/2024 (Fecha de revisión)                                            ES (español)                                                               12/13
+AGUASTOP BARRERA TOTAL TERRACOTA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Texto íntegro de las frases H y EUH:
+H332                             Nocivo en caso de inhalación.
+
+H351                             Se sospecha que provoca cáncer.
+
+Skin Sens. 1B                    Sensibilización cutánea, categoría 1B
+
+STOT RE No clasificado           Toxicidad específica en determinados órganos (exposiciones repetidas) No clasificado
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Skin Sens. No clasificado                                    Criterio experto
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+05/02/2024 (Fecha de revisión)                                           ES (español)                                                          13/13
+

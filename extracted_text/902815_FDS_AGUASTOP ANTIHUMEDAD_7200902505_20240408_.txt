@@ -1,0 +1,1007 @@
+                                         AGUASTOP ANTIHUMEDAD
+                                         Ficha de Datos de Seguridad
+                                         según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                         Fecha de emisión: 02/04/2024 Fecha de revisión: 08/04/2024 Reemplaza la versión de: 02/04/2024 Versión: 3.0
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                   :   Mezcla
+Nombre comercial                                     :   AGUASTOP ANTIHUMEDAD
+UFI                                                  :   Y3GM-EKVG-420W-99ME
+Código de producto                                   :   902815, 902816
+Tipo de producto                                     :   Pintura
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+1.2.1. Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                           : Uso por el consumidor
+
+1.2.2. Usos desaconsejados
+Restricciones de utilización                         : No utilizar para usos diferentes de aquellos para los que el producto fue diseñado
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+
+Fabricante                                                                 Distribuidor
+AC Marca Adhesives, S.A.                                                   AC Marca Chile, Ltda.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297                          Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                    Providencia., Santiago
+T +34 93 260 68 00, F +34 93 260 68 98                                     Chile
+reach@grupoacmarca.com                                                     T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                           infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Organismo/Empresa                          Dirección                         Número de                    Comentario
+                                                                                                   emergencia
+España                Servicio de Información Toxicológica       C/José Echegaray nº4              +34 91 562 04 20             (solo emergencias
+                      Instituto Nacional de Toxicología y        28232 Las Rozas de Madrid         +34 91 411 26 76             toxicológicas),
+                      Ciencias Forenses, Departamento de                                           (teléfono solo para          Información en
+                      Madrid                                                                       médicos)                     español (24h/365
+                                                                                                                                días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Irritación o corrosión cutáneas, categoría 2                    H315
+Lesiones oculares graves o irritación ocular, categoría 1       H318
+Sensibilización cutánea, categoría 1                            H317
+Toxicidad específica en determinados órganos – Exposición       H335
+única, categoría 3, irritación de las vías respiratorias
+Peligro por aspiración, categoría 1                             H304
+Peligroso para el medio ambiente acuático – Peligro crónico,    H411
+categoría 2
+
+
+08/04/2024 (Fecha de revisión)                                         ES - es                                                                         1/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Puede irritar las vías respiratorias. Provoca irritación cutánea. Puede provocar una reacción alérgica en la piel. Provoca lesiones oculares graves.
+Puede ser mortal en caso de ingestión y penetración en las vías respiratorias. Tóxico para los organismos acuáticos, con efectos nocivos
+duraderos.
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                           :
+
+
+
+
+                                                             GHS05            GHS07          GHS08          GHS09
+Palabra de advertencia (CLP)                           : Peligro
+Contiene                                               : 2,4,7,9-tetrametildec-5-ino-4,7-diol; Cemento portland, Hidrocarburos, C10-C12, isoalcanos,
+                                                         <2% aromáticos
+Indicaciones de peligro (CLP)                          : H304 - Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.
+                                                         H315 - Provoca irritación cutánea.
+                                                         H317 - Puede provocar una reacción alérgica en la piel.
+                                                         H318 - Provoca lesiones oculares graves.
+                                                         H335 - Puede irritar las vías respiratorias.
+                                                         H411 - Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P261 - Evitar respirar los vapores, el aerosol.
+                                                         P280 - Llevar guantes de protección, equipo de protección para los ojos y la cara.
+                                                         P302+P352 - EN CASO DE CONTACTO CON LA PIEL: Lavar con abundante agua y
+                                                         jabón.
+                                                         P305+P351+P338 - EN CASO DE CONTACTO CON LOS OJOS: Enjuagar con agua
+                                                         cuidadosamente durante varios minutos. Quitar las lentes de contacto cuando estén
+                                                         presentes y pueda hacerse con facilidad. Proseguir con el lavado.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                         en caso de que no se haya consumido completamente..
+Frases EUH                                             : EUH211 - ¡Atención! Al rociar pueden formarse gotas respirables peligrosas. No respirar el
+                                                         aerosol o la niebla.
+Frases suplementarias                                  : No ingerir.
+Cierre de seguridad para niños                         : Aplicable
+Indicación de peligro detectable con el tacto          : Aplicable
+
+2.3. Otros peligros
+No contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+La mezcla no contiene sustancia/s incluida/s en la lista establecida conforme al artículo 59, apartado 1, del REACH por sus propiedades de
+alteración endocrina, o no se trata de sustancias/s con propiedades de alteración endocrina con arrego a los criterios establecidos en el
+Reglamento (UE) 2017/2100 de la Comisión Delegada o en el Reglamento (UE) 2018/605 de la Comisión en una concentración igual o superior a
+0,1%
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.1. Sustancias
+No aplicable
+
+
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                                   2/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+3.2. Mezclas
+
+Nombre                                                      Identificador de                %               Clasificación según Reglamento
+                                                            producto                                        (UE) n° 1272/2008 [CLP]
+Cemento, portland, productos químicos                       N° CAS: 65997-15-1              1,32 – 26,4     Skin Irrit. 2, H315
+sustancia con uno o varios límites nacionales de            N° CE: 266-043-4                                Eye Dam. 1, H318
+exposición en el lugar de trabajo (ES)                                                                      Skin Sens. 1B, H317
+                                                                                                            STOT SE 3, H335
+
+Hidrocarburos, C10-C12, isoalcanos, <2% aromáticos N° CE: 923-037-2                         25 – 30         Flam. Liq. 3, H226
+                                                   REACH-no: 01-2119471991-                                 Asp. Tox. 1, H304
+                                                   29                                                       Aquatic Chronic 2, H411
+
+Dióxido de titanio; [en forma de polvo que contenga el      N° CAS: 13463-67-7              2,6675 –        Carc. 2, H351
+1 % o más de partículas con un diámetro                     N° CE: 236-675-5                5,335
+aerodinámico ≤ 10 μm]                                       N° Índice: 022-006-002
+sustancia con uno o varios límites nacionales de            REACH-no: 01-2119489379-
+exposición en el lugar de trabajo (ES)                      17
+
+Polvo de combustión, cemento portland                       N° CAS: 68475-76-3              0,0264 – 1,32 Skin Irrit. 2, H315
+                                                            N° CE: 270-659-9                              Eye Dam. 1, H318
+                                                            REACH-no: 01-2119486767-                      Skin Sens. 1B, H317
+                                                            17                                            STOT SE 3, H335
+                                                                                                          STOT RE No clasificado
+
+(2-metoximetiletoxi)propanol                                N° CAS: 34590-94-8              1–2             Acute Tox. No clasificado (Inhalación:
+sustancia con uno o varios límites nacionales de            N° CE: 252-104-2                                vapor)
+exposición en el lugar de trabajo (ES); sustancia a la      REACH-no: 01-2119450011-
+que se aplica un límite comunitario de exposición en        60
+el lugar de trabajo
+
+2,4,7,9-tetrametildec-5-ino-4,7-diol                        N° CAS: 126-86-3                0,06 – 0,12     Eye Dam. 1, H318
+                                                            N° CE: 204-809-1                                Skin Sens. 1B, H317
+                                                                                                            Aquatic Chronic 3, H412
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : Llamar inmediatamente a un médico.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración. Llamar a un centro de información toxicológica o a un médico en caso de
+                                                     malestar.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua. Quitar las prendas contaminadas. En caso de irritación o
+con la piel                                          erupción cutánea: Consultar a un médico.
+Medidas de primeros auxilios en caso de contacto   : Aclarar cuidadosamente con agua durante varios minutos. Quitar las lentes de contacto, si
+con los ojos                                         lleva y resulta fácil. Seguir aclarando. Llamar inmediatamente a un médico.
+Medidas de primeros auxilios en caso de ingestión : No provocar el vómito. Llamar inmediatamente a un médico.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                   : Puede irritar las vías respiratorias.
+Síntomas/efectos después de contacto con la piel         : Irritación. Puede provocar una reacción alérgica en la piel. La exposición repetida puede
+                                                           provocar sequedad o formación de grietas en la piel.
+Síntomas/efectos después del contacto con el ojo         : Lesiones oculares graves.
+Síntomas/efectos después de ingestión                    : Riesgo de edema pulmonar.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+
+08/04/2024 (Fecha de revisión)                                            ES - es                                                                    3/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar flujos de agua potentes.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Sin riesgos de incendio.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+6.1.1. Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el
+                                                         aerosol. Evitar el contacto con los ojos y la piel.
+
+6.1.2. Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Recoger el vertido. Confinar todo tipo de fugas o derrames mediante diques o productos
+                                                         absorbentes para evitar el desplazamiento y la entrada en el alcantarillado o cursos de
+                                                         agua. Detener la fuga, a ser posible sin exponerse a riesgos.
+Procedimientos de limpieza                             : Absorber el líquido derramado mediante un producto absorbente.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : Utilizar únicamente en exteriores o en un lugar bien ventilado. Evitar respirar el polvo/el
+                                                         humo/el gas/la niebla/los vapores/el aerosol. Evitar el contacto con los ojos y la piel. Llevar
+                                                         un equipo de protección individual.
+
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                                      4/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Medidas de higiene                                     : Lavar las prendas contaminadas antes de volver a usarlas. Las prendas de trabajo
+                                                         contaminadas no podrán sacarse del lugar de trabajo. No comer, beber ni fumar durante su
+                                                         utilización. Lavarse las manos después de cualquier manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+Condiciones de almacenamiento                          : Guardar bajo llave. Almacenar en un lugar bien ventilado. Mantener el recipiente
+                                                         herméticamente cerrado.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+8.1.1 Valores límite nacionales de exposición profesional y biológicos
+
+(2-metoximetiletoxi)propanol (34590-94-8)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              (2-Methoxymethylethoxy)-propanol
+
+IOEL TWA                                                  308 mg/m³
+
+                                                          50 ppm
+
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Éter metílico de dipropilenglicol
+
+VLA-ED (OEL TWA)                                          308 mg/m³
+
+                                                          50 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                          VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Dióxido de titanio
+
+VLA-ED (OEL TWA)                                          10 mg/m³
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Cemento, portland, productos químicos (65997-15-1)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Cemento Portland
+
+VLA-ED (OEL TWA)                                          4 mg/m³
+
+
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                                   5/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Cemento, portland, productos químicos (65997-15-1)
+Comentarios                                               e (Este valor es para la materia particulada que no contenga amianto y menos de un 1%
+                                                          de sílice cristalina), d (Véase UNE EN 481: Atmósferas en los puestos de trabajo.
+                                                          Definición de las fracciones por el tamaño de las partículas para la medición de
+                                                          aerosoles).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2023. INSHT
+
+8.1.2. Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos.
+
+8.1.3. Contaminantes del aire formados
+No se dispone de información adicional
+
+8.1.4. DNEL y PNEC
+No se dispone de información adicional
+
+8.1.5. Bandas de control
+No se dispone de información adicional
+
+8.2. Controles de la exposición
+8.2.1. Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado.
+
+8.2.2. Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado. Fuente ocular con líquido adaptado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+8.2.2.1. Protección de los ojos y la cara
+Protección ocular:
+Utilizar protección para los ojos: Gafas químicas o gafas de seguridad
+
+8.2.2.2. Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas
+
+
+Protección de las manos:
+Utilizar guantes protectores
+
+8.2.2.3. Protección respiratoria
+
+Protección respiratoria:
+Llevar una máscara adecuada: Máscara combinada antigás/antipolvo con filtro de tipo
+
+8.2.2.4. Peligros térmicos
+No se dispone de información adicional
+
+8.2.3. Controles de exposición medioambiental
+
+Controles de exposición medioambiental:
+Evitar su liberación al medio ambiente.
+
+08/04/2024 (Fecha de revisión)                                           ES - es                                                                  6/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para uso particular.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   No disponible
+Apariencia                                             :   Viscoso.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   No inflamable.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   65 °C (valor estimado)
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   No disponible
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+9.2.1. Información relativa a las clases de peligro físico
+No se dispone de información adicional
+
+9.2.2. Otras características de seguridad
+No se dispone de información adicional
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+El producto no es reactivo en condiciones normales de utilización, almacenamiento y transporte.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Ninguna en las condiciones de almacenamiento y de manipulación recomendadas (véase la sección 7).
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+
+08/04/2024 (Fecha de revisión)                                           ES - es                      7/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+
+(2-metoximetiletoxi)propanol (34590-94-8)
+DL50 oral rata                                            > 5000 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 401 (Acute Oral
+                                                          Toxicity)
+
+DL50 cutánea rata                                         > 19020 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 402 (Acute
+                                                          Dermal Toxicity)
+
+DL50 cutáneo conejo                                       9510 mg/kg de peso corporal Animal: rabbit, Animal sex: male, Guideline: OECD
+                                                          Guideline 402 (Acute Dermal Toxicity)
+
+CL50 Inhalación - Rata                                    > 3000 mg/m³ Source: ECHA
+
+2,4,7,9-tetrametildec-5-ino-4,7-diol (126-86-3)
+DL50 oral rata                                            > 500 mg/kg de peso corporal Animal: rat, Guideline: other:Guide to Precautionary
+                                                          Labeling of Hazardous Chemicals, Seventh Edition - 1970, published by the
+                                                          Manufacturing Chemist´s Association
+
+DL50 cutánea rata                                         > 2000 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 402 (Acute
+                                                          Dermal Toxicity)
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+DL50 oral rata                                            > 5000 mg/kg de peso corporal Animal: rat, Animal sex: female, Guideline: OECD
+                                                          Guideline 425 (Acute Oral Toxicity: Up-and-Down Procedure), Guideline: EPA OPPTS
+                                                          870.1100 (Acute Oral Toxicity)
+
+DL50 oral                                                 > 5000 mg/kg de peso corporal
+
+DL50 vía cutánea                                          > 10000 mg/kg de peso corporal
+
+CL50 Inhalación - Rata (Polvo/niebla)                     > 6820 mg/l
+
+Polvo de combustión, cemento portland (68475-76-3)
+DL50 oral rata                                            > 1848 mg/kg de peso corporal Animal: rat, Guideline: other:, Remarks on results: other:
+
+DL50 cutánea rata                                         ≥ 2000 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 402 (Acute
+                                                          Dermal Toxicity)
+
+CL50 Inhalación - Rata                                    > 6,04 mg/l air Animal: rat, Guideline: OECD Guideline 436 (Acute Inhalation Toxicity:
+                                                          Acute Toxic Class Method)
+Corrosión o irritación cutáneas                        : Provoca irritación cutánea.
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+pH                                                        7
+
+Cemento, portland, productos químicos (65997-15-1)
+pH                                                        12
+Lesiones oculares graves o irritación ocular           : Provoca lesiones oculares graves.
+
+
+
+
+08/04/2024 (Fecha de revisión)                                            ES - es                                                                  8/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+pH                                                        7
+
+Cemento, portland, productos químicos (65997-15-1)
+pH                                                        12
+Sensibilización respiratoria o cutánea                 : Puede provocar una reacción alérgica en la piel.
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+Grupo CIIC                                                2B - Posiblemente carcinógenico en humanos
+Toxicidad para la reproducción                         : No clasificado
+Toxicidad específica en determinados órganos           : Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Cemento, portland, productos químicos (65997-15-1)
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Polvo de combustión, cemento portland (68475-76-3)
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+
+(2-metoximetiletoxi)propanol (34590-94-8)
+NOAEL (oral, rata, 90 días)                               1000 mg/kg de peso corporal Animal: rat, Guideline: other:KANPOGYO No.700,
+                                                          YAKUHATSU No. 1039.61, and KIKYKU No. 1014.
+
+NOAEL (cutáneo, rata/conejo, 90 días)                     2850 mg/kg de peso corporal Animal: rabbit, Animal sex: male, Guideline: OECD
+                                                          Guideline 411 (Subchronic Dermal Toxicity: 90-Day Study)
+
+2,4,7,9-tetrametildec-5-ino-4,7-diol (126-86-3)
+NOAEL (oral, rata, 90 días)                               ≈ 150 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 407 (Repeated
+                                                          Dose 28-Day Oral Toxicity in Rodents)
+
+Polvo de combustión, cemento portland (68475-76-3)
+LOAEC (inhalación, rata, polvo/niebla/humo, 90 días)      0,00509 mg/l air Animal: rat, Guideline: OECD Guideline 413 (Subchronic Inhalation
+                                                          Toxicity: 90-Day Study)
+
+NOAEC (inhalación, rata, polvo/niebla/humo, 90 días) ≥ 0,061 mg/l air Animal: rat, Guideline: OECD Guideline 413 (Subchronic Inhalation
+                                                     Toxicity: 90-Day Study)
+Peligro por aspiración                                 : Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+
+
+
+08/04/2024 (Fecha de revisión)                                            ES - es                                                              9/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Peligro a largo plazo (crónico) para el medio          : Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+ambiente acuático
+
+(2-metoximetiletoxi)propanol (34590-94-8)
+CL50 - Peces [1]                                          > 1000 mg/l Test organisms (species): Poecilia reticulata
+
+CE50 - Otros organismos acuáticos [1]                     1930 mg/l Test organisms (species): other aquatic crustacea:Acartia tonsa
+
+CE50 72h - Algas [1]                                      > 969 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                          Raphidocelis subcapitata, Selenastrum capricornutum)
+
+CE50 96h - Algas [1]                                      > 969 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                          Raphidocelis subcapitata, Selenastrum capricornutum)
+
+LOEC (crónico)                                            0,5 mg/l Test organisms (species): Daphnia magna Duration: '22 d'
+
+NOEC (crónico)                                            ≥ 0,5 mg/l Test organisms (species): Daphnia magna Duration: '22 d'
+
+2,4,7,9-tetrametildec-5-ino-4,7-diol (126-86-3)
+CL50 - Peces [1]                                          42 mg/l Test organisms (species): Cyprinus carpio
+
+CE50 - Crustáceos [1]                                     91 mg/l Test organisms (species): Daphnia magna
+
+CE50 72h - Algas [1]                                      15 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                          Raphidocelis subcapitata, Selenastrum capricornutum)
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+CL50 - Peces [1]                                          155 mg/l Test organisms (species): other:Japanese Medaka
+
+CE50 - Crustáceos [1]                                     19,3 mg/l Test organisms (species): Daphnia magna
+
+CE50 - Crustáceos [2]                                     27,8 mg/l Test organisms (species): Daphnia magna
+
+CE50 - Otros organismos acuáticos [1]                     > 10000 mg/l waterflea
+
+CE50 - Otros organismos acuáticos [2]                     > 10000 mg/l
+
+CE50 72h - Algas [1]                                      > 100 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                          Raphidocelis subcapitata, Selenastrum capricornutum)
+
+NOEC (crónico)                                            ≥ 2,92 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+Polvo de combustión, cemento portland (68475-76-3)
+CE50 72h - Algas [1]                                      22,4 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                          Scenedesmus subspicatus)
+
+CE50 72h - Algas [2]                                      28,2 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                          Scenedesmus subspicatus)
+
+12.2. Persistencia y degradabilidad
+
+AGUASTOP ANTIHUMEDAD
+Persistencia y degradabilidad                             Rápidamente degradable
+
+(2-metoximetiletoxi)propanol (34590-94-8)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+2,4,7,9-tetrametildec-5-ino-4,7-diol (126-86-3)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Dióxido de titanio; [en forma de polvo que contenga el 1 % o más de partículas con un diámetro aerodinámico ≤ 10 μm]
+(13463-67-7)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+
+
+08/04/2024 (Fecha de revisión)                                           ES - es                                                               10/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Cemento, portland, productos químicos (65997-15-1)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Polvo de combustión, cemento portland (68475-76-3)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Hidrocarburos, C10-C12, isoalcanos, <2% aromáticos
+Persistencia y degradabilidad                             Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+No se dispone de información adicional
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+No se dispone de información adicional
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                          IMDG                           IATA                     ADN                           RID
+
+14.1. Número ONU o número ID
+El producto no es peligroso de conformidad con la normativa aplicable al transporte
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+         No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+14.3. Clase(s) de peligro para el transporte
+         No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+14.4. Grupo de embalaje
+         No regulado                   No regulado                   No regulado               No regulado                  No regulado
+
+
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                             11/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+             ADR                            IMDG                         IATA                     ADN                           RID
+
+14.5. Peligros para el medio ambiente
+         No regulado                     No regulado                 No regulado               No regulado                  No regulado
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+No regulado
+
+Transporte marítimo
+No regulado
+
+Transporte aéreo
+No regulado
+
+Transporte por vía fluvial
+No regulado
+
+Transporte ferroviario
+No regulado
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+15.1.1. Normativa de la UE
+
+Anexo XVII de REACH (condiciones de las restricciones)
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en
+
+3(b)                             AGUASTOP ANTIHUMEDAD
+
+3(c)                             AGUASTOP ANTIHUMEDAD
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+No contiene ninguna sustancia incluida en la lista de sustancias candidatas de REACH
+
+Reglamento PIC
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Agotamiento de la capa de ozono
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 1005/2009 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento sobre productos de doble uso (428/2009)
+No contiene ninguna sustancia sujeta al REGLAMENTO (CE) N.º 428/2009 DEL CONSEJO, de 5 de mayo de 2009, por el que se establece un
+régimen comunitario de control de las exportaciones, la transferencia, el corretaje y el tránsito de productos de doble uso.
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                            12/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.1.2. Normativas nacionales
+No se dispone de información adicional
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+DQO                              Demanda química de oxígeno (DQO)
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+EN                               Norma europea
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+
+08/04/2024 (Fecha de revisión)                                             ES - es                                                              13/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+COV                              Compuestos orgánicos volátiles
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+N.E.P                            No especificado en otra parte
+
+mPmB                             Muy persistente y muy bioacumulable
+
+ED                               Propiedades de alteración endocrina
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. No clasificado        Toxicidad aguda (inhalación: vapor) No clasificado
+(Inhalación: vapor)
+
+Aquatic Chronic 2                Peligroso para el medio ambiente acuático – Peligro crónico, categoría 2
+
+Aquatic Chronic 3                Peligroso para el medio ambiente acuático – Peligro crónico, categoría 3
+
+Asp. Tox. 1                      Peligro por aspiración, categoría 1
+
+Carc. 2                          Carcinogenicidad, categoría 2
+
+EUH211                           ¡Atención! Al rociar pueden formarse gotas respirables peligrosas. No respirar el aerosol o la niebla.
+
+Eye Dam. 1                       Lesiones oculares graves o irritación ocular, categoría 1
+
+Flam. Liq. 3                     Líquidos inflamables, categoría 3
+
+H226                             Líquidos y vapores inflamables.
+
+H304                             Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.
+
+H315                             Provoca irritación cutánea.
+
+H317                             Puede provocar una reacción alérgica en la piel.
+
+H318                             Provoca lesiones oculares graves.
+
+H335                             Puede irritar las vías respiratorias.
+
+H351                             Se sospecha que provoca cáncer.
+
+H411                             Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+H412                             Nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+
+Skin Irrit. 2                    Irritación o corrosión cutáneas, categoría 2
+
+Skin Sens. 1B                    Sensibilización cutánea, categoría 1B
+
+STOT RE No clasificado           Toxicidad específica en determinados órganos (exposiciones repetidas) No clasificado
+
+STOT SE 3                        Toxicidad específica en determinados órganos – Exposición única, categoría 3, irritación de las vías respiratorias
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Skin Irrit. 2                    H315                          Método de cálculo
+
+Eye Dam. 1                       H318                          Método de cálculo
+
+Skin Sens. 1                     H317                          Método de cálculo
+
+STOT SE 3                        H335                          Método de cálculo
+
+Asp. Tox. 1                      H304                          Criterio experto
+
+Aquatic Chronic 2                H411                          Método de cálculo
+
+
+08/04/2024 (Fecha de revisión)                                               ES - es                                                                  14/15
+AGUASTOP ANTIHUMEDAD
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+08/04/2024 (Fecha de revisión)                                          ES - es                                                                15/15
+

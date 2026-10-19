@@ -1,0 +1,1036 @@
+                                         ESPUMAX PROYECTABLE PISTOLA
+                                         Ficha de Datos de Seguridad
+                                         según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                         Fecha de emisión: 27/06/2024 Versión: 1.0
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                   :   Mezcla
+Nombre comercial                                     :    ESPUMAX PROYECTABLE PISTOLA
+UFI                                                  :   9D33-NFG8-T108-YNEK
+Código de producto                                   :   504824
+Tipo de producto                                     :   adhesivos
+Vaporizador                                          :   Aerosol
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                           : Uso por el consumidor
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+Proveedor                                                                 Distribuidor
+AC Marca Adhesives, S.A.                                                  AC Marca Chile, Ltda.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297                         Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                   Providencia., Santiago
+T +34 93 260 68 00, F +34 93 260 68 98                                    Chile
+reach@grupoacmarca.com                                                    T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                          infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Organismo/Empresa                         Dirección                        Número de                     Comentario
+                                                                                                 emergencia
+España                Servicio de Información Toxicológica      C/José Echegaray nº4             +34 91 562 04 20              (solo emergencias
+                      Instituto Nacional de Toxicología y       28232 Las Rozas de Madrid        +34 91 411 26 76              toxicológicas),
+                      Ciencias Forenses, Departamento de                                         (teléfono solo para           Información en
+                      Madrid                                                                     médicos)                      español (24h/365
+                                                                                                                               días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Aerosol, categoría 1                                           H222;H229
+Toxicidad para la reproducción — Categoría adicional —         H362
+Efectos sobre la lactancia o a través de ella
+Peligroso para el medio ambiente acuático – Peligro crónico,   H413
+categoría 4
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Recipiente a presión: Puede reventar si se calienta. Aerosol extremadamente inflamable. Puede perjudicar a los niños alimentados con leche
+materna. Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+
+27/06/2024 (Fecha de emisión)                                          ES - es                                                                     1/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                           :
+
+
+
+
+                                                             GHS02
+Palabra de advertencia (CLP)                           : Peligro
+Contiene                                               : Alcanos, C14-17, cloro; parafinas cloradas, C14-17
+Indicaciones de peligro (CLP)                          : H222 - Aerosol extremadamente inflamable.
+                                                         H229 - Recipiente a presión: Puede reventar si se calienta.
+                                                         H362 - Puede perjudicar a los niños alimentados con leche materna.
+                                                         H413 - Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P210 - Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y
+                                                         de cualquier otra fuente de ignición. No fumar.
+                                                         P211 - No pulverizar sobre una llama abierta u otra fuente de ignición.
+                                                         P251 - No perforar ni quemar, incluso después de su uso.
+                                                         P271 - Utilizar únicamente en exteriores o en un lugar bien ventilado.
+                                                         P280 - Llevar guantes de protección, equipo de protección para los ojos y la cara.
+                                                         P410+P412 - Proteger de la luz del sol. No exponer a temperaturas superiores a 50 °C, 122
+                                                         °F.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos.
+Frases EUH                                             : EUH204 - Contiene isocianatos. Puede provocar una reacción alérgica.
+Cierre de seguridad para niños                         : No aplicable
+Indicación de peligro detectable con el tacto          : No aplicable
+
+2.3. Otros peligros
+Contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del         Alcanos, C14-17, Cloro (85535-85-9), Octametilciclotetrasiloxano (556-67-2)(¹)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del        Alcanos, C14-17, Cloro (85535-85-9), Octametilciclotetrasiloxano (556-67-2)(¹)
+Reglamento REACH, de conformidad con el anexo
+XIII
+(¹) Sustancia(s) añadida(s) si su concentración <0,1% con carácter voluntario
+
+La mezcla no contiene sustancia(s) que no se ha(n) incluido en la lista establecida con arreglo al artículo 59, apartado 1, por sus propiedades de
+alteración endocrina, o sustancia(s) no identificada(s) como alterador(es) endocrino(s) con arreglo a los criterios establecidos en el Reglamento
+Delegado (UE) 2017/2100 de la Comisión o en el Reglamento (UE) 2018/605 de la Comisión en una concentración igual o superior al 0,1 %
+
+Componente
+Sustancia(s) no incluida(s) en la lista establecida con Alcanos, C14-17, Cloro (85535-85-9), Octametilciclotetrasiloxano (556-67-2)(¹)
+arreglo al artículo 59, apartado 1, de REACH por sus
+propiedades de alteración endocrina, o por no tener
+propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado
+(UE) 2017/2100 de la Comisión o en el Reglamento
+(UE) 2018/605 de la Comisión.
+(¹) Sustancia(s) añadida(s) si su concentración <0,1% con carácter voluntario
+
+
+
+
+27/06/2024 (Fecha de emisión)                                           ES - es                                                                   2/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.2. Mezclas
+
+Nombre                                                    Identificador de              %               Clasificación según Reglamento
+                                                          producto                                      (UE) n° 1272/2008 [CLP]
+dimetileter|éter dimetílico                               N° CAS: 115-10-6              2,5 – 10        Flam. Gas 1, H220
+sustancia con uno o varios límites nacionales de          N° CE: 204-065-8                              Press. Gas (Comp.), H280
+exposición en el lugar de trabajo (ES); sustancia a la    N° Índice: 603-019-00-8
+que se aplica un límite comunitario de exposición en      REACH-no: 01-2119472128-
+el lugar de trabajo                                       37
+
+Propano                                                   N° CAS: 74-98-6               2,5 – 10        Flam. Gas 1A, H220
+sustancia con uno o varios límites nacionales de          N° CE: 200-827-9                              Press. Gas
+exposición en el lugar de trabajo (ES)                    N° Índice: 601-003-00-5
+
+Alcanos, C14-17, Cloro                                    N° CAS: 85535-85-9            2,5 – 5         Lact., H362
+en la lista de candidatas REACH (Parafinas cloradas       N° CE: 287-477-0                              Aquatic Acute 1, H400
+de cadena media (PCCM))                                   N° Índice: 602-095-00-X                       Aquatic Chronic 1, H410
+Substancia PBT; Sustancia mPmB
+
+Productos de reacción de tricloruro de fosforilo y 2-     N° CAS: 1244733-77-4          2,5 – 5         Acute Tox. 4 (Oral), H302
+metiloxirano                                              N° CE: 807-935-0                              Aquatic Chronic 3, H412
+                                                          REACH-no: 01-2119486772-
+                                                          26
+
+Diisocianato de m-tolilideno                              N° CAS: 26471-62-5            0,01 – 0,1      Acute Tox. 2 (Inhalación), H330
+                                                          N° CE: 247-722-4                              Skin Irrit. 2, H315
+                                                          N° Índice: 615-006-00-4                       Eye Irrit. 2, H319
+                                                                                                        Resp. Sens. 1, H334
+                                                                                                        Skin Sens. 1, H317
+                                                                                                        Carc. 2, H351
+                                                                                                        STOT SE 3, H335
+                                                                                                        Aquatic Chronic 3, H412
+
+Octametilciclotetrasiloxano                               N° CAS: 556-67-2              0,01 – 0,1      Flam. Liq. 3, H226
+en la lista de candidatas REACH                           N° CE: 209-136-7                              Repr. 2, H361f
+sustancia a la que se aplica un límite comunitario de     N° Índice: 014-018-00-1                       Aquatic Acute No clasificado
+exposición en el lugar de trabajo                         REACH-no: 01-2119529238-                      Aquatic Chronic 1, H410 (M=10)
+                                                          36
+
+
+Límites de concentración específicos:
+Nombre                                                    Identificador de producto     Límites de concentración específicos (%)
+
+Diisocianato de m-tolilideno                              N° CAS: 26471-62-5            (0,1 ≤ C ≤ 100) Resp. Sens. 1; H334
+                                                          N° CE: 247-722-4
+                                                          N° Índice: 615-006-00-4
+Producto sujeto al Artículo 1.1.3.7 del reglamento CLP. Las normas de información de los componentes se modifican en este caso.
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : EN CASO DE exposición manifiesta o presunta: Consultar a un médico.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua.
+con la piel
+Medidas de primeros auxilios en caso de contacto   : Aclarar los ojos con agua como medida de precaución.
+con los ojos
+Medidas de primeros auxilios en caso de ingestión : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+
+27/06/2024 (Fecha de emisión)                                           ES - es                                                               3/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Medidas de primeros auxilios para el personal de       : Los trabajadores de primeros auxilios deben llevar un equipo de protección individual
+primeros auxilios                                        adecuado.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                 : Aunque no se dispone de datos acerca de una posible toxicidad para los seres humanos o
+                                                         los animales, la inhalación de este producto se considera peligrosa.
+Síntomas/efectos después de contacto con la piel       : La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+Síntomas/efectos después del contacto con el ojo       : Ninguno en condiciones normales.
+Síntomas/efectos después de ingestión                  : Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar flujos de agua potentes.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Aerosol extremadamente inflamable.
+Peligro de explosión                                   : Recipiente a presión: Puede reventar si se calienta.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. No exponer a llamas descubiertas o chispas y abstenerse de
+                                                         fumar. No respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol.
+
+Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Recoger el vertido. Confinar todo tipo de fugas o derrames mediante diques o productos
+                                                         absorbentes para evitar el desplazamiento y la entrada en el alcantarillado o cursos de
+                                                         agua. Detener la fuga, a ser posible sin exponerse a riesgos.
+Procedimientos de limpieza                             : Recoger mecánicamente el producto.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+
+27/06/2024 (Fecha de emisión)                                           ES - es                                                                     4/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : El puesto de trabajo ha de estar bien ventilado. Llevar un equipo de protección individual.
+                                                         Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de
+                                                         cualquier otra fuente de ignición. No fumar. No pulverizar sobre una llama abierta u otra
+                                                         fuente de ignición. No perforar ni quemar, incluso después de su uso. Solicitar instrucciones
+                                                         especiales antes del uso. Evitar el contacto durante el embarazo/la lactancia. No respirar el
+                                                         polvo/el humo/el gas/la niebla/los vapores/el aerosol.
+Medidas de higiene                                     : No comer, beber ni fumar durante su utilización. Lavarse las manos después de cualquier
+                                                         manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+Condiciones de almacenamiento                          : Proteger de la luz del sol. No exponer a temperaturas superiores a 50 °C/122 °F.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+Valores límite nacionales de exposición profesional y biológicos
+
+dimetileter|éter dimetílico (115-10-6)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Dimethylether
+
+IOEL TWA                                                  1920 mg/m³
+
+                                                          1000 ppm
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Metiléter
+
+VLA-ED (OEL TWA)                                          1920 mg/m³
+
+                                                          10 ppm
+
+Comentarios                                               VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Propano (74-98-6)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Propano
+
+VLA-ED (OEL TWA)                                          1000 ppm Hidrocarburos alifáticos alcanos (C1 – C4) y sus mezclas, gases (Butano;
+                                                          Etano; Metano; Propano)
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+
+
+27/06/2024 (Fecha de emisión)                                           ES - es                                                                       5/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Octametilciclotetrasiloxano (556-67-2)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+IOEL TWA                                                  25 mg/m³
+
+                                                          10 ppm
+
+Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos. Deben usarse detectores de gases siempre que
+                                                          puedan liberarse gases/vapores inflamables.
+
+8.2. Controles de la exposición
+Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado. Equipo/iluminación antichispa y antideflagrante. Utilizar equipos eléctricos/mecánicos con
+derivación a tierra. Manipule el producto en un sistema cerrado.
+
+Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+Protección de los ojos y la cara
+Protección ocular:
+Utilice un protector facial
+
+Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas. Utilizar calzado de seguridad
+
+Protección de las manos:
+Utilizar guantes protectores
+
+Protección respiratoria
+Protección respiratoria:
+Llevar una máscara adecuada
+
+Controles de exposición medioambiental
+Controles de exposición medioambiental:
+Evitar su liberación al medio ambiente.
+Control de la exposición del consumidor:
+Evitar el contacto durante el embarazo/la lactancia. No se requiere equipo de protección personal (PPE) cuando se manipulan envases para uso
+particular.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          : Líquido
+Color                                                  : Amarillo claro.
+
+27/06/2024 (Fecha de emisión)                                              ES - es                                                                6/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Apariencia                                             :   Aerosol extremadamente inflamable.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   Aerosol extremadamente inflamable.
+Propiedades explosivas                                 :   Recipiente a presión: Puede reventar si se calienta.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   No aplicable
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   No disponible
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+Información relativa a las clases de peligro físico
+% de compuestos inflamables                            : 40,1 %
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+Aerosol extremadamente inflamable. Recipiente a presión: Puede reventar si se calienta.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Evitar el contacto con superficies calientes. Calor. Sin llamas ni chispas. Eliminar cualquier fuente de ignición.
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+
+
+
+
+27/06/2024 (Fecha de emisión)                                             ES - es                                           7/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+dimetileter|éter dimetílico (115-10-6)
+CL50 Inhalación - Rata [ppm]                              164000 ppm Animal: rat, Animal sex: male, 95% CL: 142000 - 203000
+
+Propano (74-98-6)
+CL50 Inhalación - Rata [ppm]                              800000 ppm Source: ECHA
+
+Productos de reacción de tricloruro de fosforilo y 2-metiloxirano (1244733-77-4)
+CL50 Inhalación - Rata                                    > 7 mg/l air Animal: rat, Guideline: OECD Guideline 403 (Acute Inhalation Toxicity),
+                                                          Guideline: OECD Guideline 433 draft (Acute Inhalation Toxicity: Fixed Concentration
+                                                          Procedure) (not officially approved)
+
+Octametilciclotetrasiloxano (556-67-2)
+DL50 oral rata                                            > 4800 mg/kg de peso corporal Animal: rat, Animal sex: male, Guideline: OECD Guideline
+                                                          401 (Acute Oral Toxicity)
+
+DL50 cutánea rata                                         2400 mg/kg
+
+CL50 Inhalación - Rata                                    36 mg/l air Animal: rat, Guideline: OECD Guideline 403 (Acute Inhalation Toxicity)
+Corrosión o irritación cutáneas                        : No clasificado
+Lesiones oculares graves o irritación ocular           : No clasificado
+Sensibilización respiratoria o cutánea                 : No clasificado
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+Toxicidad para la reproducción                         : Puede perjudicar a los niños alimentados con leche materna.
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición única
+
+Diisocianato de m-tolilideno (26471-62-5)
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+
+Octametilciclotetrasiloxano (556-67-2)
+NOAEC (inhalación, rata, vapor, 90 días)                  1,82 mg/l (método OCDE 453)
+Peligro por aspiración                                 : No clasificado
+
+ESPUMAX PROYECTABLE PISTOLA
+Vaporizador                                               Aerosol
+
+Octametilciclotetrasiloxano (556-67-2)
+Viscosidad, cinemática                                    1,6 mm²/s Temp.: '20°C' Parameter: 'kinematic viscosity (in mm²/s)'
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+ambiente acuático
+
+
+
+
+27/06/2024 (Fecha de emisión)                                             ES - es                                                                8/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+dimetileter|éter dimetílico (115-10-6)
+CL50 - Peces [1]                                          > 4,1 g/l Test organisms (species): Poecilia reticulata
+
+CE50 - Crustáceos [1]                                     > 4,4 g/l Test organisms (species): Daphnia magna
+
+CE50 96h - Algas [1]                                      154,917 mg/l Test organisms (species): other:green algae
+
+Propano (74-98-6)
+CL50 - Peces [1]                                          > 100 mg/l Source: IUCLID
+
+Productos de reacción de tricloruro de fosforilo y 2-metiloxirano (1244733-77-4)
+CL50 - Peces [1]                                          56,2 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)
+
+CE50 - Crustáceos [1]                                     209 mg/l Test organisms (species): Daphnia magna
+
+CE50 72h - Algas [1]                                      82 mg/l Test organisms (species): Pseudokirchneriella subcapitata (previous names:
+                                                          Raphidocelis subcapitata, Selenastrum capricornutum)
+
+NOEC (crónico)                                            32 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+Octametilciclotetrasiloxano (556-67-2)
+CL50 - Peces [1]                                          > 22 μg/l Test organisms (species): Oncorhynchus mykiss (previous name: Salmo
+                                                          gairdneri)
+
+CE50 - Crustáceos [1]                                     > 15 μg/l Test organisms (species): Daphnia magna
+
+CEr50 algas                                               > 0,022 mg/l
+
+NOEC crónico peces                                        ≥ 0,0044 mg/l
+
+NOEC crónico crustáceos                                   ≥ 0,015 mg/l
+
+12.2. Persistencia y degradabilidad
+
+ESPUMAX PROYECTABLE PISTOLA
+Persistencia y degradabilidad                             Rápidamente degradable
+
+dimetileter|éter dimetílico (115-10-6)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Propano (74-98-6)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Alcanos, C14-17, Cloro (85535-85-9)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Productos de reacción de tricloruro de fosforilo y 2-metiloxirano (1244733-77-4)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Diisocianato de m-tolilideno (26471-62-5)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Octametilciclotetrasiloxano (556-67-2)
+Persistencia y degradabilidad                             No fácilmente degradable
+
+12.3. Potencial de bioacumulación
+
+Propano (74-98-6)
+Coeficiente de partición n-octanol/agua (Log Pow)         2,36
+
+
+
+
+27/06/2024 (Fecha de emisión)                                             ES - es                                                              9/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Octametilciclotetrasiloxano (556-67-2)
+Coeficiente de partición n-octanol/agua (Log Pow)         5,1
+
+Coeficiente de partición n-octanol/agua (Log Kow)         6,49 (método OCDE 123)
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del        Alcanos, C14-17, Cloro (85535-85-9), Octametilciclotetrasiloxano (556-67-2)(¹)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del       Alcanos, C14-17, Cloro (85535-85-9), Octametilciclotetrasiloxano (556-67-2)(¹)
+Reglamento REACH, de conformidad con el anexo
+XIII
+(¹) Sustancia(s) añadida(s) si su concentración <0,1% con carácter voluntario
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+            ADR                           IMDG                            IATA                       ADN                           RID
+
+14.1. Número ONU o número ID
+          ONU 1950                      ONU 1950                       ONU 1950                    ONU 1950                     ONU 1950
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+  AEROSOLES (Isobutano)         AEROSOLES (Isobutano)              Aerosols, flammable       AEROSOLES (Isobutano)      AEROSOLES (Isobutano)
+                                                                       (Isobutane)
+
+Descripción del documento del transporte
+
+   UN 1950 AEROSOLES             UN 1950 AEROSOLES                  UN 1950 Aerosols,         UN 1950 AEROSOLES           UN 1950 AEROSOLES
+    (Isobutano), 2.1, (D)           (Isobutano), 2.1            flammable (Isobutane), 2.1       (Isobutano), 2.1            (Isobutano), 2.1
+
+14.3. Clase(s) de peligro para el transporte
+              2.1                           2.1                            2.1                        2.1                           2.1
+
+
+27/06/2024 (Fecha de emisión)                                            ES - es                                                            10/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+            ADR                           IMDG                           IATA                         ADN                        RID
+
+
+
+
+14.4. Grupo de embalaje
+         No aplicable                  No aplicable                   No aplicable                 No aplicable              No aplicable
+
+14.5. Peligros para el medio ambiente
+   Peligroso para el medio       Peligroso para el medio         Peligroso para el medio      Peligroso para el medio   Peligroso para el medio
+        ambiente: No                  ambiente: No                    ambiente: No                 ambiente: No              ambiente: No
+                                Contaminante marino: No
+                                  N.° FS (Fuego): F-D
+                                 N.° FS (Derrame): S-U
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+Código de clasificación (ADR)                          :   5F
+Disposiciones especiales (ADR)                         :   190, 327, 344, 625
+Cantidades limitadas (ADR)                             :   1l
+Cantidades exceptuadas (ADR)                           :   E0
+Instrucciones de embalaje (ADR)                        :   P207, LP200
+Disposiciones especiales de embalaje (ADR)             :   PP87, RR6, L2
+Disposiciones para el embalaje en común (ADR)          :   MP9
+Categoría de transporte (ADR)                          :   2
+Disposiciones especiales de transporte - Bultos        :   V14
+(ADR)
+Disposiciones especiales de transporte - Carga,        : CV9, CV12
+descarga y manipulado (ADR)
+Disposiciones especiales de transporte -               : S2
+Explotación (ADR)
+Código de restricciones en túneles (ADR)               : D
+
+Transporte marítimo
+Disposiciones especiales (IMDG)                        :   63, 190, 277, 327, 344, 381, 959
+Cantidades limitadas (IMDG)                            :   SP277
+Cantidades exceptuadas (IMDG)                          :   E0
+Instrucciones de embalaje (IMDG)                       :   P207, LP200
+Disposiciones especiales de embalaje (IMDG)            :   PP87, L2
+Categoría de carga (IMDG)                              :   Ninguno(a)
+Estiba y Manipulación (IMDG)                           :   SW1, SW22
+Segregación (IMDG)                                     :   SG69
+
+Transporte aéreo
+Cantidades exceptuadas para aviones de pasajeros       : E0
+y de carga (IATA)
+Cantidades limitadas para aviones de pasajeros y       : Y203
+de carga (IATA)
+Cantidad neta máxima para cantidad limitada en         : 30kgG
+aviones de pasajeros y de carga (IATA)
+Instrucciones de embalaje para aviones de              : 203
+pasajeros y de carga (IATA)
+Cantidad neta máxima para aviones de pasajeros y       : 75kg
+de carga (IATA)
+Instrucciones de embalaje exclusivamente para          : 203
+aviones de carga (IATA)
+
+
+
+
+27/06/2024 (Fecha de emisión)                                            ES - es                                                            11/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Cantidad máx. neta exclusivamente para aviones           : 150kg
+de carga (IATA)
+Disposiciones especiales (IATA)                          : A145, A167, A802
+Código GRE (IATA)                                        : 10L
+
+Transporte por vía fluvial
+No hay datos disponibles
+
+Transporte ferroviario
+No hay datos disponibles
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+Normativa de la UE
+
+Anexo XVII de REACH (Lista de restricciones)
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia            Aplicable en
+
+3(a)                            ESPUMAX PROYECTABLE PISTOLA ; Octametilciclotetrasiloxano; [D4]
+
+3(b)                             ESPUMAX PROYECTABLE PISTOLA ; Alcanos, C14-17, cloro; parafinas cloradas, C14-17 ; Productos de reacción
+                                de tricloruro de fosforilo y 2-metiloxirano ; Diisocianato de m-tolilideno; diisocianato de tolueno ;
+                                Octametilciclotetrasiloxano; [D4]
+
+3(c)                             ESPUMAX PROYECTABLE PISTOLA ; Alcanos, C14-17, cloro; parafinas cloradas, C14-17 ; Productos de reacción
+                                de tricloruro de fosforilo y 2-metiloxirano ; Diisocianato de m-tolilideno; diisocianato de tolueno ;
+                                Octametilciclotetrasiloxano; [D4]
+
+40.                             isobutane ; dimetileter|éter dimetílico ; Propano ; Octametilciclotetrasiloxano; [D4]
+
+70.                             Octametilciclotetrasiloxano; [D4]
+
+74.                             Diisocianato de m-tolilideno; diisocianato de tolueno
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+Contiene una o varias sustancias incluidas en la lista de sustancias candidatas de REACH en concentraciones ≥ 0,1 % o SCL: Alcanos, C14-17,
+cloro; parafinas cloradas, C14-17 (EC 287-477-0, CAS 85535-85-9), Octametilciclotetrasiloxano; [D4] (EC 209-136-7, CAS 556-67-2)
+
+Reglamento PIC
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Agotamiento de la capa de ozono
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 1005/2009 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento sobre productos de doble uso (428/2009)
+No contiene ninguna sustancia sujeta al REGLAMENTO (CE) N.º 428/2009 DEL CONSEJO, de 5 de mayo de 2009, por el que se establece un
+régimen comunitario de control de las exportaciones, la transferencia, el corretaje y el tránsito de productos de doble uso.
+
+
+
+
+27/06/2024 (Fecha de emisión)                                              ES - es                                                         12/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ADN                             Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                             Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                             Estimación de la toxicidad aguda
+
+FBC                             Factor de bioconcentración
+
+VLB                             Valor límite biológico
+
+DBO                             Demanda bioquímica de oxígeno (DBO)
+
+DQO                             Demanda química de oxígeno (DQO)
+
+DMEL                            Nivel derivado con efecto mínimo
+
+DNEL                            Nivel sin efecto derivado
+
+N° CE                           número CE
+
+CE50                            Concentración efectiva media
+
+EN                              Norma europea
+
+CIIC                            Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                            Asociación Internacional de Transporte Aéreo
+
+IMDG                            Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                            Concentración letal para el 50 % de una población de pruebas
+
+DL50                            Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                           Nivel más bajo con efecto adverso observado
+
+NOAEC                           Concentración sin efecto adverso observado
+
+NOAEL                           Nivel sin efecto adverso observado
+
+NOEC                            Concentración sin efecto observado
+
+OCDE                            Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                             Límite de exposición profesional
+
+PBT                             Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                            Concentración prevista sin efecto
+
+RID                             Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                             Ficha de Datos de Seguridad
+
+STP                             Estación depuradora
+
+DTO                             Necesidad teórica de oxígeno (BThO)
+
+TLM                             Tolerancia media limite
+
+
+27/06/2024 (Fecha de emisión)                                             ES - es                                                              13/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+COV                             Compuestos orgánicos volátiles
+
+N° CAS                          Número del Servicio de resúmenes químicos (CAS)
+
+N.E.P                           No especificado en otra parte
+
+mPmB                            Muy persistente y muy bioacumulable
+
+ED                              Alterador endocrino
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 2 (Inhalación)       Toxicidad aguda (por inhalación), categoría 2
+
+Acute Tox. 4 (Oral)             Toxicidad aguda (oral), categoría 4
+
+Aquatic Acute 1                 Peligroso para el medio ambiente acuático – Peligro agudo, categoría 1
+
+Aquatic Acute No                Peligroso para el medio ambiente acuático – Peligro agudo No clasificado
+clasificado
+
+Aquatic Chronic 1               Peligroso para el medio ambiente acuático – Peligro crónico, categoría 1
+
+Aquatic Chronic 3               Peligroso para el medio ambiente acuático – Peligro crónico, categoría 3
+
+Carc. 2                         Carcinogenicidad, categoría 2
+
+EUH204                          Contiene isocianatos. Puede provocar una reacción alérgica.
+
+Eye Irrit. 2                    Lesiones oculares graves o irritación ocular, categoría 2
+
+Flam. Gas 1                     Gases inflamables, categoría 1
+
+Flam. Gas 1A                    Gases inflamables, categoría 1A
+
+Flam. Liq. 3                    Líquidos inflamables, categoría 3
+
+H220                            Gas extremadamente inflamable.
+
+H222                            Aerosol extremadamente inflamable.
+
+H226                            Líquidos y vapores inflamables.
+
+H229                            Recipiente a presión: Puede reventar si se calienta.
+
+H280                            Contiene gas a presión; peligro de explosión en caso de calentamiento.
+
+H302                            Nocivo en caso de ingestión.
+
+H315                            Provoca irritación cutánea.
+
+H317                            Puede provocar una reacción alérgica en la piel.
+
+H319                            Provoca irritación ocular grave.
+
+H330                            Mortal en caso de inhalación.
+
+H334                            Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.
+
+H335                            Puede irritar las vías respiratorias.
+
+H351                            Se sospecha que provoca cáncer.
+
+H361f                           Se sospecha que puede perjudicar a la fertilidad.
+
+H362                            Puede perjudicar a los niños alimentados con leche materna.
+
+H400                            Muy tóxico para los organismos acuáticos.
+
+H410                            Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+H412                            Nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+
+H413                            Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+
+
+
+27/06/2024 (Fecha de emisión)                                             ES - es                                               14/15
+ESPUMAX PROYECTABLE PISTOLA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Texto íntegro de las frases H y EUH:
+Lact.                           Toxicidad para la reproducción — Categoría adicional — Efectos sobre la lactancia o a través de ella
+
+Press. Gas                      Gas a presión
+
+Press. Gas (Comp.)              Gas a presión : Gas comprimido
+
+Repr. 2                         Toxicidad para la reproducción, categoría 2
+
+Resp. Sens. 1                   Sensibilización respiratoria, categoría 1
+
+Skin Irrit. 2                   Irritación o corrosión cutáneas, categoría 2
+
+Skin Sens. 1                    Sensibilización cutánea, categoría 1
+
+STOT SE 3                       Toxicidad específica en determinados órganos – Exposición única, categoría 3, irritación de las vías respiratorias
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Aerosol 1                       H222;H229                    Conforme a datos obtenidos de ensayos
+
+Lact.                           H362                         Método de cálculo
+
+Aquatic Chronic 4               H413                         Criterio experto
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+27/06/2024 (Fecha de emisión)                                               ES - es                                                                  15/15
+

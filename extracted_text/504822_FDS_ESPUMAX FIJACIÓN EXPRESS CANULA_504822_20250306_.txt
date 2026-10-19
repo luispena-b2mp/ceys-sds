@@ -1,0 +1,1069 @@
+                                          ESPUMAX FIJACIÓN EXPRESS CANULA
+                                          Ficha de Datos de Seguridad
+                                          según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                          Fecha de emisión: 20/03/2023 Fecha de revisión: 06/03/2025 Reemplaza la versión de: 22/12/2023 Versión: 2.0
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                    :   Mezcla
+Nombre comercial                                      :   ESPUMAX FIJACIÓN EXPRESS CANULA
+UFI                                                   :   KPKE-XA5F-R40F-W7KK
+Código de producto                                    :   504822
+Tipo de producto                                      :   adhesivos
+Vaporizador                                           :   Aerosol
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes identificados
+Categoría de uso principal                            : Uso profesional
+Uso de la sustancia/mezcla                            : Espuma de poliuretano
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+Fabricante                                                                  Distribuidor
+AC Marca Adhesives, S.A.                                                    AC Marca Chile, Ltda.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297                           Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                     Providencia., Santiago
+T +34 93 260 68 00, F +34 93 260 68 98                                      Chile
+reach@grupoacmarca.com                                                      T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                            infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Organismo/Empresa                           Dirección                         Número de                    Comentario
+                                                                                                    emergencia
+Chile                 CITUC                                       Avda. Libertador Bernardo         2-2635 38 00
+                      CENTRO DE INFORMACIÓN                       O'Higgins 340
+                      TOXICOLOGICA DE LA PONTIFICIA               Santiago de Chile
+                      UNIVERSIDAD CATÓLICA DE CHILE
+
+España                Servicio de Información Toxicológica        C/José Echegaray nº4              +34 91 562 04 20             (solo emergencias
+                      Instituto Nacional de Toxicología y         28232 Las Rozas de Madrid         +34 91 411 26 76             toxicológicas),
+                      Ciencias Forenses, Departamento de                                            (teléfono solo para          Información en
+                      Madrid                                                                        médicos)                     español (24h/365
+                                                                                                                                 días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Aerosol, categoría 1                                             H222;H229
+Toxicidad aguda (inhalación:polvo,niebla) Categoría 4            H332
+Irritación o corrosión cutáneas, categoría 2                     H315
+Lesiones oculares graves o irritación ocular, categoría 2        H319
+Sensibilización respiratoria, categoría 1                        H334
+Sensibilización cutánea, categoría 1                             H317
+
+06/03/2025 (Fecha de revisión)                                          ES - es                                                                         1/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Carcinogenicidad, categoría 2                                H351
+Toxicidad para la reproducción — Categoría adicional —       H362
+Efectos sobre la lactancia o a través de ella
+Toxicidad específica en determinados órganos – Exposición H335
+única, categoría 3, irritación de las vías respiratorias
+Toxicidad específica en determinados órganos – Exposiciones H373
+repetidas, categoría 2
+Peligroso para el medio ambiente acuático – Peligro crónico, H413
+categoría 4
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Recipiente a presión: Puede reventar si se calienta. Aerosol extremadamente inflamable. Se sospecha que provoca cáncer. Puede perjudicar a los
+niños alimentados con leche materna. Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas. Nocivo en caso de
+inhalación. Puede irritar las vías respiratorias. Provoca irritación cutánea. Puede provocar una reacción alérgica en la piel. Provoca irritación ocular
+grave. Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación. Puede ser nocivo para los organismos
+acuáticos, con efectos nocivos duraderos.
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                           :
+
+
+
+
+                                                             GHS02           GHS07           GHS08
+Palabra de advertencia (CLP)                           : Peligro
+Contiene                                               : Diphenylmethandiisocyanate, Isomers And Homologues; Alcanos, C14-17, cloro; Productos
+                                                         de reacción de tricloruro de fosforilo y 2-metiloxirano (TCPP)
+Indicaciones de peligro (CLP)                          : H222 - Aerosol extremadamente inflamable.
+                                                         H229 - Recipiente a presión: Puede reventar si se calienta.
+                                                         H315 - Provoca irritación cutánea.
+                                                         H317 - Puede provocar una reacción alérgica en la piel.
+                                                         H319 - Provoca irritación ocular grave.
+                                                         H332 - Nocivo en caso de inhalación.
+                                                         H334 - Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de
+                                                         inhalación.
+                                                         H335 - Puede irritar las vías respiratorias.
+                                                         H351 - Se sospecha que provoca cáncer.
+                                                         H362 - Puede perjudicar a los niños alimentados con leche materna.
+                                                         H373 - Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.
+                                                         H413 - Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P261 - Evitar respirar el aerosol.
+                                                         P210 - Mantener alejado de chispas, de llamas abiertas, de superficies calientes, del calor.
+                                                         – No fumar.
+                                                         P211 - No pulverizar sobre una llama abierta u otra fuente de ignición.
+                                                         P251 - Recipiente a presión: no perforar ni quemar, aun después del uso.
+                                                         P273 - Evitar su liberación al medio ambiente.
+                                                         P280 - Llevar guantes de protección, equipo de protección para los ojos y la cara.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                         o especiales.
+Frases EUH                                             : EUH204 - Contiene isocianatos. Puede provocar una reacción alérgica.
+Frases suplementarias                                  : No ingerir.
+                                                         Este producto puede provocar reacciones alérgicas en personas sensibles a los
+                                                         diisocianatos.
+                                                         Las personas con asma, eccema o afecciones de la piel deberían evitar todo contacto con
+                                                         este producto, incluido el contacto dérmico.
+
+
+06/03/2025 (Fecha de revisión)                                           ES - es                                                                     2/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+                                                         Este producto no debe utilizarse en condiciones de ventilación insuficiente salvo si se
+                                                         emplea una mascarilla protectora con un filtro antigás adecuado (por ejemplo, de tipo A1
+                                                         conforme a la norma EN 14387).
+                                                         A partir del 24 de agosto de 2023 es obligatorio tener la formación adecuada para proceder
+                                                         a un uso industrial o profesional.
+
+
+2.3. Otros peligros
+Contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del        Alcanos, C14-17, cloro (85535-85-9)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del       Alcanos, C14-17, cloro (85535-85-9)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+
+La mezcla no contiene ni sustancia(s) incluida(s) en la lista establecida con arreglo al artículo 59, apartado 1 del Reglamento REACH por sus
+propiedades de alteración endocrina, ni sustancia(s) identificada(s) como poseedoras de propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado (UE) 2017/2100 de la Comisión o en el Reglamento (UE) 2018/605 de la Comisión en una
+concentración igual o superior al 0,1 %
+
+Componente
+Sustancia(s) no incluida(s) en la lista establecida con Alcanos, C14-17, cloro (85535-85-9)
+arreglo al artículo 59, apartado 1, de REACH por sus
+propiedades de alteración endocrina, o por no tener
+propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado
+(UE) 2017/2100 de la Comisión o en el Reglamento
+(UE) 2018/605 de la Comisión.
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.2. Mezclas
+
+Nombre                                                    Identificador de               %               Clasificación según Reglamento
+                                                          producto                                       (UE) n° 1272/2008 [CLP]
+Diphenylmethandiisocyanate, Isomers And                   N° CAS: 9016-87-9              30 – 60         Acute Tox. 4 (Inhalación), H332 (ATE=1,5
+Homologues                                                                                               mg/l/4h)
+                                                                                                         Skin Irrit. 2, H315
+                                                                                                         Eye Irrit. 2, H319
+                                                                                                         Resp. Sens. 1, H334
+                                                                                                         Skin Sens. 1, H317
+                                                                                                         Carc. 2, H351
+                                                                                                         STOT SE 3, H335
+                                                                                                         STOT RE 2, H373
+                                                                                                         EUH204
+
+Alcanos, C14-17, cloro                                    N° CAS: 85535-85-9             0 – 20          Lact., H362
+en la lista de candidatas REACH (Parafinas cloradas       N° CE: 287-477-0                               Aquatic Acute 1, H400
+de cadena media (PCCM))                                   N° Índice: 602-095-00-X                        Aquatic Chronic 1, H410
+Substancia PBT; Sustancia mPmB                                                                           EUH066
+
+Éter dimetílico                                           N° CAS: 115-10-6               5 – 10          Flam. Gas 1, H220
+sustancia con uno o varios límites nacionales de          N° CE: 204-065-8                               Press. Gas (Liq.), H280
+exposición en el lugar de trabajo (ES); sustancia a la    N° Índice: 603-019-00-8
+que se aplica un límite comunitario de exposición en      REACH-no: 01-2119472128-
+el lugar de trabajo                                       37
+
+
+06/03/2025 (Fecha de revisión)                                          ES - es                                                                 3/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Nombre                                                     Identificador de                %               Clasificación según Reglamento
+                                                           producto                                        (UE) n° 1272/2008 [CLP]
+Productos de reacción de tricloruro de fosforilo y 2-      N° CAS: 1244733-77-4            4–7             Acute Tox. 4 (Oral), H302 (ATE=500
+metiloxirano (TCPP)                                        REACH-no: 01-2119486772-                        mg/kg de peso corporal)
+                                                           26                                              Carc. 2, H351
+                                                                                                           Aquatic Chronic 3, H412
+
+Propano                                                    N° CAS: 74-98-6                 1–5             Flam. Gas 1A, H220
+sustancia con uno o varios límites nacionales de           N° CE: 200-827-9                                Press. Gas (Comp.), H280
+exposición en el lugar de trabajo (ES)                     N° Índice: 601-003-00-5
+
+Reaction mass of 2-ethylpropane-1,3-diol and 5-ethyl- N° CE: 904-153-2                     1–3             Eye Irrit. 2, H319
+1,3-dioxane-5-methanol and propylidynetrimethanol     REACH-no: 01-2119488034-                             Repr. 2, H361fd
+                                                      38
+Producto sujeto al Anexo 1 del CLP, punto 1.1.3.7. Las reglas de divulgación de los componentes se modifican en este caso.
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : EN CASO DE exposición manifiesta o presunta: Consultar a un médico. Llamar a un centro
+                                                     de información toxicológica o a un médico en caso de malestar.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración. Llamar a un centro de información toxicológica o a un médico en caso de
+                                                     malestar.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua. Quitar las prendas contaminadas. En caso de irritación o
+con la piel                                          erupción cutánea: Consultar a un médico.
+Medidas de primeros auxilios en caso de contacto   : Aclarar cuidadosamente con agua durante varios minutos. Quitar las lentes de contacto, si
+con los ojos                                         lleva y resulta fácil. Seguir aclarando. Si persiste la irritación ocular: Consultar a un médico.
+Medidas de primeros auxilios en caso de ingestión : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+Medidas de primeros auxilios para el personal de   : Los trabajadores de primeros auxilios deben llevar un equipo de protección individual
+primeros auxilios                                    adecuado.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                  : Nocivo en caso de inhalación. Puede irritar las vías respiratorias. Puede provocar síntomas
+                                                          de alergia o asma o dificultades respiratorias en caso de inhalación.
+Síntomas/efectos después de contacto con la piel        : Irritación. Puede provocar una reacción alérgica en la piel. La exposición repetida puede
+                                                          provocar sequedad o formación de grietas en la piel.
+Síntomas/efectos después del contacto con el ojo        : Irritación de los ojos.
+Síntomas/efectos después de ingestión                   : Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                          : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                       : No utilizar agua a presión.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                     : Aerosol extremadamente inflamable.
+Peligro de explosión                                    : Recipiente a presión: Puede reventar si se calienta.
+Productos de descomposición peligrosos en caso          : Posible emisión de humos tóxicos.
+de incendio
+
+
+
+06/03/2025 (Fecha de revisión)                                           ES - es                                                                  4/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. No exponer a llamas descubiertas o chispas y abstenerse de
+                                                         fumar. No respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol. Evitar el
+                                                         contacto con los ojos y la piel.
+
+Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Absorber todo el producto vertido con arena o tierra. Confinar todo tipo de fugas o
+                                                         derrames mediante diques o productos absorbentes para evitar el desplazamiento y la
+                                                         entrada en el alcantarillado o cursos de agua. Detener la fuga, a ser posible sin exponerse
+                                                         a riesgos.
+Procedimientos de limpieza                             : Recoger mecánicamente el producto. Avisar a las autoridades si el producto llega a los
+                                                         desagües o las conducciones públicas de agua.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de
+                                                         cualquier otra fuente de ignición. No fumar. No pulverizar sobre una llama abierta u otra
+                                                         fuente de ignición. No perforar ni quemar, incluso después de su uso. Solicitar instrucciones
+                                                         especiales antes del uso. No manipular la sustancia antes de haber leído y comprendido
+                                                         todas las instrucciones de seguridad. Llevar un equipo de protección individual. Evitar el
+                                                         contacto durante el embarazo/la lactancia. No respirar el polvo/el humo/el gas/la niebla/los
+                                                         vapores/el aerosol. Utilizar únicamente en exteriores o en un lugar bien ventilado. Evitar el
+                                                         contacto con los ojos y la piel.
+Medidas de higiene                                     : Lavar las prendas contaminadas antes de volver a usarlas. Las prendas de trabajo
+                                                         contaminadas no podrán sacarse del lugar de trabajo. No comer, beber ni fumar durante su
+                                                         utilización. Lavarse las manos después de cualquier manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+
+
+06/03/2025 (Fecha de revisión)                                          ES - es                                                                     5/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Condiciones de almacenamiento                          : Proteger de la luz del sol. No exponer a temperaturas superiores a 50 °C/122 °F. Guardar
+                                                         bajo llave. Almacenar en un lugar bien ventilado. Mantener el recipiente herméticamente
+                                                         cerrado.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+Valores límite nacionales de exposición profesional y biológicos
+
+Propano (74-98-6)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Propano
+
+VLA-ED (OEL TWA)                                          1000 ppm Hidrocarburos alifáticos alcanos (C1 – C4) y sus mezclas, gases (Butano;
+                                                          Etano; Metano; Propano)
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+Éter dimetílico (115-10-6)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Dimethylether
+
+IOEL TWA                                                  1920 mg/m³
+
+                                                          1000 ppm
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Metiléter
+
+VLA-ED (OEL TWA)                                          1920 mg/m³
+
+                                                          1000 ppm
+
+Comentarios                                               VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo.
+                                                          Todos estos agentes químicos figuran al menos en una de las directivas de valores límite
+                                                          indicativos publicadas hasta ahora (ver Anexo C. Bibliografía). Los estados miembros
+                                                          disponen de un tiempo fijado en dichas directivas para su transposición a los valores
+                                                          límites de cada país miembro. Una vez adoptados, estos valores tienen la misma validez
+                                                          que el resto de los valores adoptados por el país).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2024. INSHT
+
+Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos. Deben usarse detectores de gases cuando puedan
+                                                          liberarse gases tóxicos. Deben usarse detectores de gases siempre que puedan liberarse
+                                                          gases/vapores inflamables.
+
+8.2. Controles de la exposición
+Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado. Equipo/iluminación antichispa y antideflagrante. Utilizar equipos eléctricos/mecánicos con
+derivación a tierra. Manipule el producto en un sistema cerrado.
+
+
+06/03/2025 (Fecha de revisión)                                          ES - es                                                                6/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado. Fuente ocular con líquido adaptado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+Protección de los ojos y la cara
+Protección ocular:
+La protección ocular queda garantizada por el uso de la protección respiratoria (ver apartado)
+
+Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas. Utilizar calzado de seguridad
+
+Protección de las manos:
+Utilizar guantes protectores
+
+Protección respiratoria
+Protección respiratoria:
+Llevar una máscara adecuada. Llevar una máscara adecuada: Máscara completa combinada antigás/antipolvo con filtro de tipo
+
+Controles de exposición medioambiental
+Controles de exposición medioambiental:
+Evitar su liberación al medio ambiente.
+Control de la exposición del consumidor:
+Evitar el contacto durante el embarazo/la lactancia.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   Blanco.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   Aerosol extremadamente inflamable.
+Propiedades explosivas                                 :   Recipiente a presión: Puede reventar si se calienta.
+Límite inferior de explosividad                        :   1,5 vol %
+Límite superior de explosividad                        :   16 vol %
+Punto de inflamación                                   :   No aplicable
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   1 g/cm³
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+06/03/2025 (Fecha de revisión)                                           ES - es                                                                7/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+9.2. Otros datos
+Información relativa a las clases de peligro físico
+% de compuestos inflamables                            : 25 %
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+Aerosol extremadamente inflamable. Recipiente a presión: Puede reventar si se calienta.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Evitar el contacto con superficies calientes. Calor. Sin llamas ni chispas. Eliminar cualquier fuente de ignición.
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : Inhalación:polvo,niebla: Nocivo en caso de inhalación.
+
+ESPUMAX FIJACIÓN EXPRESS CANULA
+ATE CLP (polvo, niebla)                                    2,5 mg/l/4h
+
+Éter dimetílico (115-10-6)
+CL50 Inhalación - Rata                                     ≈ 309 mg/l
+Corrosión o irritación cutáneas                        : Provoca irritación cutánea.
+Lesiones oculares graves o irritación ocular           : Provoca irritación ocular grave.
+Sensibilización respiratoria o cutánea                 : Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de
+                                                         inhalación. Puede provocar una reacción alérgica en la piel.
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : Se sospecha que provoca cáncer.
+Toxicidad para la reproducción                         : Puede perjudicar a los niños alimentados con leche materna.
+Toxicidad específica en determinados órganos           : Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Diphenylmethandiisocyanate, Isomers And Homologues (9016-87-9)
+Toxicidad específica en determinados órganos               Puede irritar las vías respiratorias.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.
+(STOT) – exposición repetida
+
+
+
+
+06/03/2025 (Fecha de revisión)                                            ES - es                                                            8/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Diphenylmethandiisocyanate, Isomers And Homologues (9016-87-9)
+Toxicidad específica en determinados órganos              Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.
+(STOT) – exposición repetida
+Peligro por aspiración                                 : No clasificado
+
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Vaporizador                                               Aerosol
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+ambiente acuático
+
+Éter dimetílico (115-10-6)
+CL50 - Peces [1]                                          4,1 mg/l Poecilia reticulata
+
+CE50 - Crustáceos [1]                                     4,4 mg/l Daphnia magna
+
+CE50 - Crustáceos [2]                                     755,5 mg/l Daphnia
+
+CE50 72h - Algas [1]                                      154,9 mg/l
+
+12.2. Persistencia y degradabilidad
+
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Diphenylmethandiisocyanate, Isomers And Homologues (9016-87-9)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Alcanos, C14-17, cloro (85535-85-9)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Productos de reacción de tricloruro de fosforilo y 2-metiloxirano (TCPP) (1244733-77-4)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Propano (74-98-6)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Reaction mass of 2-ethylpropane-1,3-diol and 5-ethyl-1,3-dioxane-5-methanol and propylidynetrimethanol
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Éter dimetílico (115-10-6)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+No se dispone de información adicional
+
+
+
+
+06/03/2025 (Fecha de revisión)                                            ES - es                                                          9/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del          Alcanos, C14-17, cloro (85535-85-9)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del         Alcanos, C14-17, cloro (85535-85-9)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                           IMDG                           IATA                           ADN                            RID
+
+14.1. Número ONU o número ID
+          ONU 1950                       ONU 1950                       ONU 1950                      ONU 1950                       ONU 1950
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+      AEROSOLES (4,4´-               AEROSOLES (4,4´-           Aerosols, flammable (4,4´-        AEROSOLES (4,4´-               AEROSOLES (4,4´-
+      methylenediphenyl              methylenediphenyl              methylenediphenyl             methylenediphenyl              methylenediphenyl
+  diisocyanate, isomers and      diisocyanate, isomers and      diisocyanate, isomers and     diisocyanate, isomers and      diisocyanate, isomers and
+    homologues ; Alcanos,          homologues ; Alcanos,          homologues ; alkanes,         homologues ; Alcanos,          homologues ; Alcanos,
+   C14-17, cloro; parafinas       C14-17, cloro; parafinas      C14-17, chloro; chlorinated    C14-17, cloro; parafinas       C14-17, cloro; parafinas
+      cloradas, C14-17 ;             cloradas, C14-17 ;             paraffins, C14-17 ;           cloradas, C14-17 ;             cloradas, C14-17 ;
+  Productos de reacción de       Productos de reacción de          Reaction products of       Productos de reacción de       Productos de reacción de
+  tricloruro de fosforilo y 2-   tricloruro de fosforilo y 2-   phosphoryl trichloride and    tricloruro de fosforilo y 2-   tricloruro de fosforilo y 2-
+         metiloxirano)                  metiloxirano)                2-methyloxirane)                metiloxirano)                  metiloxirano)
+
+
+
+
+06/03/2025 (Fecha de revisión)                                            ES - es                                                                    10/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+             ADR                           IMDG                           IATA                            ADN                            RID
+Descripción del documento del transporte
+
+    UN 1950 AEROSOLES              UN 1950 AEROSOLES                UN 1950 Aerosols,            UN 1950 AEROSOLES              UN 1950 AEROSOLES
+   (4,4´-methylenediphenyl        (4,4´-methylenediphenyl            flammable (4,4´-           (4,4´-methylenediphenyl        (4,4´-methylenediphenyl
+  diisocyanate, isomers and      diisocyanate, isomers and          methylenediphenyl          diisocyanate, isomers and      diisocyanate, isomers and
+    homologues ; Alcanos,          homologues ; Alcanos,        diisocyanate, isomers and        homologues ; Alcanos,          homologues ; Alcanos,
+   C14-17, cloro; parafinas       C14-17, cloro; parafinas        homologues ; alkanes,         C14-17, cloro; parafinas       C14-17, cloro; parafinas
+      cloradas, C14-17 ;             cloradas, C14-17 ;         C14-17, chloro; chlorinated        cloradas, C14-17 ;             cloradas, C14-17 ;
+  Productos de reacción de       Productos de reacción de           paraffins, C14-17 ;        Productos de reacción de       Productos de reacción de
+  tricloruro de fosforilo y 2-   tricloruro de fosforilo y 2-      Reaction products of        tricloruro de fosforilo y 2-   tricloruro de fosforilo y 2-
+     metiloxirano), 2.1, (D)          metiloxirano), 2.1        phosphoryl trichloride and          metiloxirano), 2.1             metiloxirano), 2.1
+                                                                   2-methyloxirane), 2.1
+
+14.3. Clase(s) de peligro para el transporte
+              2.1                            2.1                            2.1                            2.1                            2.1
+
+
+
+
+14.4. Grupo de embalaje
+         No aplicable                   No aplicable                   No aplicable                   No aplicable                   No aplicable
+
+14.5. Peligros para el medio ambiente
+   Peligroso para el medio        Peligroso para el medio         Peligroso para el medio       Peligroso para el medio        Peligroso para el medio
+        ambiente: No                   ambiente: No                    ambiente: No                  ambiente: No                   ambiente: No
+                                 Contaminante marino: No
+                                   N.° FS (Fuego): F-D
+                                  N.° FS (Derrame): S-U
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+Código de clasificación (ADR)                           :   5F
+Disposiciones especiales (ADR)                          :   190, 327, 344, 625
+Cantidades limitadas (ADR)                              :   1l
+Cantidades exceptuadas (ADR)                            :   E0
+Instrucciones de embalaje (ADR)                         :   P207, LP200
+Disposiciones especiales de embalaje (ADR)              :   PP87, RR6, L2
+Disposiciones para el embalaje en común (ADR)           :   MP9
+Categoría de transporte (ADR)                           :   2
+Disposiciones especiales de transporte - Bultos         :   V14
+(ADR)
+Disposiciones especiales de transporte - Carga,         : CV9, CV12
+descarga y manipulado (ADR)
+Disposiciones especiales de transporte -                : S2
+Explotación (ADR)
+Código de restricciones en túneles (ADR)                : D
+
+Transporte marítimo
+Disposiciones especiales (IMDG)                         :   63, 190, 277, 327, 344, 381, 959
+Cantidades limitadas (IMDG)                             :   SP277
+Cantidades exceptuadas (IMDG)                           :   E0
+Instrucciones de embalaje (IMDG)                        :   P207, LP200
+Disposiciones especiales de embalaje (IMDG)             :   PP87, L2
+Categoría de carga (IMDG)                               :   Ninguno(a)
+Estiba y Manipulación (IMDG)                            :   SW1, SW22
+Segregación (IMDG)                                      :   SG69
+
+
+06/03/2025 (Fecha de revisión)                                            ES - es                                                                     11/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+
+Transporte aéreo
+Cantidades exceptuadas para aviones de pasajeros          : E0
+y de carga (IATA)
+Cantidades limitadas para aviones de pasajeros y          : Y203
+de carga (IATA)
+Cantidad neta máxima para cantidad limitada en            : 30kgG
+aviones de pasajeros y de carga (IATA)
+Instrucciones de embalaje para aviones de                 : 203
+pasajeros y de carga (IATA)
+Cantidad neta máxima para aviones de pasajeros y          : 75kg
+de carga (IATA)
+Instrucciones de embalaje exclusivamente para             : 203
+aviones de carga (IATA)
+Cantidad máx. neta exclusivamente para aviones            : 150kg
+de carga (IATA)
+Disposiciones especiales (IATA)                           : A145, A167, A802
+Código GRE (IATA)                                         : 10L
+
+Transporte por vía fluvial
+No hay datos disponibles
+
+Transporte ferroviario
+No hay datos disponibles
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+Normativa de la UE
+
+Anexo XVII de REACH (Lista de restricciones)
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en
+
+3(b)                             Diphenylmethandiisocyanate, Isomers And Homologues ; Alcanos, C14-17, cloro
+
+3(c)                             Alcanos, C14-17, cloro
+
+40.                              isobutane
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+Contiene una o varias sustancias incluidas en la lista de sustancias candidatas de REACH en concentraciones ≥ 0,1 % o SCL: Alcanos, C14-17,
+cloro (EC 287-477-0, CAS 85535-85-9)
+
+Regulación PIC (consentimiento fundamentado previo)
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Reglamento sobre el ozono (2024/590)
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590 sobre las sustancias que
+agotan la capa de ozono)
+
+
+06/03/2025 (Fecha de revisión)                                          ES - es                                                            12/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Reglamento (CE) del Consejo para el control de productos de doble uso
+No contiene sustancias sujetas al REGLAMENTO (CE) DEL CONSEJO para el control de productos de doble uso
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ACGIH                            Asociación Estadounidense de Higienistas Industriales, EE. UU.
+
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+CLP                              Reglamento (CE) n° 1272/2008 sobre clasificación, etiquetado y envasado
+
+DQO                              Demanda química de oxígeno (DQO)
+
+CSA                              Evaluación de la seguridad química
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+AE                               Alterador endocrino
+
+EN                               Norma europea
+
+CER                              Catálogo europeo de residuos
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+Log Kow                          Coeficiente de partición n-octanol/agua (Log Kow)
+
+Log Pow                          Coeficiente de partición n-octanol/agua (Log Pow)
+
+MAK                              maximum workplace concentration
+
+NOAEC                            Concentración sin efecto adverso observado
+
+
+06/03/2025 (Fecha de revisión)                                            ES - es                                                               13/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+N.E.P                            No especificado en otra parte
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+OSHA                             Agencia Federal de Higiene y Seguridad Profesional del Departamento de Trabajo de los Estados Unidos
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+EPI                              Equipos de protección personal
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+TF                               Función técnica
+
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+TWA                              Concentración media ponderada en el tiempo
+
+COV                              Compuestos orgánicos volátiles
+
+mPmB                             Muy persistente y muy bioacumulable
+
+UFI                              Identificador único de fórmula
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 4 (Inhalación)        Toxicidad aguda (por inhalación), categoría 4
+
+Acute Tox. 4 (Oral)              Toxicidad aguda (oral), categoría 4
+
+Aquatic Acute 1                  Peligroso para el medio ambiente acuático – Peligro agudo, categoría 1
+
+Aquatic Chronic 1                Peligroso para el medio ambiente acuático – Peligro crónico, categoría 1
+
+Aquatic Chronic 3                Peligroso para el medio ambiente acuático – Peligro crónico, categoría 3
+
+Carc. 2                          Carcinogenicidad, categoría 2
+
+Eye Irrit. 2                     Lesiones oculares graves o irritación ocular, categoría 2
+
+Flam. Gas 1                      Gases inflamables, categoría 1
+
+Flam. Gas 1A                     Gases inflamables, categoría 1A
+
+Lact.                            Toxicidad para la reproducción — Categoría adicional — Efectos sobre la lactancia o a través de ella
+
+Press. Gas (Comp.)               Gas a presión : Gas comprimido
+
+Press. Gas (Liq.)                Gas a presión : Gas licuado
+
+Repr. 2                          Toxicidad para la reproducción, categoría 2
+
+Resp. Sens. 1                    Sensibilización respiratoria, categoría 1
+
+Skin Irrit. 2                    Irritación o corrosión cutáneas, categoría 2
+
+Skin Sens. 1                     Sensibilización cutánea, categoría 1
+
+STOT RE 2                        Toxicidad específica en determinados órganos – Exposiciones repetidas, categoría 2
+
+STOT SE 3                        Toxicidad específica en determinados órganos – Exposición única, categoría 3, irritación de las vías respiratorias
+
+
+06/03/2025 (Fecha de revisión)                                               ES - es                                                                  14/15
+ESPUMAX FIJACIÓN EXPRESS CANULA
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Texto íntegro de las frases H y EUH:
+H220                             Gas extremadamente inflamable.
+
+H222                             Aerosol extremadamente inflamable.
+
+H229                             Recipiente a presión: Puede reventar si se calienta.
+
+H280                             Contiene gas a presión; peligro de explosión en caso de calentamiento.
+
+H302                             Nocivo en caso de ingestión.
+
+H315                             Provoca irritación cutánea.
+
+H317                             Puede provocar una reacción alérgica en la piel.
+
+H319                             Provoca irritación ocular grave.
+
+H332                             Nocivo en caso de inhalación.
+
+H334                             Puede provocar síntomas de alergia o asma o dificultades respiratorias en caso de inhalación.
+
+H335                             Puede irritar las vías respiratorias.
+
+H351                             Se sospecha que provoca cáncer.
+
+H361fd                           Se sospecha que puede perjudicar a la fertilidad. Se sospecha que puede dañar el feto.
+
+H362                             Puede perjudicar a los niños alimentados con leche materna.
+
+H373                             Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.
+
+H400                             Muy tóxico para los organismos acuáticos.
+
+H410                             Muy tóxico para los organismos acuáticos, con efectos nocivos duraderos.
+
+H412                             Nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+
+H413                             Puede ser nocivo para los organismos acuáticos, con efectos nocivos duraderos.
+
+EUH066                           La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+
+EUH204                           Contiene isocianatos. Puede provocar una reacción alérgica.
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Aerosol 1                        H222;H229                     Conforme a datos obtenidos de ensayos
+
+Acute Tox. 4 (Inhalación:        H332                          Método de cálculo
+polvo, niebla)
+
+Skin Irrit. 2                    H315                          Método de cálculo
+
+Eye Irrit. 2                     H319                          Método de cálculo
+
+Resp. Sens. 1                    H334                          Método de cálculo
+
+Skin Sens. 1                     H317                          Método de cálculo
+
+Carc. 2                          H351                          Método de cálculo
+
+Lact.                            H362                          Método de cálculo
+
+STOT SE 3                        H335                          Método de cálculo
+
+STOT RE 2                        H373                          Método de cálculo
+
+Aquatic Chronic 4                H413                          Criterio experto
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+06/03/2025 (Fecha de revisión)                                               ES - es                                                           15/15
+

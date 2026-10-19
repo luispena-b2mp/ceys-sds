@@ -1,0 +1,1282 @@
+                                         CEYS SELLADOR VENTANAS BLANCO
+                                         Ficha de Datos de Seguridad
+                                         según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                         Fecha de emisión: 13/03/2024 Fecha de revisión: 13/03/2024 Reemplaza la versión de: 07/10/2021 Versión: 6.0
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                   :   Mezcla
+Nombre comercial                                     :   CEYS SELLADOR VENTANAS BLANCO
+UFI                                                  :   0E23-SJ9X-AP40-VNGD
+Código de producto                                   :   506031
+Tipo de producto                                     :   adhesivos
+Grupo de productos                                   :   Adhesives
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+1.2.1. Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                           : Uso por el consumidor
+Uso de la sustancia/mezcla                           : Adhesivos, sellantes
+
+1.2.2. Usos desaconsejados
+No se dispone de información adicional
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+
+Fabricante                                                                 Distribuidor
+AC Marca Adhesives, S.A.                                                   AC Marca Chile, Ltda.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297                          Román Diaz 205, oficina 604, Providencia
+08907 Barcelona (Spain)                                                    Providencia., Santiago
+T +34 93 260 68 00, F +34 93 260 68 98                                     Chile
+reach@grupoacmarca.com                                                     T 22 235 5517 – 22 236 0748, F 235 53 84
+                                                                           infocl@acmarca.com
+Distribuidor
+Ceys Mexicana, S.A de C.V.
+Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+de Mex. C.P. 53500 RFC: CME 961115 NRA
+MEXICO
+T 01 800 88 88 362 (lada sin costo)
+infomx@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Organismo/Empresa                          Dirección                         Número de                    Comentario
+                                                                                                   emergencia
+Chile                 CITUC                                      Avda. Libertador Bernardo         2-2635 38 00
+                      CENTRO DE INFORMACIÓN                      O'Higgins 340
+                      TOXICOLOGICA DE LA PONTIFICIA              Santiago de Chile
+                      UNIVERSIDAD CATÓLICA DE CHILE
+
+España                Servicio de Información Toxicológica       C/José Echegaray nº4              +34 91 562 04 20             (solo emergencias
+                      Instituto Nacional de Toxicología y        28232 Las Rozas de Madrid         +34 91 411 26 76             toxicológicas),
+                      Ciencias Forenses, Departamento de                                           (teléfono solo para          Información en
+                      Madrid                                                                       médicos)                     español (24h/365
+                                                                                                                                días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Líquidos inflamables No clasificado
+Sensibilización cutánea No clasificado
+
+13/03/2024 (Fecha de revisión)                                       ES (español)                                                                      1/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Que se sepa, el producto no presenta ningún riesgo especial siempre que se respeten las normas generales de higiene industrial.
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+Frases EUH                                             : EUH208 - Contiene 3-aminopropiltrietoxisilano. Puede provocar una reacción alérgica.
+Frases suplementarias                                  : No ingerir.
+Cierre de seguridad para niños                         : No aplicable
+Indicación de peligro detectable con el tacto          : No aplicable
+
+2.3. Otros peligros
+Contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del        Decametilciclopentasiloxano (541-02-6)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del       Decametilciclopentasiloxano (541-02-6)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+
+La mezcla no contiene sustancia/s incluida/s en la lista establecida conforme al artículo 59, apartado 1, del REACH por sus propiedades de
+alteración endocrina, o no se trata de sustancias/s con propiedades de alteración endocrina con arrego a los criterios establecidos en el
+Reglamento (UE) 2017/2100 de la Comisión Delegada o en el Reglamento (UE) 2018/605 de la Comisión en una concentración igual o superior a
+0,1%
+
+Componente
+Sustancia(s) no incluida(s) en la lista establecida con Decametilciclopentasiloxano (541-02-6)
+arreglo al artículo 59, apartado 1, de REACH por sus
+propiedades de alteración endocrina, o por no tener
+propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado
+(UE) 2017/2100 de la Comisión o en el Reglamento
+(UE) 2018/605 de la Comisión.
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.1. Sustancias
+No aplicable
+
+3.2. Mezclas
+
+Nombre                                                    Identificador de               %              Clasificación según Reglamento
+                                                          producto                                      (UE) n° 1272/2008 [CLP]
+Hidrocarburos, C15-C20, n-alcanos, isoalcanos,            N° CAS: 1335203-17-2           1 – 10         Asp. Tox. 1, H304
+cíclicos, < 0,03% aromáticos                              N° CE: 934-956-3
+                                                          REACH-no: 01-2119827000-
+                                                          58
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                              2/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Nombre                                                    Identificador de                %               Clasificación según Reglamento
+                                                          producto                                        (UE) n° 1272/2008 [CLP]
+Trimetoxivinilsilano; trimetoxi(vinil)silano              N° CAS: 2768-02-7               1–5             Flam. Liq. 3, H226
+                                                          N° CE: 220-449-8                                Acute Tox. 4 (Inhalación), H332
+                                                          N° Índice: 014-049-00-0                         Skin Sens. 1B, H317
+                                                                                                          STOT RE No clasificado
+
+Decametilciclopentasiloxano                               N° CAS: 541-02-6                0,1 – 1         Aquatic Acute No clasificado
+en la lista de candidatas REACH                           N° CE: 208-764-9                                Aquatic Chronic No clasificado
+PBT substance; vPvB substance                             REACH-no: 01-2119511367-
+                                                          43
+
+3-Aminopropiltrietoxisilano                               N° CAS: 919-30-2                0,1 – 1         Acute Tox. 4 (Oral), H302
+                                                          N° CE: 213-048-4                                Skin Corr. 1B, H314
+                                                          N° Índice: 612-108-00-0                         Eye Dam. 1, H318
+                                                          REACH-no: 01-2119480479-                        Skin Sens. 1, H317
+                                                          24
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : En caso de malestar, consultar a un médico.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración.
+Medidas de primeros auxilios en caso de contacto   : Lavar la piel con abundante agua.
+con la piel
+Medidas de primeros auxilios en caso de contacto   : Aclarar los ojos con agua como medida de precaución.
+con los ojos
+Medidas de primeros auxilios en caso de ingestión : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos después de inhalación                 : Aunque no se dispone de datos acerca de una posible toxicidad para los seres humanos o
+                                                         los animales, la inhalación de este producto se considera peligrosa.
+Síntomas/efectos después de contacto con la piel       : Ninguno en condiciones normales.
+Síntomas/efectos después del contacto con el ojo       : Ninguno en condiciones normales.
+Síntomas/efectos después de ingestión                  : Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar flujos de agua potentes.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Sin riesgos de incendio.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                               3/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+6.1.1. Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame.
+
+6.1.2. Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Absorber todo el producto vertido con arena o tierra. Confinar todo tipo de fugas o
+                                                         derrames mediante diques o productos absorbentes para evitar el desplazamiento y la
+                                                         entrada en el alcantarillado o cursos de agua. Detener la fuga, a ser posible sin exponerse
+                                                         a riesgos.
+Procedimientos de limpieza                             : Absorber el líquido derramado mediante un producto absorbente.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : El puesto de trabajo ha de estar bien ventilado. Llevar un equipo de protección individual.
+Medidas de higiene                                     : No comer, beber ni fumar durante su utilización. Lavarse las manos después de cualquier
+                                                         manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Consérvese en lugar fresco, bien ventilado y lejos del calor.
+Condiciones de almacenamiento                          : Conservar en un lugar fresco. Proteger de la luz del sol.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+Suiza
+Clase de almacenamiento (LK)                           : LK 10/12 - Líquidos
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+8.1.1 Valores límite nacionales de exposición profesional y biológicos
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                                  4/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Etanol; alcohol etílico (64-17-5)
+Bélgica - Valores límite de exposición profesional
+
+Nombre local                                              Alcool éthylique # Ethanol
+
+OEL TWA                                                   1907 mg/m³
+
+                                                          1000 ppm
+
+Referencia normativa                                      Koninklijk besluit/Arrêté royal 19/11/2020
+
+Francia - Valores límite de exposición profesional
+
+Nombre local                                              Alcool éthylique
+
+VME (OEL TWA)                                             1900 mg/m³
+
+                                                          1000 ppm
+
+VLE (OEL C/STEL)                                          9500 mg/m³
+
+                                                          5000 ppm
+
+Comentarios                                               Valeurs recommandées/admises
+
+Referencia normativa                                      Circulaire du Ministère du travail (réf.: INRS ED 984, 2016)
+
+Alemania - Valores límite de exposición profesional (TRGS 900)
+
+Nombre local                                              Ethanol
+
+AGW (OEL TWA)                                             960 mg/m³
+
+                                                          500 ppm
+
+Factor de limitación de picos de exposición               2(II)
+
+Comentarios                                               DFG,Y
+
+Referencia normativa                                      TRGS900
+
+Países Bajos - Valores límite de exposición profesional
+
+TGG-8u (OEL TWA)                                          260 mg/m³
+
+TGG-15min (OEL STEL)                                      1900 mg/m³
+
+Portugal - Valores límite de exposición profesional
+
+Nombre local                                              Etanol (Álcool etílico)
+
+OEL STEL                                                  1000 ppm
+
+Comentarios                                               A3 (Agente carcinogénico confirmado nos animais de laboratorio con relevância
+                                                          desconhecida no Homem)
+
+Referencia normativa                                      Norma Portuguesa NP 1796:2014
+
+Eslovenia - Valores límite de exposición profesional
+
+Nombre local                                              etanol (etilalkohol)
+
+OEL TWA                                                   1900
+
+                                                          1000 ppm
+
+KTV                                                       4
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Etanol (Alcohol etílico)
+
+VLA-EC (OEL STEL)                                         1910 mg/m³
+
+                                                          1000 ppm
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                        5/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Etanol; alcohol etílico (64-17-5)
+Comentarios                                               s (Esta sustancia tiene prohibida total o parcialmente su comercialización y uso como
+                                                          fitosanitario y/o como biocida. Para una información detallada acerca de las prohibiciones
+                                                          consúltese: Base de datos de productos biocidas:
+                                                          http://www.msssi.gob.es/ciudadanos/productos.do?tipo=plaguicidas Base de datos de
+                                                          productos fitosanitarios
+                                                          http://www.magrama.gob.es/agricultura/pags/fitos/registro/fichas/pdf/Lista_sa.pdf).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Reino Unido - Valores límite de exposición profesional
+
+Nombre local                                              Ethanol
+
+WEL TWA (OEL TWA)                                         1920 mg/m³
+
+                                                          1000 ppm
+
+Referencia normativa                                      EH40/2005 (Fourth edition, 2020). HSE
+
+Suiza - Valores límite de exposición profesional
+
+Nombre local                                              Ethanol
+
+MAK (OEL TWA)                                             960 mg/m³
+                                                          960 mg/m³
+
+                                                          500 ppm
+                                                          500 ppm
+
+KZGW (OEL STEL)                                           1920 mg/m³
+                                                          1920 mg/m³
+
+                                                          1000 ppm
+                                                          1000 ppm
+
+Toxicidad crítica                                         Formel / Formal
+
+Anotación                                                 SSC / SSC
+
+Comentarios                                               SSC - OAW, FormalKT HU - INRS, NIOSH
+
+Referencia normativa                                      www.suva.ch, 01.01.2021
+
+Metanol (67-56-1)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Methanol
+
+IOEL TWA                                                  260 mg/m³
+
+                                                          200 ppm
+
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2006/15/EC
+
+Bélgica - Valores límite de exposición profesional
+
+Nombre local                                              Alcool méthylique # Methanol
+
+OEL TWA                                                   266 mg/m³
+
+                                                          200 ppm
+
+OEL STEL                                                  333 mg/m³
+
+                                                          250 ppm
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                               6/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Metanol (67-56-1)
+Comentarios                                               D: la mention “D” signifie que la résorption de l’agent, via la peau, les muqueuses ou les
+                                                          yeux, constitue une partie importante de l’exposition totale. Cette résorption peut se faire
+                                                          tant par contact direct que par présence de l’agent dans l’air. # D: de vermelding “D”
+                                                          betekent dat de opname van het agens via de huid, de slijmvliezen of de ogen een
+                                                          belangrijk deel van de totale blootstelling vormt. Deze opname kan het gevolg zijn van
+                                                          zowel direct contact als zijn aanwezigheid in de lucht.
+
+Referencia normativa                                      Koninklijk besluit/Arrêté royal 11/05/2021
+
+Francia - Valores límite de exposición profesional
+
+Nombre local                                              Méthanol (alcool méthylique)
+
+VME (OEL TWA)                                             260 mg/m³
+
+                                                          200 ppm
+
+Comentarios                                               Valeurs règlementaires contraignantes; risque de pénétration percutanée
+
+Referencia normativa                                      Article R4412-149 du Code du travail (réf.: INRS ED 984, 2016; Décret n° 2019-1487;
+                                                          Décret n° 2020-1546; Décret n° 2021-434; Décret n° 2021-1849)
+
+Alemania - Valores límite de exposición profesional (TRGS 900)
+
+Nombre local                                              Methanol
+
+AGW (OEL TWA)                                             130 mg/m³
+
+                                                          100 ppm
+
+Factor de limitación de picos de exposición               2(II)
+
+Comentarios                                               DFG - Senatskommission zur Prüfung gesundheitsschädlicher Arbeitsstoffe der DFG
+                                                          (MAK-Kommission); EU - Europäische Union (Von der EU wurde ein Luftgrenzwert
+                                                          festgelegt: Abweichungen bei Wert und Spitzenbegrenzung sind möglich); H -
+                                                          hautresorptiv; Y - Ein Risiko der Fruchtschädigung braucht bei Einhaltung des
+                                                          Arbeitsplatzgrenzwertes und des biologischen Grenzwertes (BGW) nicht befürchtet zu
+                                                          werden
+
+Referencia normativa                                      TRGS900
+
+Alemania - Valores límite biológicos (TRGS 903)
+
+Nombre local                                              Methanol
+
+Valor límite biológico                                    15 mg/l Parameter: Methanol - Untersuchungsmaterial: U = Urin - Probenahmezeitpunkt:
+                                                          b) Expositionsende, bzw. Schichtende, c) bei Langzeitexposition: am Schichtende nach
+                                                          mehreren vorangegangenen Schichten - Festlegung/Begründung: 11/2019 DFG
+
+Referencia normativa                                      TRGS 903
+
+Países Bajos - Valores límite de exposición profesional
+
+TGG-8u (OEL TWA)                                          133 mg/m³
+
+TGG-15min (OEL STEL)                                      266 mg/m³
+
+Portugal - Valores límite de exposición profesional
+
+Nombre local                                              Metanol (Álcool metílico)
+
+OEL TWA                                                   200 ppm
+
+OEL STEL                                                  250 ppm
+
+Comentarios                                               P (Toxicidade percutânea); IBE (Índice biológico de exposição)
+
+Referencia normativa                                      Norma Portuguesa NP 1796:2014
+
+Portugal - Índices de exposición biológica
+
+Nombre local                                              Metanol
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                                  7/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Metanol (67-56-1)
+BEI                                                       15 mg/l Parâmetro: Metanol - Meio: urina - Momento da amostragem: Fim do turno -
+                                                          Notaçao: Vb (Valor basal), Ne (Não específico)
+
+Referencia normativa                                      Norma Portuguesa NP 1796:2014
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Metanol (Alcohol metílico)
+
+VLA-ED (OEL TWA)                                          266 mg/m³
+
+                                                          200 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                          VLB® (Agente químico que tiene Valor Límite Biológico), VLI (Agente químico para el que
+                                                          la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Metanol (Alcohol metílico)
+
+BLV                                                       15 mg/l Parámetro: Metanol - Medio: Orina - Momento de muestreo: Final de la jornada
+                                                          laboral - Notas: F (Fondo. El indicador está generalmente presente en cantidades
+                                                          detectables en personas no expuestas laboraboralmente. Estos niveles de fondo están
+                                                          considerados en el valor VLB), I (Significa que el indicador biológico es inespecífico
+                                                          puesto que puede encontrarse después de la exposición a otros agentes químicos)
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+Reino Unido - Valores límite de exposición profesional
+
+Nombre local                                              Methanol
+
+WEL TWA (OEL TWA)                                         266 mg/m³
+
+                                                          200 ppm
+
+WEL STEL (OEL STEL)                                       333 mg/m³
+
+                                                          250 ppm
+
+Comentarios                                               Sk (Can be absorbed through the skin. The assigned substances are those for which there
+                                                          are concerns that dermal absorption will lead to systemic toxicity)
+
+Referencia normativa                                      EH40/2005 (Fourth edition, 2020). HSE
+
+Suiza - Valores límite de exposición profesional
+
+Nombre local                                              Méthanol / Methanol [Methylalkohol]
+
+MAK (OEL TWA)                                             260 mg/m³
+
+                                                          200 ppm
+
+KZGW (OEL STEL)                                           520 mg/m³
+
+                                                          400 ppm
+
+Toxicidad crítica                                         SNC / ZNS
+
+Anotación                                                 R, SSC, B / H, SSC, B
+
+Comentarios                                               INRS, NIOSH
+
+Referencia normativa                                      www.suva.ch, 01.01.2021
+
+Suiza - BAT
+
+Nombre local                                              Méthanol / Methanol
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                                 8/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Metanol (67-56-1)
+BAT                                                       30 mg/l (936 µmol/l; Paramètre biologique: Méthanol; Substrat d’examen: Urine; Moment
+                                                          du prélèvement: Fin de l’exposition, de la période de travail. Exposition de longue durée:
+                                                          après plusieurs périodes de travail.) / (936 µmol/l; Biologischer Parameter: Methanol;
+                                                          Untersuchungsmaterial: Urin; Probennahmezeitpunkt: Expositionsende, bzw.
+                                                          Schichtende. Bei Langzeitexposition: nach mehreren vorangegangenen Schichten.)
+
+Referencia normativa                                      Ordonnance 832.30 (OPA), article 50 al. 3, www.suva.ch/valeurs-limites / Verordnung
+                                                          832.30 (VUV), Art. 50 Abs. 3, www.suva.ch/grenzwerte
+
+EE. UU. - ACGIH - Valores límite de exposición profesional
+
+Nombre local                                              Methanol
+
+ACGIH OEL TWA                                             200 ppm
+
+ACGIH OEL STEL                                            250 ppm
+
+Comentarios (ACGIH)                                       TLV® Basis: Headache; eye dam; dizziness; nausea. Notations: Skin; BEI
+
+Referencia normativa                                      ACGIH 2023
+
+EE. UU. - ACGIH - Índices de exposición biológica
+
+Nombre local                                              METHANOL
+
+BEI                                                       15 mg/l Parameter: Methanol - Medium: urine - Sampling time: End of shift - Notations: B,
+                                                          Ns
+
+Referencia normativa                                      ACGIH 2023
+
+8.1.2. Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos.
+
+8.1.3. Contaminantes del aire formados
+No se dispone de información adicional
+
+8.1.4. DNEL y PNEC
+No se dispone de información adicional
+
+8.1.5. Bandas de control
+No se dispone de información adicional
+
+8.2. Controles de la exposición
+8.2.1. Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado.
+
+8.2.2. Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+8.2.2.1. Protección de los ojos y la cara
+
+Protección ocular:
+Utilice un protector facial
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                                9/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+8.2.2.2. Protección de la piel
+
+Protección de la piel y del cuerpo:
+Utilizar ropa protectora: Ropa de protección con mangas largas. Utilizar calzado de seguridad
+
+
+Protección de las manos:
+Utilizar guantes protectores
+
+8.2.2.3. Protección respiratoria
+
+Protección respiratoria:
+En caso de formación de niebla: Media máscara desechable
+
+8.2.2.4. Peligros térmicos
+No se dispone de información adicional
+
+8.2.3. Controles de exposición medioambiental
+
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para uso particular.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   Blanco.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   No inflamable.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   No disponible
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   138613,861 mm²/s
+Viscosidad, dinámica                                   :   140 Pa·s
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   1,01 kg/l
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+9.2.1. Información relativa a las clases de peligro físico
+No se dispone de información adicional
+
+9.2.2. Otras características de seguridad
+No se dispone de información adicional
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                    10/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+El producto no es reactivo en condiciones normales de utilización, almacenamiento y transporte.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Ninguna en las condiciones de almacenamiento y de manipulación recomendadas (véase la sección 7).
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+
+Decametilciclopentasiloxano (541-02-6)
+DL50 oral rata                                            > 5000 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 401 (Acute Oral
+                                                          Toxicity)
+
+DL50 cutáneo conejo                                       > 2000 mg/kg de peso corporal Animal: rabbit, Guideline: OECD Guideline 402 (Acute
+                                                          Dermal Toxicity)
+
+CL50 Inhalación - Rata                                    8,67 mg/l air Animal: rat, Guideline: OECD Guideline 403 (Acute Inhalation Toxicity),
+                                                          Guideline: EPA OTS 798.1150 (Acute inhalation toxicity), 95% CL: 7,3 - 10,32
+
+3-Aminopropiltrietoxisilano (919-30-2)
+DL50 oral rata                                            1570 – 3650 mg/kg Source: OECD Screening Information Data Set
+
+DL50 cutáneo conejo                                       4290 mg/kg Source: OECD Screening Information Data Set
+Corrosión o irritación cutáneas                        : No clasificado
+Lesiones oculares graves o irritación ocular           : No clasificado
+Sensibilización respiratoria o cutánea                 : Sensibilización cutánea: No clasificado.
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+Toxicidad para la reproducción                         : No clasificado
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+NOAEL (animal/macho, F0/P)                                1000 mg/kg de peso corporal Animal: rat, Animal sex: male, Guideline: OECD Combined
+                                                          Repeated Dose and Reproductive / Developmental Toxicity Screening Test (Precursor
+                                                          Protocol of GL 422)
+
+NOAEL (animal/hembra, F0/P)                               250 mg/kg de peso corporal Animal: rat, Animal sex: female, Guideline: OECD Combined
+                                                          Repeated Dose and Reproductive / Developmental Toxicity Screening Test (Precursor
+                                                          Protocol of GL 422)
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición única
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                                11/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+
+Hidrocarburos, C15-C20, n-alcanos, isoalcanos, cíclicos, < 0,03% aromáticos (1335203-17-2)
+NOAEL (oral, rata, 90 días)                               5000 mg/kg de peso corporal/día (método OCDE 408)
+
+NOAEC (inhalación, rata, polvo/niebla/humo, 90 días) 10,4 mg/l (método OCDE 413)
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+LOAEL (oral, rata, 90 días)                               62,5 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 422 (Combined
+                                                          Repeated Dose Toxicity Study with the Reproduction / Developmental Toxicity Screening
+                                                          Test)
+
+NOAEL (oral, rata, 90 días)                               < 62,5 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 422 (Combined
+                                                          Repeated Dose Toxicity Study with the Reproduction / Developmental Toxicity Screening
+                                                          Test)
+
+Decametilciclopentasiloxano (541-02-6)
+NOAEL (oral, rata, 90 días)                               ≥ 1000 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 408 (Repeated
+                                                          Dose 90-Day Oral Toxicity in Rodents)
+
+NOAEL (cutáneo, rata/conejo, 90 días)                     ≥ 1600 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 410 (Repeated
+                                                          Dose Dermal Toxicity: 21/28-Day Study)
+
+NOAEC (inhalación, rata, vapor, 90 días)                  2,42 mg/l (método OCDE 453)
+
+3-Aminopropiltrietoxisilano (919-30-2)
+LOAEL (oral, rata, 90 días)                               600 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 408 (Repeated Dose
+                                                          90-Day Oral Toxicity in Rodents)
+
+NOAEL (oral, rata, 90 días)                               200 mg/kg de peso corporal Animal: rat, Guideline: OECD Guideline 408 (Repeated Dose
+                                                          90-Day Oral Toxicity in Rodents)
+Peligro por aspiración                                 : No clasificado
+
+CEYS SELLADOR VENTANAS BLANCO
+Viscosidad, cinemática                                    138613,861 mm²/s
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Viscosidad, cinemática                                    0,7 mm²/s Temp.: '20°C' Parameter: 'kinematic viscosity (in mm²/s)'
+
+Decametilciclopentasiloxano (541-02-6)
+Viscosidad, cinemática                                    3,7 mm²/s Temp.: 'other:25.0°C' Parameter: 'kinematic viscosity (in mm²/s)'
+
+3-Aminopropiltrietoxisilano (919-30-2)
+Viscosidad, cinemática                                    2,105 mm²/s
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Este producto no se considera nocivo para los organismos acuáticos o no que cause
+                                                         efectos adversos a largo plazo en el medio ambiente.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : No clasificado
+ambiente acuático
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                           12/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Hidrocarburos, C15-C20, n-alcanos, isoalcanos, cíclicos, < 0,03% aromáticos (1335203-17-2)
+CL50 - Peces [1]                                          > 250 mg/l (método OCDE 203)
+
+CE50 - Crustáceos [1]                                     > 3000 mg/l (método OCDE 202)
+
+CE50 72h - Algas [1]                                      > 10000 mg/l
+
+NOEC crónico crustáceos                                   > 1000 mg/l
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+CL50 - Peces [1]                                          > 100 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)
+
+CE50 - Crustáceos [1]                                     168,7 mg/l Test organisms (species): Daphnia magna
+
+CE50 72h - Algas [1]                                      > 957 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                          Scenedesmus subspicatus)
+
+LOEC (crónico)                                            52,4 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+NOEC (crónico)                                            28,1 mg/l Test organisms (species): Daphnia magna Duration: '21 d'
+
+Decametilciclopentasiloxano (541-02-6)
+CL50 - Peces [1]                                          > 16 μg/l Test organisms (species): Oncorhynchus mykiss (previous name: Salmo
+                                                          gairdneri)
+
+CE50 - Crustáceos [1]                                     > 2,9 μg/l Test organisms (species): Daphnia magna
+
+CE50 96h - Algas [1]                                      > 0,012 mg/l (método OCDE 201)
+
+NOEC crónico peces                                        ≥ 0,016 mg/l (método OCDE 210)
+
+NOEC crónico crustáceos                                   ≥ 0,015 mg/l (método OCDE 211)
+
+3-Aminopropiltrietoxisilano (919-30-2)
+CL50 - Peces [1]                                          > 934 mg/l Test organisms (species): Danio rerio (previous name: Brachydanio rerio)
+
+CE50 - Crustáceos [1]                                     331 mg/l Test organisms (species): Daphnia magna
+
+CE50 72h - Algas [1]                                      > 1000 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                          Scenedesmus subspicatus)
+
+CE50 72h - Algas [2]                                      603 mg/l Test organisms (species): Desmodesmus subspicatus (previous name:
+                                                          Scenedesmus subspicatus)
+
+12.2. Persistencia y degradabilidad
+
+CEYS SELLADOR VENTANAS BLANCO
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Hidrocarburos, C15-C20, n-alcanos, isoalcanos, cíclicos, < 0,03% aromáticos (1335203-17-2)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Decametilciclopentasiloxano (541-02-6)
+Persistencia y degradabilidad                             No fácilmente degradable
+
+3-Aminopropiltrietoxisilano (919-30-2)
+Persistencia y degradabilidad                             No fácilmente degradable
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                              13/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+12.3. Potencial de bioacumulación
+
+Trimetoxivinilsilano; trimetoxi(vinil)silano (2768-02-7)
+Coeficiente de partición n-octanol/agua (Log Pow)         -0,82 Source: ECHA Registered substances
+
+Decametilciclopentasiloxano (541-02-6)
+Coeficiente de partición n-octanol/agua (Log Pow)         5,2 Source: Corporate Solution From Thomson Micromedex
+
+Coeficiente de partición n-octanol/agua (Log Kow)         8,02 (método OCDE 123)
+
+3-Aminopropiltrietoxisilano (919-30-2)
+Coeficiente de partición n-octanol/agua (Log Pow)         -2,9 Source: ECHA
+
+12.4. Movilidad en el suelo
+
+Decametilciclopentasiloxano (541-02-6)
+Movilidad en el suelo                                     16000 Source: HSDB
+
+12.5. Resultados de la valoración PBT y mPmB
+
+Componente
+Sustancia(s) que reuna(n) los criterios de PBT del        Decametilciclopentasiloxano (541-02-6)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+Sustancia(s) que reuna(n) los criterios de mPmB del       Decametilciclopentasiloxano (541-02-6)
+Reglamento REACH, de conformidad con el anexo
+XIII
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                          IMDG                           IATA                      ADN                          RID
+
+14.1. Número ONU o número ID
+El producto no es peligroso de conformidad con la normativa aplicable al transporte
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                          14/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+             ADR                          IMDG                           IATA                      ADN                          RID
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+         No regulado                   No regulado                   No regulado                No regulado                  No regulado
+
+14.3. Clase(s) de peligro para el transporte
+         No regulado                   No regulado                   No regulado                No regulado                  No regulado
+
+14.4. Grupo de embalaje
+         No regulado                   No regulado                   No regulado                No regulado                  No regulado
+
+14.5. Peligros para el medio ambiente
+         No regulado                   No regulado                   No regulado                No regulado                  No regulado
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+No regulado
+
+Transporte marítimo
+No regulado
+
+Transporte aéreo
+No regulado
+
+Transporte por vía fluvial
+No regulado
+
+Transporte ferroviario
+No regulado
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+15.1.1. Normativa de la UE
+
+Anexo XVII de REACH (condiciones de las restricciones)
+No contiene ninguna sustancia incluida en el Anexo XVII de REACH (Condiciones de restricción)
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+Contiene una o varias sustancias incluidas en la lista de sustancias candidatas de REACH en concentraciones ≥ 0,1 % o SCL:
+Decametilciclopentasiloxano (EC 208-764-9, CAS 541-02-6)
+
+Reglamento PIC
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+
+
+
+13/03/2024 (Fecha de revisión)                                        ES (español)                                                         15/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Agotamiento de la capa de ozono
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 1005/2009 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento sobre productos de doble uso (428/2009)
+No contiene ninguna sustancia sujeta al REGLAMENTO (CE) N.º 428/2009 DEL CONSEJO, de 5 de mayo de 2009, por el que se establece un
+régimen comunitario de control de las exportaciones, la transferencia, el corretaje y el tránsito de productos de doble uso.
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+No contiene ninguna sustancia incluida en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+
+15.1.2. Normativas nacionales
+
+Alemania
+Restricciones profesionales                                  : Cumplir las restricciones correspondientes Ley de protección de madres trabajadoras
+                                                               (MuSchG).
+                                                               Cumplir las restricciones correspondientes Ley de protección de empleados jóvenes
+                                                               (JArbSchG).
+Clase de peligro para el agua (WGK)                          : WGK 3, Muy peligrosa para el agua (Clasificación según AwSV, Anexo 1).
+Ordenanza sobre incidentes peligrosos (12.                   : No está sujeto a Ordenanza sobre incidentes peligrosos (12. BImSchV)
+BImSchV)
+
+Países Bajos
+SZW-lijst van kankerverwekkende stoffen                      :   Ninguno de los componentes figura en la lista
+SZW-lijst van mutagene stoffen                               :   Ninguno de los componentes figura en la lista
+SZW-lijst van reprotoxische stoffen – Borstvoeding           :   Ninguno de los componentes figura en la lista
+SZW-lijst van reprotoxische stoffen –                        :   Ninguno de los componentes figura en la lista
+Vruchtbaarheid
+SZW-lijst van reprotoxische stoffen – Ontwikkeling           : Ninguno de los componentes figura en la lista
+
+Dinamarca
+Normativa nacional danesa                                    : Las mujeres embarazadas/lactantes que trabajen con el producto no deben entrar en
+                                                               contacto directo con el mismo
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+DQO                              Demanda química de oxígeno (DQO)
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+
+
+13/03/2024 (Fecha de revisión)                                               ES (español)                                                            16/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+CE50                             Concentración efectiva media
+
+EN                               Norma europea
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+COV                              Compuestos orgánicos volátiles
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+N.E.P                            No especificado en otra parte
+
+mPmB                             Muy persistente y muy bioacumulable
+
+ED                               Propiedades de alteración endocrina
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 4 (Inhalación)        Toxicidad aguda (por inhalación), categoría 4
+
+Acute Tox. 4 (Oral)              Toxicidad aguda (oral), categoría 4
+
+Aquatic Acute No                 Peligroso para el medio ambiente acuático – Peligro agudo No clasificado
+clasificado
+
+Aquatic Chronic No               Peligroso para el medio ambiente acuático – Peligro crónico No clasificado
+clasificado
+
+Asp. Tox. 1                      Peligro por aspiración, categoría 1
+
+EUH208                           Contiene 3-aminopropiltrietoxisilano. Puede provocar una reacción alérgica.
+
+Eye Dam. 1                       Lesiones oculares graves o irritación ocular, categoría 1
+
+Flam. Liq. 3                     Líquidos inflamables, categoría 3
+
+H226                             Líquidos y vapores inflamables.
+
+H302                             Nocivo en caso de ingestión.
+
+H304                             Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.
+
+
+13/03/2024 (Fecha de revisión)                                           ES (español)                                       17/18
+CEYS SELLADOR VENTANAS BLANCO
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Texto íntegro de las frases H y EUH:
+H314                             Provoca quemaduras graves en la piel y lesiones oculares graves.
+
+H317                             Puede provocar una reacción alérgica en la piel.
+
+H318                             Provoca lesiones oculares graves.
+
+H332                             Nocivo en caso de inhalación.
+
+Skin Corr. 1B                    Irritación o corrosión cutáneas, categoría 1, subcategoría 1B
+
+Skin Sens. 1                     Sensibilización cutánea, categoría 1
+
+Skin Sens. 1B                    Sensibilización cutánea, categoría 1B
+
+STOT RE No clasificado           Toxicidad específica en determinados órganos (exposiciones repetidas) No clasificado
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Flam. Liq. No clasificado                                    Criterio experto
+
+Skin Sens. No clasificado                                    Criterio experto
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+13/03/2024 (Fecha de revisión)                                           ES (español)                                                          18/18
+

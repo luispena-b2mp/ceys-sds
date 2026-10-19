@@ -1,0 +1,887 @@
+                                         PVC DISOLVENTE LIMPIADOR
+                                         Ficha de Datos de Seguridad
+                                         según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+                                         Fecha de emisión: 03/06/2025 Fecha de revisión: 10/06/2025 Reemplaza la versión de: 10/06/2025 Versión: 1.2
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                   :   Mezcla
+Nombre comercial                                     :   PVC DISOLVENTE LIMPIADOR
+UFI                                                  :   T3JD-2KJF-620Q-XGFV
+Código de producto                                   :   900001, 900002, 900004
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                           : Uso por el consumidor
+Uso de la sustancia/mezcla                           : Disolventes
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+Fabricante
+AC Marca Adhesives, S.A.
+Avda. Carrilet, L'Hospitalet de Llobregat 293-297
+08907 Barcelona (Spain)
+T +34 93 260 68 00, F +34 93 260 68 98
+reach@grupoacmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Organismo/Empresa                          Dirección                         Número de                    Comentario
+                                                                                                   emergencia
+Chile                 CITUC                                      Avda. Libertador Bernardo         2-2635 38 00
+                      CENTRO DE INFORMACIÓN                      O'Higgins 340
+                      TOXICOLOGICA DE LA PONTIFICIA              Santiago de Chile
+                      UNIVERSIDAD CATÓLICA DE CHILE
+
+España                Servicio de Información Toxicológica       C/José Echegaray nº4              +34 91 562 04 20             (solo emergencias
+                      Instituto Nacional de Toxicología y        28232 Las Rozas de Madrid         +34 91 411 26 76             toxicológicas),
+                      Ciencias Forenses, Departamento de                                           (teléfono solo para          Información en
+                      Madrid                                                                       médicos)                     español (24h/365
+                                                                                                                                días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Líquidos inflamables, categoría 2                               H225
+Lesiones oculares graves o irritación ocular, categoría 2       H319
+Toxicidad específica en determinados órganos – Exposición       H336
+única, categoría 3, narcosis
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Líquido y vapores muy inflamables. Puede provocar somnolencia o vértigo. Provoca irritación ocular grave.
+
+
+
+
+10/06/2025 (Fecha de revisión)                                         ES - es                                                                         1/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                             :
+
+
+
+
+                                                               GHS02        GHS07
+Palabra de advertencia (CLP)                             : Peligro
+Contiene                                                 : Acetona; Butanona
+
+Indicaciones de peligro (CLP)                            : H225 - Líquido y vapores muy inflamables.
+                                                           H319 - Provoca irritación ocular grave.
+                                                           H336 - Puede provocar somnolencia o vértigo.
+Consejos de prudencia (CLP)                              : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                           P102 - Mantener fuera del alcance de los niños.
+                                                           P210 - Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y
+                                                           de cualquier otra fuente de ignición. No fumar.
+                                                           P271 - Utilizar únicamente en exteriores o en un lugar bien ventilado.
+                                                           P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                           Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                           Toxicológica, Telefono 2-2635 38 00.
+                                                           P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                           o especiales.
+Frases EUH                                               : EUH066 - La exposición repetida puede provocar sequedad o formación de grietas en la
+                                                           piel.
+Frases suplementarias                                    : No ingerir.
+Cierre de seguridad para niños                           : No aplicable
+Indicación de peligro detectable con el tacto            : Aplicable
+
+2.3. Otros peligros
+No contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+La mezcla no contiene ni sustancia(s) incluida(s) en la lista establecida con arreglo al artículo 59, apartado 1 del Reglamento REACH por sus
+propiedades de alteración endocrina, ni sustancia(s) identificada(s) como poseedoras de propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado (UE) 2017/2100 de la Comisión o en el Reglamento (UE) 2018/605 de la Comisión en una
+concentración igual o superior al 0,1 %
+
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.2. Mezclas
+
+Nombre                                                       Identificador de               %               Clasificación según Reglamento
+                                                             producto                                       (UE) n° 1272/2008 [CLP]
+Acetona                                                      N° CAS: 67-64-1                20 – 75         Flam. Liq. 2, H225
+sustancia con uno o varios límites nacionales de             N° CE: 200-662-2                               Eye Irrit. 2, H319
+exposición en el lugar de trabajo (ES); sustancia a la       N° Índice: 606-001-00-8                        STOT SE 3, H336
+que se aplica un límite comunitario de exposición en                                                        EUH066
+el lugar de trabajo
+
+Butanona                                                     N° CAS: 78-93-3                20 – 50         Flam. Liq. 2, H225
+sustancia con uno o varios límites nacionales de             N° CE: 201-159-0                               Eye Irrit. 2, H319
+exposición en el lugar de trabajo (ES); sustancia a la       N° Índice: 606-002-00-3                        STOT SE 3, H336
+que se aplica un límite comunitario de exposición en                                                        EUH066
+el lugar de trabajo
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+
+10/06/2025 (Fecha de revisión)                                            ES - es                                                                   2/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general               : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración.
+Medidas de primeros auxilios en caso de contacto   : Aclararse la piel con agua/ducharse. Quitar inmediatamente todas las prendas
+con la piel                                          contaminadas.
+Medidas de primeros auxilios en caso de contacto   : Aclarar cuidadosamente con agua durante varios minutos. Quitar las lentes de contacto, si
+con los ojos                                         lleva y resulta fácil. Seguir aclarando. Si persiste la irritación ocular: Consultar a un médico.
+Medidas de primeros auxilios en caso de ingestión : Llamar a un centro de información toxicológica o a un médico en caso de malestar.
+Medidas de primeros auxilios para el personal de   : Los trabajadores de primeros auxilios deben llevar un equipo de protección individual
+primeros auxilios                                    adecuado.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos                                       :   Puede provocar somnolencia o vértigo.
+Síntomas/efectos después de inhalación                 :   Ninguno en condiciones normales.
+Síntomas/efectos después de contacto con la piel       :   La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+Síntomas/efectos después del contacto con el ojo       :   Irritación de los ojos.
+Síntomas/efectos después de ingestión                  :   Ninguno en condiciones normales.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar agua a presión.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Líquido y vapores muy inflamables.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. No exponer a llamas descubiertas o chispas y abstenerse de
+                                                         fumar. Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol. Evitar el
+                                                         contacto con los ojos y la piel.
+
+
+
+
+10/06/2025 (Fecha de revisión)                                           ES - es                                                                    3/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Absorber todo el producto vertido con arena o tierra. Confinar todo tipo de fugas o
+                                                         derrames mediante diques o productos absorbentes para evitar el desplazamiento y la
+                                                         entrada en el alcantarillado o cursos de agua. Detener la fuga, a ser posible sin exponerse
+                                                         a riesgos.
+Procedimientos de limpieza                             : Absorber el líquido derramado mediante un producto absorbente. Avisar a las autoridades
+                                                         si el producto llega a los desagües o las conducciones públicas de agua.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de
+                                                         cualquier otra fuente de ignición. No fumar. Conectar a tierra/enlace equipotencial del
+                                                         recipiente y del equipo de recepción. Utilizar únicamente herramientas que no produzcan
+                                                         chispas. Tomar medidas de precaución contra descargas electrostáticas. Pueden
+                                                         acumularse vapores inflamables en el envase. Utilizar un aparato antideflagrante. Llevar un
+                                                         equipo de protección individual. Utilizar únicamente en exteriores o en un lugar bien
+                                                         ventilado. Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol. Evitar el
+                                                         contacto con los ojos y la piel.
+Medidas de higiene                                     : No comer, beber ni fumar durante su utilización. Lavarse las manos después de cualquier
+                                                         manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Conectar a tierra/enlace equipotencial del recipiente y del equipo de recepción.
+Condiciones de almacenamiento                          : Almacenar en un lugar bien ventilado. Mantener en lugar fresco. Mantener el recipiente
+                                                         herméticamente cerrado. Guardar bajo llave.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+Valores límite nacionales de exposición profesional y biológicos
+
+Acetona (67-64-1)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Acetone
+
+IOEL TWA                                                  1210 mg/m³
+
+                                                          500 ppm
+
+
+
+10/06/2025 (Fecha de revisión)                                          ES - es                                                                    4/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Acetona (67-64-1)
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Acetona
+
+VLA-ED (OEL TWA)                                          1210 mg/m³
+
+                                                          500 ppm
+
+Comentarios                                               VLB® (Agente químico que tiene Valor Límite Biológico), VLI (Agente químico para el que
+                                                          la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Acetona
+
+BLV                                                       50 mg/l Parámetro: Acetona - Medio: Orina - Momento de muestreo: Final de la jornada
+                                                          laboral - Notas: I (Significa que el indicador biológico es inespecífico puesto que puede
+                                                          encontrarse después de la exposición a otros agentes químicos)
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+Butanona (78-93-3)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Butanone
+
+IOEL TWA                                                  600 mg/m³
+
+                                                          200 ppm
+
+IOEL STEL                                                 900 mg/m³
+
+                                                          300 ppm
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Metiletilcetona (Butanona)
+
+VLA-ED (OEL TWA)                                          600 mg/m³
+
+                                                          200 ppm
+
+VLA-EC (OEL STEL)                                         900 mg/m³
+
+                                                          300 ppm
+
+Comentarios                                               VLB® (Agente químico que tiene Valor Límite Biológico específico en este documento),
+                                                          VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo.
+                                                          Todos estos agentes químicos figuran al menos en una de las directivas de valores límite
+                                                          indicativos publicadas hasta ahora (ver Anexo C. Bibliografía). Los estados miembros
+                                                          disponen de un tiempo fijado en dichas directivas para su transposición a los valores
+                                                          límites de cada país miembro. Una vez adoptados, estos valores tienen la misma validez
+                                                          que el resto de los valores adoptados por el país).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Metiletilcetona (Butanona)
+
+BLV                                                       2 mg/l Parámetro: Metiletilcetona - Medio: Orina - Momento de muestreo: Final de la
+                                                          jornada laboral
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+
+
+
+10/06/2025 (Fecha de revisión)                                          ES - es                                                                   5/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                      Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                           medición de los agentes químicos. Deben usarse detectores de gases siempre que
+                                                           puedan liberarse gases/vapores inflamables.
+
+8.2. Controles de la exposición
+Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado. Equipo/iluminación antichispa y antideflagrante. Utilizar equipos eléctricos/mecánicos con
+derivación a tierra.
+
+Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado. Fuente ocular con líquido adaptado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+Protección de los ojos y la cara
+Protección ocular:
+Utilizar protección para los ojos: Gafas químicas o gafas de seguridad
+
+Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar calzado de seguridad: botas antiestáticas. Utilizar ropa protectora: Ropa antiestática, Ropa de protección ignífuga
+
+Protección de las manos:
+Utilizar guantes protectores: Guantes antiestáticos
+
+Protección respiratoria
+Protección respiratoria:
+Llevar una máscara adecuada
+
+Controles de exposición medioambiental
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para consumidor final.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   Incoloro.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   79 °C
+Inflamabilidad                                         :   Puede inflamarse fácilmente al usarlo,Líquido y vapores muy inflamables.
+Propiedades explosivas                                 :   Los vapores pueden formar una mezcla explosiva con el aire.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   -16 °C
+
+10/06/2025 (Fecha de revisión)                                           ES - es                                                                   6/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Viscosidad, dinámica                                   :   0,423 mPa·s a 15ºC
+Solubilidad                                            :   Agua: 353 g/l A 10 ºC
+Coeficiente de partición n-octanol/agua (Log Kow)      :   0,29
+Presión de vapor                                       :   103 mbar a 20 ºC
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   No disponible
+Densidad relativa                                      :   0,805
+Densidad relativa de vapor a 20°C                      :   No disponible
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+No se dispone de información adicional
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+Líquido y vapores muy inflamables.
+
+10.2. Estabilidad química
+Estable en condiciones normales.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Evitar el contacto con superficies calientes. Calor. Sin llamas ni chispas. Eliminar cualquier fuente de ignición.
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : No clasificado
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+Corrosión o irritación cutáneas                        : No clasificado
+Lesiones oculares graves o irritación ocular           : Provoca irritación ocular grave.
+Sensibilización respiratoria o cutánea                 : No clasificado
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : No clasificado
+Toxicidad para la reproducción                         : No clasificado
+Toxicidad específica en determinados órganos           : Puede provocar somnolencia o vértigo.
+(STOT) – exposición única
+
+Acetona (67-64-1)
+Toxicidad específica en determinados órganos               Puede provocar somnolencia o vértigo.
+(STOT) – exposición única
+
+
+
+10/06/2025 (Fecha de revisión)                                            ES - es                                           7/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Butanona (78-93-3)
+Toxicidad específica en determinados órganos              Puede provocar somnolencia o vértigo.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado
+(STOT) – exposición repetida
+Peligro por aspiración                                 : No clasificado
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Este producto no se considera nocivo para los organismos acuáticos o no que cause
+                                                         efectos adversos a largo plazo en el medio ambiente.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : No clasificado
+ambiente acuático
+
+12.2. Persistencia y degradabilidad
+
+PVC DISOLVENTE LIMPIADOR
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Acetona (67-64-1)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Butanona (78-93-3)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+
+PVC DISOLVENTE LIMPIADOR
+Coeficiente de partición n-octanol/agua (Log Kow)         0,29
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+No se dispone de información adicional
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                      : Eliminar de acuerdo con la normativa oficial.
+
+
+
+10/06/2025 (Fecha de revisión)                                            ES - es                                                            8/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : Pueden acumularse vapores inflamables en el envase. No reutilizar los recipientes vacíos.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                          IMDG                           IATA                       ADN                         RID
+
+14.1. Número ONU o número ID
+          ONU 1224                      ONU 1224                       ONU 1224                   ONU 1224                   ONU 1224
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+   CETONAS LÍQUIDAS,             CETONAS LÍQUIDAS,               Ketones, liquid, n.o.s.    CETONAS LÍQUIDAS,          CETONAS LÍQUIDAS,
+     N.E.P. ((CONTIENE             N.E.P. ((CONTIENE           ((CONTAINS ACETONE             N.E.P. ((CONTIENE          N.E.P. ((CONTIENE
+   ACETONA PROPAN-2-             ACETONA PROPAN-2-                 PROPAN-2-ONE             ACETONA PROPAN-2-          ACETONA PROPAN-2-
+    ONA PROPANONA /               ONA PROPANONA /                  PROPANONE /               ONA PROPANONA /            ONA PROPANONA /
+        BUTANONA                      BUTANONA                   BUTANONE ETHYL                  BUTANONA                   BUTANONA
+    ETILMETILCETONA))             ETILMETILCETONA))              METHYL KETONE))             ETILMETILCETONA))          ETILMETILCETONA))
+
+Descripción del documento del transporte
+
+   UN 1224 CETONAS           UN 1224 CETONAS                   UN 1224 Ketones, liquid,       UN 1224 CETONAS            UN 1224 CETONAS
+    LÍQUIDAS, N.E.P.          LÍQUIDAS, N.E.P.                   n.o.s. ((CONTAINS             LÍQUIDAS, N.E.P.           LÍQUIDAS, N.E.P.
+ ((CONTIENE ACETONA        ((CONTIENE ACETONA                  ACETONE PROPAN-2-            ((CONTIENE ACETONA         ((CONTIENE ACETONA
+    PROPAN-2-ONA              PROPAN-2-ONA                      ONE PROPANONE /                PROPAN-2-ONA               PROPAN-2-ONA
+     PROPANONA /               PROPANONA /                      BUTANONE ETHYL                  PROPANONA /                PROPANONA /
+       BUTANONA                  BUTANONA                      METHYL KETONE)), 3, II             BUTANONA                   BUTANONA
+ETILMETILCETONA)), 3, II, ETILMETILCETONA)), 3, II                                         ETILMETILCETONA)), 3, II   ETILMETILCETONA)), 3, II
+         (D/E)
+
+14.3. Clase(s) de peligro para el transporte
+               3                             3                             3                          3                          3
+
+
+
+
+14.4. Grupo de embalaje
+               II                            II                            II                         II                         II
+
+14.5. Peligros para el medio ambiente
+   Peligroso para el medio        Peligroso para el medio       Peligroso para el medio     Peligroso para el medio    Peligroso para el medio
+        ambiente: No                   ambiente: No                  ambiente: No                ambiente: No               ambiente: No
+                                 Contaminante marino: No
+                                   N.° FS (Fuego): F-E
+                                  N.° FS (Derrame): S-D
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+Código de clasificación (ADR)                          :   F1
+Disposiciones especiales (ADR)                         :   274, 640C
+Cantidades limitadas (ADR)                             :   1l
+Cantidades exceptuadas (ADR)                           :   E2
+
+10/06/2025 (Fecha de revisión)                                          ES - es                                                              9/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+Instrucciones de embalaje (ADR)                         : P001
+Disposiciones para el embalaje en común (ADR)           : MP19
+Instrucciones de transporte en cisternas portátiles y   : T7
+contenedores para granel (ADR)
+Disposiciones especiales relativas a las cisternas      : TP1, TP8, TP28
+portátiles y los contenedores para graneles (ADR)
+Código cisterna (ADR)                                   :   L1.5BN
+Vehículo para el transporte en cisternas                :   FL
+Categoría de transporte (ADR)                           :   2
+Disposiciones especiales de transporte -                :   S2, S20
+Explotación (ADR)
+Número de identificación de peligro (código Kemler)     : 33
+Panel naranja                                           :
+
+
+
+
+Código de restricciones en túneles (ADR)                : D/E
+
+Transporte marítimo
+Disposiciones especiales (IMDG)                         :   274
+Cantidades limitadas (IMDG)                             :   1L
+Cantidades exceptuadas (IMDG)                           :   E2
+Instrucciones de embalaje (IMDG)                        :   P001
+Instrucciones de embalaje GRG (IMDG)                    :   IBC02
+Instrucciones para cisternas (IMDG)                     :   T7
+Disposiciones especiales para las cisternas (IMDG)      :   TP1, TP8, TP28
+Categoría de carga (IMDG)                               :   B
+
+Transporte aéreo
+Cantidades exceptuadas para aviones de pasajeros        : E2
+y de carga (IATA)
+Cantidades limitadas para aviones de pasajeros y        : Y341
+de carga (IATA)
+Cantidad neta máxima para cantidad limitada en          : 1L
+aviones de pasajeros y de carga (IATA)
+Instrucciones de embalaje para aviones de               : 353
+pasajeros y de carga (IATA)
+Cantidad neta máxima para aviones de pasajeros y        : 5L
+de carga (IATA)
+Instrucciones de embalaje exclusivamente para           : 364
+aviones de carga (IATA)
+Cantidad máx. neta exclusivamente para aviones          : 60L
+de carga (IATA)
+Disposiciones especiales (IATA)                         : A3
+Código GRE (IATA)                                       : 3L
+
+Transporte por vía fluvial
+No hay datos disponibles
+
+Transporte ferroviario
+No hay datos disponibles
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+
+10/06/2025 (Fecha de revisión)                                          ES - es       10/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+Normativa de la UE
+
+Anexo XVII de REACH (Lista de restricciones)
+No contiene ninguna sustancia incluida en el Anexo XVII de REACH (Condiciones de restricción)
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+No contiene ninguna sustancia incluida en la lista de sustancias candidatas de REACH
+
+Regulación PIC (consentimiento fundamentado previo)
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Reglamento sobre el ozono (2024/590)
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento (CE) del Consejo para el control de productos de doble uso
+No contiene sustancias sujetas al REGLAMENTO (CE) DEL CONSEJO para el control de productos de doble uso
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+Contiene una o varias sustancias incluidas en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+ANEXO II - PRECURSORES DE EXPLOSIVOS QUE DEBEN NOTIFICARSE
+Lista de sustancias como tales o en mezclas o en sustancias respecto de las cuales deben notificarse en un plazo de veinticuatro horas
+transacciones sospechosas y desapariciones y robos significativos.
+Nombre                     N° CAS                    Código de la             Código de la nomenclatura combinada de una mezcla sin
+                                                     nomenclatura             componentes que determinarían una clasificación bajo otro
+                                                     combinada (NC)           código NC
+Acetona                    67-64-1                   2914 11 00               ex 3824 99 92
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+Contiene una o varias sustancias incluidas en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+Nombre                              Denominació N° CAS                  Código CN           Categoría,          Umbral              Anexo
+                                    n NC                                                    Subcategoría
+Acetona                                               67-64-1           2914 11 00          Categoría 3                             Anexo I
+
+Metiletilcetona (MEK)               Butanone          78-93-3           2914 12 00          Categoría 3                             Anexo I
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Abreviaturas y acrónimos:
+ACGIH                            Asociación Estadounidense de Higienistas Industriales, EE. UU.
+
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+
+
+10/06/2025 (Fecha de revisión)                                            ES - es                                                               11/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+CLP                              Reglamento (CE) n° 1272/2008 sobre clasificación, etiquetado y envasado
+
+DQO                              Demanda química de oxígeno (DQO)
+
+CSA                              Evaluación de la seguridad química
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+AE                               Alterador endocrino
+
+EN                               Norma europea
+
+CER                              Catálogo europeo de residuos
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+Log Kow                          Coeficiente de partición n-octanol/agua (Log Kow)
+
+Log Pow                          Coeficiente de partición n-octanol/agua (Log Pow)
+
+MAK                              maximum workplace concentration
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+N.E.P                            No especificado en otra parte
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+OSHA                             Agencia Federal de Higiene y Seguridad Profesional del Departamento de Trabajo de los Estados Unidos
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+EPI                              Equipos de protección personal
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+TF                               Función técnica
+
+
+10/06/2025 (Fecha de revisión)                                             ES - es                                                      12/13
+PVC DISOLVENTE LIMPIADOR
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (CE) 2020/878
+
+
+Abreviaturas y acrónimos:
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+TLM                              Tolerancia media limite
+
+TWA                              Concentración media ponderada en el tiempo
+
+COV                              Compuestos orgánicos volátiles
+
+mPmB                             Muy persistente y muy bioacumulable
+
+UFI                              Identificador único de fórmula
+
+
+Texto íntegro de las frases H y EUH:
+Eye Irrit. 2                     Lesiones oculares graves o irritación ocular, categoría 2
+
+Flam. Liq. 2                     Líquidos inflamables, categoría 2
+
+STOT SE 3                        Toxicidad específica en determinados órganos – Exposición única, categoría 3, narcosis
+
+H225                             Líquido y vapores muy inflamables.
+
+H319                             Provoca irritación ocular grave.
+
+H336                             Puede provocar somnolencia o vértigo.
+
+EUH066                           La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Flam. Liq. 2                     H225                        Conforme a datos obtenidos de ensayos
+
+Eye Irrit. 2                     H319                        Método de cálculo
+
+STOT SE 3                        H336                        Método de cálculo
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+10/06/2025 (Fecha de revisión)                                             ES - es                                                             13/13
+

@@ -1,0 +1,1326 @@
+                                          PVC TIXOTRÓPICO GEL
+                                          Ficha de Datos de Seguridad
+                                          según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+                                          Fecha de emisión: 03/03/2025 Fecha de revisión: 28/08/2026 Reemplaza la versión de: 02/06/2025 Versión: 2.1
+
+
+
+
+SECCIÓN 1: Identificación de la sustancia o la mezcla y de la sociedad o la empresa
+
+1.1. Identificador de producto
+Forma del producto                                    :   Mezcla
+Nombre comercial                                      :   PVC TIXOTRÓPICO GEL
+UFI                                                   :   DQJT-XFQP-G507-4E2Q
+Código de producto                                    :   900911, 900912, 900913, 900914
+Tipo de producto                                      :   adhesivos
+
+1.2. Usos pertinentes identificados de la sustancia o de la mezcla y usos desaconsejados
+Usos pertinentes identificados
+Destinado al público en general
+Categoría de uso principal                            : Uso por el consumidor
+
+1.3. Datos del proveedor de la ficha de datos de seguridad
+Fabricante                                                                  Distribuidor
+AC Marca Adhesives, S.A.                                                    Ceys Mexicana, S.A de C.V.
+Avda. Carrilet, 293-297, L'Hospitalet de Llobregat 293-297                  Blvd. Toluca 49-51, Colonia San Andrés Atoto Naucalpan de Juárez, Edo
+08907 Barcelona (Spain)                                                     de Mex. C.P. 53500 RFC: CME 961115 NRA
+T +34 93 260 68 00                                                          MEXICO
+regulatory.mpq@acmarca.com                                                  T 01 800 88 88 362 (lada sin costo)
+                                                                            infomx@acmarca.com
+Distribuidor
+AC Marca Chile, Ltda.
+Román Diaz 205, oficina 604, Providencia
+Providencia., Santiago
+Chile
+T 22 235 5517 – 22 236 0748, F 235 53 84
+infocl@acmarca.com
+
+1.4. Teléfono de emergencia
+
+País/Zona             Empresa                                                                       Número de emergencia
+Chile                 CITUC.                                                                        2-2635 38 00
+                      CENTRO DE INFORMACIÓN TOXICOLOGICA DE LA PONTIFICIA
+                      UNIVERSIDAD CATÓLICA DE CHILE.
+                      Avda. Libertador Bernardo O'Higgins 340 Santiago de Chile.
+
+España                Servicio de Información Toxicológica.                                         +34 91 562 04 20
+                      Instituto Nacional de Toxicología y Ciencias Forenses. Departamento de        +34 91 411 26 76 (teléfono solo para médicos)
+                      Madrid.                                                                       (solo emergencias toxicológicas), Información en
+                      C/José Echegaray nº4 28232 Las Rozas de Madrid.                               español (24h/365 días)
+
+
+
+SECCIÓN 2: Identificación de los peligros
+
+2.1. Clasificación de la sustancia o de la mezcla
+Clasificación según Reglamento (UE) n° 1272/2008 [CLP]
+Líquidos inflamables, categoría 2                                H225
+Toxicidad aguda (oral), categoría 4                              H302
+Irritación o corrosión cutáneas No clasificado
+Lesiones oculares graves o irritación ocular, categoría 2        H319
+Carcinogenicidad, categoría 2                                    H351
+Toxicidad específica en determinados órganos – Exposición        H336
+única, categoría 3, narcosis
+Toxicidad específica en determinados órganos – Exposición        H335
+única, categoría 3, irritación de las vías respiratorias
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                         1/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+Toxicidad específica en determinados órganos (exposiciones
+repetidas) No clasificado
+Texto completo de las frases H y EUH: ver sección 16
+
+Efectos adversos fisicoquímicos, para la salud humana y el medio ambiente
+Líquido y vapores muy inflamables. Se sospecha que provoca cáncer. Puede provocar somnolencia o vértigo. Nocivo en caso de ingestión. Puede
+irritar las vías respiratorias. Provoca irritación ocular grave.
+
+2.2. Elementos de la etiqueta
+Etiquetado según el Reglamento (CE) n° 1272/2008 [CLP]
+Pictogramas de peligro (CLP)                           :
+
+
+
+
+                                                              GHS02          GHS07           GHS08
+Palabra de advertencia (CLP)                           : Peligro
+Contiene                                               : Tetrahidrofurano
+Indicaciones de peligro (CLP)                          : H225 - Líquido y vapores muy inflamables.
+                                                         H302 - Nocivo en caso de ingestión.
+                                                         H319 - Provoca irritación ocular grave.
+                                                         H335 - Puede irritar las vías respiratorias.
+                                                         H336 - Puede provocar somnolencia o vértigo.
+                                                         H351 - Se sospecha que provoca cáncer.
+Consejos de prudencia (CLP)                            : P101 - Si se necesita consejo médico, tener a mano el envase o la etiqueta.
+                                                         P102 - Mantener fuera del alcance de los niños.
+                                                         P210 - Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y
+                                                         de cualquier otra fuente de ignición. No fumar.
+                                                         P260 - No respirar los vapores.
+                                                         P280 - Llevar guantes de protección, equipo de protección para los ojos y la cara.
+                                                         P301+P312 - En caso de accidente, consultar al Servicio Médico de información
+                                                         Toxicológica, Tel- 91 562 04 20. En Chile, llame al CITUC, centro de Información
+                                                         Toxicológica, Telefono 2-2635 38 00.
+                                                         P501 - Eliminar el contenido y el recipiente en un punto de recogida de residuos peligrosos
+                                                         en caso de que no se haya consumido completamente.
+Frases EUH                                             : EUH019 - Puede formar peróxidos explosivos.
+                                                         EUH066 - La exposición repetida puede provocar sequedad o formación de grietas en la
+                                                         piel.
+Frases suplementarias                                  : No ingerir.
+                                                         No enjuague el envase antes de su eliminación.
+Cierre de seguridad para niños                         : No aplicable
+Indicación de peligro detectable con el tacto          : Aplicable
+
+2.3. Otros peligros
+No contiene sustancias PBT y/o mPmB ≥ 0,1% evaluadas conforme al anexo XIII de REACH
+
+La mezcla no contiene ni sustancia(s) incluida(s) en la lista establecida con arreglo al artículo 59, apartado 1 del Reglamento REACH por sus
+propiedades de alteración endocrina, ni sustancia(s) identificada(s) como poseedoras de propiedades de alteración endocrina con arreglo a los
+criterios establecidos en el Reglamento Delegado (UE) 2017/2100 de la Comisión o en el Reglamento (UE) 2018/605 de la Comisión en una
+concentración igual o superior al 0,1 %
+
+
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                   2/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+SECCIÓN 3: Composición/información sobre los componentes
+
+3.2. Mezclas
+
+Nombre                                                      Identificador de              %              Clasificación según Reglamento
+                                                            producto                                     (UE) n° 1272/2008 [CLP]
+Tetrahidrofurano                                            N° CAS: 109-99-9              25 – 75        Flam. Liq. 2, H225
+sustancia con uno o varios límites nacionales de            N° CE: 203-726-8                             Acute Tox. 4 (Oral), H302 (ATE=500
+exposición en el lugar de trabajo (ES); sustancia a la      N° Índice: 603-025-00-0                      mg/kg de peso corporal)
+que se aplica un límite comunitario de exposición en        REACH-no: 01-2119444314-                     Eye Irrit. 2, H319
+el lugar de trabajo                                         46                                           Carc. 2, H351
+                                                                                                         STOT SE 3, H335
+                                                                                                         EUH019
+
+Ciclohexanona                                               N° CAS: 108-94-1              1 – 25         Flam. Liq. 3, H226
+sustancia con uno o varios límites nacionales de            N° CE: 203-631-1                             Acute Tox. No clasificado (Oral)
+exposición en el lugar de trabajo (ES); sustancia a la      N° Índice: 606-010-00-7                      Acute Tox. No clasificado (Cutánea)
+que se aplica un límite comunitario de exposición en        REACH-no: 01-2119453616-                     Acute Tox. 4 (Inhalación), H332
+el lugar de trabajo                                         35
+
+Butanona                                                    N° CAS: 78-93-3               1 – 10         Flam. Liq. 2, H225
+sustancia con uno o varios límites nacionales de            N° CE: 201-159-0                             Eye Irrit. 2, H319
+exposición en el lugar de trabajo (ES); sustancia a la      N° Índice: 606-002-00-3                      STOT SE 3, H336
+que se aplica un límite comunitario de exposición en                                                     EUH066
+el lugar de trabajo
+
+Etilbenceno                                                 N° CAS: 100-41-4              0 – 10         Flam. Liq. 2, H225
+sustancia con uno o varios límites nacionales de            N° CE: 202-849-4                             Acute Tox. 4 (Inhalación), H332
+exposición en el lugar de trabajo (ES); sustancia a la      N° Índice: 601-023-00-4                      STOT RE 2, H373
+que se aplica un límite comunitario de exposición en                                                     Asp. Tox. 1, H304
+el lugar de trabajo                                                                                      Aquatic Chronic No clasificado
+
+Xileno                                                      N° CAS: 1330-20-7             0 – 10         Flam. Liq. 3, H226
+sustancia con uno o varios límites nacionales de            N° CE: 215-535-7                             Acute Tox. 4 (Cutánea), H312
+exposición en el lugar de trabajo (ES); sustancia a la      N° Índice: 601-022-00-9                      Acute Tox. 4 (Inhalación), H332
+que se aplica un límite comunitario de exposición en                                                     Skin Irrit. 2, H315
+el lugar de trabajo
+
+2-Metilpropan-1-ol; iso-butanol                             N° CAS: 78-83-1               0–1            Flam. Liq. 3, H226
+sustancia con uno o varios límites nacionales de            N° CE: 201-148-0                             Skin Irrit. 2, H315
+exposición en el lugar de trabajo (ES)                      N° Índice: 603-108-00-1                      Eye Dam. 1, H318
+                                                            REACH-no: 01-2119484609-                     STOT SE 3, H336
+                                                            23                                           STOT SE 3, H335
+
+
+Límites de concentración específicos:
+Nombre                                                      Identificador de producto     Límites de concentración específicos (%)
+
+Tetrahidrofurano                                            N° CAS: 109-99-9              (5 ≤ C < 100) STOT SE 3; H336
+                                                            N° CE: 203-726-8              (25 ≤ C ≤ 100) STOT SE 3; H335
+                                                            N° Índice: 603-025-00-0       (25 ≤ C ≤ 100) Eye Irrit. 2; H319
+                                                            REACH-no: 01-2119444314-
+                                                            46
+Texto completo de las frases H y EUH: ver sección 16
+
+
+
+
+SECCIÓN 4: Primeros auxilios
+
+4.1. Descripción de los primeros auxilios
+Medidas de primeros auxilios general                     : EN CASO DE exposición manifiesta o presunta: Consultar a un médico. Llamar a un centro
+                                                           de información toxicológica o a un médico en caso de malestar.
+
+
+
+28/08/2026 (Fecha de revisión)                                           ES - es                                                               3/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+Medidas de primeros auxilios en caso de inhalación : Transportar a la persona al aire libre y mantenerla en una posición que le facilite la
+                                                     respiración. Llamar a un centro de información toxicológica o a un médico en caso de
+                                                     malestar.
+Medidas de primeros auxilios en caso de contacto   : Aclararse la piel con agua/ducharse. Quitar inmediatamente todas las prendas
+con la piel                                          contaminadas.
+Medidas de primeros auxilios en caso de contacto   : Aclarar cuidadosamente con agua durante varios minutos. Quitar las lentes de contacto, si
+con los ojos                                         lleva y resulta fácil. Seguir aclarando. Si persiste la irritación ocular: Consultar a un médico.
+Medidas de primeros auxilios en caso de ingestión : Enjuagarse la boca. Llamar a un centro de información toxicológica o a un médico en caso
+                                                     de malestar.
+Autoprotección del personal de primeros auxilios   : Los trabajadores de primeros auxilios deben llevar un equipo de protección individual
+                                                     adecuado.
+
+4.2. Principales síntomas y efectos, agudos y retardados
+Síntomas/efectos                                       :   Puede provocar somnolencia o vértigo.
+Síntomas/efectos después de inhalación                 :   Puede irritar las vías respiratorias.
+Síntomas/efectos después de contacto con la piel       :   La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+Síntomas/efectos después del contacto con el ojo       :   Irritación de los ojos.
+Síntomas/efectos después de ingestión                  :   Nocivo en caso de ingestión.
+
+4.3. Indicación de toda atención médica y de los tratamientos especiales que deban dispensarse inmediatamente
+Tratamiento sintomático.
+
+
+
+SECCIÓN 5: Medidas de lucha contra incendios
+
+5.1. Medios de extinción
+Medios de extinción apropiados                         : Agua pulverizada. Polvo seco. Espuma. Dióxido de carbono.
+Medios de extinción no apropiados                      : No utilizar agua a presión.
+
+5.2. Peligros específicos derivados de la sustancia o la mezcla
+Peligro de incendio                                    : Líquido y vapores muy inflamables.
+Peligro de explosión                                   : Sin peligro directo de explosión.
+Productos de descomposición peligrosos en caso         : Posible emisión de humos tóxicos.
+de incendio
+
+5.3. Recomendaciones para el personal de lucha contra incendios
+Instrucciones para extinción de incendio               : Extinguir el incendio desde una distancia segura y un lugar protegido. No entrar en la zona
+                                                         de fuego sin el equipo de protección adecuado, incluida la protección respiratoria.
+Protección durante la extinción de incendios           : No intervenir sin equipo de protección adecuado. Aparato autónomo y aislante de
+                                                         protección respiratoria. Protección completa del cuerpo.
+
+
+
+SECCIÓN 6: Medidas en caso de vertido accidental
+
+6.1. Precauciones personales, equipo de protección y procedimientos de emergencia
+Medidas generales                                      : Detener la fuga, si no hay peligro en hacerlo. Avisar a las autoridades si el producto llega a
+                                                         los desagües o las conducciones públicas de agua. Absorber el vertido para que no dañe
+                                                         otros materiales.
+
+Para el personal que no forma parte de los servicios de emergencia
+Equipo de protección                                   : Llevar el equipo de protección individual recomendado.
+Procedimientos de emergencia                           : Ventilar la zona de derrame. No exponer a llamas descubiertas o chispas y abstenerse de
+                                                         fumar. Evitar respirar el polvo/el humo/el gas/la niebla/los vapores/el aerosol. Evitar el
+                                                         contacto con los ojos y la piel.
+
+Para el personal de emergencia
+Equipo de protección                                   : No intervenir sin equipo de protección adecuado. Para más información, ver sección 8 :
+                                                         "Control de la exposición-protección individual".
+Procedimientos de emergencia                           : Evacuar el personal no necesario. Detener la fuga, si no hay peligro en hacerlo.
+
+
+
+28/08/2026 (Fecha de revisión)                                           ES - es                                                                    4/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+6.2. Precauciones relativas al medio ambiente
+Evitar su liberación al medio ambiente.
+
+6.3. Métodos y material de contención y de limpieza
+Para retención                                         : Absorber todo el producto vertido con arena o tierra. Confinar todo tipo de fugas o
+                                                         derrames mediante diques o productos absorbentes para evitar el desplazamiento y la
+                                                         entrada en el alcantarillado o cursos de agua. Detener la fuga, a ser posible sin exponerse
+                                                         a riesgos.
+Procedimientos de limpieza                             : Absorber el líquido derramado mediante un producto absorbente. Avisar a las autoridades
+                                                         si el producto llega a los desagües o las conducciones públicas de agua.
+Otros datos                                            : Eliminar los materiales o residuos sólidos en un centro autorizado.
+
+6.4. Referencia a otras secciones
+Para más información, ver sección 13.
+
+
+
+SECCIÓN 7: Manipulación y almacenamiento
+
+7.1. Precauciones para una manipulación segura
+Peligros adicionales durante el tratamiento            : No se considera peligroso en condiciones normales de utilización.
+Precauciones para una manipulación segura              : Mantener alejado del calor, de superficies calientes, de chispas, de llamas abiertas y de
+                                                         cualquier otra fuente de ignición. No fumar. Conectar a tierra/enlace equipotencial del
+                                                         recipiente y del equipo de recepción. Utilizar únicamente herramientas que no produzcan
+                                                         chispas. Tomar medidas de precaución contra descargas electrostáticas. Pueden
+                                                         acumularse vapores inflamables en el envase. Utilizar un aparato antideflagrante. Llevar un
+                                                         equipo de protección individual. Solicitar instrucciones especiales antes del uso. No
+                                                         manipular la sustancia antes de haber leído y comprendido todas las instrucciones de
+                                                         seguridad. Utilizar únicamente en exteriores o en un lugar bien ventilado. Evitar respirar el
+                                                         polvo/el humo/el gas/la niebla/los vapores/el aerosol. Evitar el contacto con los ojos y la
+                                                         piel.
+Medidas de higiene                                     : No comer, beber ni fumar durante su utilización. Lavarse las manos después de cualquier
+                                                         manipulación.
+
+7.2. Condiciones de almacenamiento seguro, incluidas posibles incompatibilidades
+Medidas técnicas                                       : Conectar a tierra/enlace equipotencial del recipiente y del equipo de recepción.
+Condiciones de almacenamiento                          : Almacenar en un lugar bien ventilado. Mantener en lugar fresco. Mantener el recipiente
+                                                         herméticamente cerrado. Guardar bajo llave.
+Material de embalaje                                   : Conservar siempre el producto en un envase del mismo tipo que el envase de origen.
+
+7.3. Usos específicos finales
+No se dispone de información adicional
+
+
+
+SECCIÓN 8: Controles de exposición/protección individual
+
+8.1. Parámetros de control
+Valores límite nacionales de exposición profesional y biológicos
+
+Ciclohexanona (108-94-1)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Cyclohexanone
+
+IOEL TWA                                                  40,8 mg/m³
+
+                                                          10 ppm
+
+IOEL STEL                                                 81,6 mg/m³
+
+                                                          20 ppm
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                   5/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Ciclohexanona (108-94-1)
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Ciclohexanona
+
+VLA-ED (OEL TWA)                                          41 mg/m³
+
+                                                          10 ppm
+
+VLA-EC (OEL STEL)                                         82 mg/m³
+
+                                                          20 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante.
+                                                          Para más información véase el Apartado 5 de este documento), VLI (Agente químico para
+                                                          el que la U.E. estableció en su día un valor límite indicativo. Todos estos agentes
+                                                          químicos figuran al menos en una de las directivas de valores límite indicativos publicadas
+                                                          hasta ahora (ver Anexo C. Bibliografía). Los estados miembros disponen de un tiempo
+                                                          fijado en dichas directivas para su transposición a los valores límites de cada país
+                                                          miembro. Una vez adoptados, estos valores tienen la misma validez que el resto de los
+                                                          valores adoptados por el país), VLB® (Agente químico que tiene Valor Límite Biológico
+                                                          específico en este documento).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2024. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Ciclohexanona
+
+BLV                                                       80 mg/l Parámetro: 1,2-Ciclohexanodiol - Medio: Orina - Momento de muestreo: Final de
+                                                          la semana laboral - Notas: I (Significa que el indicador biológico es inespecífico puesto
+                                                          que puede encontrarse después de la exposición a otros agentes químicos), S (Significa
+                                                          que el indicador biológico es un indicador de exposición al agente químico en cuestión,
+                                                          pero la interpretación cuantitativa de su medida es ambigua (semicuantitativa). Estos
+                                                          indicadores biológicos deben utilizarse como una prueba de selección (screening) cuando
+                                                          no se pueda realizar una prueba cuantitativa o usarse como prueba de confirmación, si la
+                                                          prueba cuantitativa no es específica y el origen del determinante es dudoso), Con
+                                                          hidrólisis
+                                                          8 mg/l Parámetro: Ciclohexanol - Medio: Orina - Momento de muestreo: Final de la
+                                                          jornada laboral - Notas: I (Significa que el indicador biológico es inespecífico puesto que
+                                                          puede encontrarse después de la exposición a otros agentes químicos), S (Significa que
+                                                          el indicador biológico es un indicador de exposición al agente químico en cuestión, pero la
+                                                          interpretación cuantitativa de su medida es ambigua (semicuantitativa). Estos indicadores
+                                                          biológicos deben utilizarse como una prueba de selección (screening) cuando no se
+                                                          pueda realizar una prueba cuantitativa o usarse como prueba de confirmación, si la
+                                                          prueba cuantitativa no es específica y el origen del determinante es dudoso), Con
+                                                          hidrólisis
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2024. INSHT
+
+Butanona (78-93-3)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Butanone
+
+IOEL TWA                                                  600 mg/m³
+
+                                                          200 ppm
+
+IOEL STEL                                                 900 mg/m³
+
+                                                          300 ppm
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                   6/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Butanona (78-93-3)
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Metiletilcetona (Butanona)
+
+VLA-ED (OEL TWA)                                          600 mg/m³
+
+                                                          200 ppm
+
+VLA-EC (OEL STEL)                                         900 mg/m³
+
+                                                          300 ppm
+
+Comentarios                                               VLB® (Agente químico que tiene Valor Límite Biológico específico en este documento),
+                                                          VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo.
+                                                          Todos estos agentes químicos figuran al menos en una de las directivas de valores límite
+                                                          indicativos publicadas hasta ahora (ver Anexo C. Bibliografía). Los estados miembros
+                                                          disponen de un tiempo fijado en dichas directivas para su transposición a los valores
+                                                          límites de cada país miembro. Una vez adoptados, estos valores tienen la misma validez
+                                                          que el resto de los valores adoptados por el país).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Metiletilcetona (Butanona)
+
+BLV                                                       2 mg/l Parámetro: Metiletilcetona - Medio: Orina - Momento de muestreo: Final de la
+                                                          jornada laboral
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2021. INSHT
+
+Etilbenceno (100-41-4)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Ethylbenzene
+
+IOEL TWA                                                  442 mg/m³
+
+                                                          100 ppm
+
+IOEL STEL                                                 884 mg/m³
+
+                                                          200 ppm
+
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Etilbenceno
+
+VLA-ED (OEL TWA)                                          441 mg/m³
+
+                                                          100 ppm
+
+VLA-EC (OEL STEL)                                         884 mg/m³
+
+                                                          200 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                          VLB® (Agente químico que tiene Valor Límite Biológico) , VLI (Agente químico para el que
+                                                          la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+
+
+
+28/08/2026 (Fecha de revisión)                                           ES - es                                                                 7/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+2-Metilpropan-1-ol; iso-butanol (78-83-1)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Isobutanol (Alcohol isobutílico)
+
+VLA-ED (OEL TWA)                                          154 mg/m³
+
+                                                          50 ppm
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2019. INSHT
+
+Xileno (1330-20-7)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Xylene, mixed isomers, pure
+
+IOEL TWA                                                  221 mg/m³
+
+                                                          50 ppm
+
+IOEL STEL                                                 442 mg/m³
+
+                                                          100 ppm
+
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+España - Valores límite de exposición profesional
+
+Nombre local                                              Xileno, mezcla isómeros
+
+VLA-ED (OEL TWA)                                          221 mg/m³
+
+                                                          50 ppm
+
+VLA-EC (OEL STEL)                                         442 mg/m³
+
+                                                          100 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                          VLB® (Agente químico que tiene Valor Límite Biológico), VLI (Agente químico para el que
+                                                          la U.E. estableció en su día un valor límite indicativo).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Xilenos, mezcla isómeros
+
+BLV                                                       1 g/g creatinina Parámetro: Ácidos metilhipúricos - Medio: Orina - Momento de muestreo:
+                                                          Final de la jornada laboral
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2022. INSHT
+
+Tetrahidrofurano (109-99-9)
+UE - Valor límite de exposición profesional indicativo (IOEL)
+
+Nombre local                                              Tetrahydrofuran
+
+IOEL TWA                                                  150 mg/m³
+
+                                                          50 ppm
+
+IOEL STEL                                                 300 mg/m³
+
+                                                          100 ppm
+
+Comentarios                                               Skin
+
+Referencia normativa                                      COMMISSION DIRECTIVE 2000/39/EC
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                   8/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Tetrahidrofurano (109-99-9)
+España - Valores límite de exposición profesional
+
+Nombre local                                              Tetrahidrofurano
+
+VLA-ED (OEL TWA)                                          150 mg/m³
+
+                                                          50 ppm
+
+VLA-EC (OEL STEL)                                         300 mg/m³
+
+                                                          100 ppm
+
+Comentarios                                               Vía dérmica (Indica que, en las exposiciones a esta sustancia, la aportación por la vía
+                                                          cutánea puede resultar significativa para el contenido corporal total si no se adoptan
+                                                          medidas para prevenir la absorción. En estas situaciones, es aconsejable la utilización del
+                                                          control biológico para poder cuantificar la cantidad global absorbida del contaminante),
+                                                          VLI (Agente químico para el que la U.E. estableció en su día un valor límite indicativo),
+                                                          VLB® (Agente químico que tiene Valor Límite Biológico).
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2024. INSHT
+
+España - Valores límite biológicos
+
+Nombre local                                              Tetrahidrofurano
+
+BLV                                                       2 mg/l Parámetro: Tetrahidrofurano - Medio: Orina - Momento de muestreo: Final de la
+                                                          jornada laboral
+
+Referencia normativa                                      Límites de Exposición Profesional para Agentes Químicos en España 2024. INSHT
+
+Métodos de seguimiento recomendados
+
+Método de seguimiento
+Método de seguimiento                                     Lugar de trabajo - Requisitos generales para la realización de procedimientos para la
+                                                          medición de los agentes químicos. Deben usarse detectores de gases siempre que
+                                                          puedan liberarse gases/vapores inflamables.
+
+8.2. Controles de la exposición
+Controles técnicos apropiados
+Controles técnicos apropiados:
+El puesto de trabajo ha de estar bien ventilado. Equipo/iluminación antichispa y antideflagrante. Utilizar equipos eléctricos/mecánicos con
+derivación a tierra. Manipule el producto en un sistema cerrado. Manipular en gas inerte. Utilizar un aparato antideflagrante.
+
+Equipos de protección personal
+Equipo de protección individual:
+El equipo de protección personal (EPI) debe ser evaluado de acuerdo la naturaleza del trabajo y a cualquier peligro identificado en la evaluación de
+riesgos realizada.
+Evítese la exposición innecesaria. Llevar el equipo de protección individual recomendado. Fuente ocular con líquido adaptado.
+Símbolo/s del equipo de protección personal:
+
+
+
+
+Protección de los ojos y la cara
+Protección ocular:
+Utilice un protector facial
+
+Protección de la piel
+Protección de la piel y del cuerpo:
+Utilizar calzado de seguridad: botas antiestáticas. Utilizar ropa protectora: Ropa antiestática, Ropa de protección ignífuga
+
+Protección de las manos:
+Utilizar guantes protectores: Guantes antiestáticos
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                   9/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+Protección respiratoria
+Protección respiratoria:
+Llevar una máscara adecuada
+
+Controles de exposición medioambiental
+Control de la exposición del consumidor:
+No se requiere equipo de protección personal (PPE) cuando se manipulan envases para consumidor final.
+Otros datos:
+Deben seleccionarse los EPI'S que cumplan los estándares recomendados.
+
+
+
+SECCIÓN 9: Propiedades físicas y químicas
+
+9.1. Información sobre propiedades físicas y químicas básicas
+Estado físico                                          :   Líquido
+Color                                                  :   Incoloro.
+Olor                                                   :   No disponible
+Umbral olfativo                                        :   No disponible
+Punto de fusión                                        :   No aplicable
+Punto de congelación                                   :   No disponible
+Punto de ebullición                                    :   No disponible
+Inflamabilidad                                         :   Líquido y vapores muy inflamables.
+Límite inferior de explosividad                        :   No disponible
+Límite superior de explosividad                        :   No disponible
+Punto de inflamación                                   :   ≈ -10 °C
+Temperatura de auto-inflamación                        :   No disponible
+Temperatura de descomposición                          :   No disponible
+pH                                                     :   No disponible
+Viscosidad, cinemática                                 :   No disponible
+Solubilidad                                            :   No disponible
+Coeficiente de partición n-octanol/agua (Log Kow)      :   No disponible
+Presión de vapor                                       :   No disponible
+Presión de vapor a 50°C                                :   No disponible
+Densidad                                               :   No disponible
+Densidad relativa                                      :   No disponible
+Densidad relativa de vapor a 20°C                      :   ≥ 0,95 – ≤ 1
+Características de las partículas                      :   No aplicable
+
+9.2. Otros datos
+No se dispone de información adicional
+
+
+
+SECCIÓN 10: Estabilidad y reactividad
+
+10.1. Reactividad
+Líquido y vapores muy inflamables.
+
+10.2. Estabilidad química
+Puede formar peróxidos explosivos.
+
+10.3. Posibilidad de reacciones peligrosas
+No se producen reacciones peligrosas conocidas en condiciones normales de utilización.
+
+10.4. Condiciones que deben evitarse
+Evitar el contacto con superficies calientes. Calor. Sin llamas ni chispas. Eliminar cualquier fuente de ignición.
+
+10.5. Materiales incompatibles
+No se dispone de información adicional
+
+
+
+28/08/2026 (Fecha de revisión)                                           ES - es                                     10/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+10.6. Productos de descomposición peligrosos
+En condiciones normales de almacenamiento y utilización, no deberían de generarse productos de descomposición peligrosos.
+
+
+
+SECCIÓN 11: Información toxicológica
+
+11.1. Información sobre las clases de peligro definidas en el Reglamento (CE) n.° 1272/2008
+Toxicidad aguda (oral)                                 : Nocivo en caso de ingestión.
+Toxicidad aguda (cutánea)                              : No clasificado
+Toxicidad aguda (inhalación)                           : No clasificado
+
+PVC TIXOTRÓPICO GEL
+ATE CLP (oral)                                            666,667 mg/kg de peso corporal
+Corrosión o irritación cutáneas                        : No clasificado.
+Lesiones oculares graves o irritación ocular           : Provoca irritación ocular grave.
+Sensibilización respiratoria o cutánea                 : No clasificado
+Mutagenicidad en células germinales                    : No clasificado
+Carcinogenicidad                                       : Se sospecha que provoca cáncer.
+
+Xileno (1330-20-7)
+Grupo CIIC                                                3 - Inclasificable
+Toxicidad para la reproducción                         : No clasificado
+Toxicidad específica en determinados órganos           : Puede provocar somnolencia o vértigo. Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Butanona (78-93-3)
+Toxicidad específica en determinados órganos              Puede provocar somnolencia o vértigo.
+(STOT) – exposición única
+
+2-Metilpropan-1-ol; iso-butanol (78-83-1)
+Toxicidad específica en determinados órganos              Puede provocar somnolencia o vértigo. Puede irritar las vías respiratorias.
+(STOT) – exposición única
+
+Tetrahidrofurano (109-99-9)
+Toxicidad específica en determinados órganos              Puede irritar las vías respiratorias.
+(STOT) – exposición única
+Toxicidad específica en determinados órganos           : No clasificado.
+(STOT) – exposición repetida
+
+Etilbenceno (100-41-4)
+Toxicidad específica en determinados órganos              Puede provocar daños en los órganos (Orgános auditivos) tras exposiciones prolongadas
+(STOT) – exposición repetida                              o repetidas.
+Peligro por aspiración                                 : No clasificado
+
+11.2. Información sobre otros peligros
+No se dispone de información adicional
+
+
+
+SECCIÓN 12: Información ecológica
+
+12.1. Toxicidad
+Ecología - general                                     : Este producto no se considera nocivo para los organismos acuáticos o no que cause
+                                                         efectos adversos a largo plazo en el medio ambiente.
+Peligro a corto plazo (agudo) para el medio            : No clasificado
+ambiente acuático
+Peligro a largo plazo (crónico) para el medio          : No clasificado
+ambiente acuático
+
+28/08/2026 (Fecha de revisión)                                             ES - es                                                           11/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+12.2. Persistencia y degradabilidad
+
+PVC TIXOTRÓPICO GEL
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Ciclohexanona (108-94-1)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Butanona (78-93-3)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Etilbenceno (100-41-4)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+2-Metilpropan-1-ol; iso-butanol (78-83-1)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Xileno (1330-20-7)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+Tetrahidrofurano (109-99-9)
+Persistencia y degradabilidad                             Rápidamente degradable
+
+12.3. Potencial de bioacumulación
+No se dispone de información adicional
+
+12.4. Movilidad en el suelo
+No se dispone de información adicional
+
+12.5. Resultados de la valoración PBT y mPmB
+No se dispone de información adicional
+
+12.6. Propiedades de alteración endocrina
+No se dispone de información adicional
+
+12.7. Otros efectos adversos
+No se dispone de información adicional
+
+
+
+SECCIÓN 13: Consideraciones relativas a la eliminación
+
+13.1. Métodos para el tratamiento de residuos
+Normativa regional sobre residuos                : Eliminar de acuerdo con la normativa oficial.
+Métodos para el tratamiento de residuos          : Eliminar el contenido/recipiente de acuerdo con las instrucciones de reciclaje del recolector
+                                                   homologado.
+Recomendaciones para la eliminación de las aguas : Eliminar de acuerdo con la normativa oficial.
+residuales
+Recomendaciones para la eliminación de           : Eliminar de acuerdo con la normativa oficial.
+productos/envases
+Información adicional                            : Pueden acumularse vapores inflamables en el envase. No reutilizar los recipientes vacíos.
+
+
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                             12/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+Código HP                                                : HP3 - “Inflamable”:
+                                                           – residuos líquidos inflamables: residuos líquidos con un punto de inflamación inferior a 60
+                                                           °C, o gasóleos, carburantes diésel y aceites ligeros para calefacción usados con un punto
+                                                           de inflamación entre > 55 °C y ≤ 75 °C;
+                                                           – residuos líquidos o sólidos pirofóricos inflamables: residuos líquidos o sólidos que, aun en
+                                                           pequeñas cantidades, pueden inflamarse al cabo de cinco minutos de entrar en contacto
+                                                           con el aire;
+                                                           – residuos sólidos inflamables: residuos sólidos que se inflaman con facilidad o que pueden
+                                                           provocar fuego o contribuir a provocar fuego por fricción;
+                                                           – residuos gaseosos inflamables: residuos gaseosos que se inflaman con el aire a 20 °C y
+                                                           a una presión de referencia de 101,3 kPa;
+                                                           – residuos que reaccionan en contacto con el agua: residuos que, en contacto con el agua,
+                                                           desprenden gases inflamables en cantidades peligrosas;
+                                                           – otros residuos inflamables: aerosoles inflamables, residuos que experimentan
+                                                           calentamiento espontáneo inflamables, residuos de peróxidos orgánicos inflamables y
+                                                           residuos autorreactivos inflamables.
+                                                           HP5 - “Toxicidad específica en determinados órganos (STOT en su sigla inglesa)/Toxicidad
+                                                           por aspiración”: corresponde a los residuos que pueden provocar una toxicidad específica
+                                                           en determinados órganos, bien por una exposición única bien por exposiciones repetidas, o
+                                                           que pueden provocar efectos tóxicos agudos por aspiración.
+                                                           HP6 - “Toxicidad aguda”: corresponde a los residuos que pueden provocar efectos tóxicos
+                                                           agudos tras la administración por vía oral o cutánea o como consecuencia de una
+                                                           exposición por inhalación.
+                                                           HP7 - “Carcinógeno”: corresponde a los residuos que inducen cáncer o aumentan su
+                                                           incidencia.
+                                                           HP4 - “Irritante – irritación cutánea y lesiones oculares”: corresponde a los residuos que,
+                                                           cuando se aplican, pueden provocar irritaciones cutáneas o lesiones oculares.
+                                                           HP15 - “Residuos que pueden presentar una de las características de peligrosidad antes
+                                                           mencionadas que el residuo original no presentaba directamente”.
+
+
+
+SECCIÓN 14: Información relativa al transporte
+En conformidad con ADR / IMDG / IATA / ADN / RID
+             ADR                          IMDG                            IATA                           ADN                            RID
+
+14.1. Número ONU o número ID
+           UN 1133                       UN 1133                         UN 1133                       UN 1133                        UN 1133
+
+14.2. Designación oficial de transporte de las Naciones Unidas
+        ADHESIVOS                     ADHESIVOS                         Adhesives                   ADHESIVOS                      ADHESIVOS
+      (Tetrahidrofurano)            (Tetrahidrofurano)                                            (Tetrahidrofurano)             (Tetrahidrofurano)
+
+Descripción del documento del transporte
+
+   UN 1133 ADHESIVOS              UN 1133 ADHESIVOS             UN 1133 Adhesives, 3, III       UN 1133 ADHESIVOS              UN 1133 ADHESIVOS
+  (Tetrahidrofurano), 3, III,    (Tetrahidrofurano), 3, III                                    (Tetrahidrofurano), 3, III     (Tetrahidrofurano), 3, III
+            (D/E)
+
+14.3. Clase(s) de peligro para el transporte
+               3                             3                               3                             3                              3
+
+
+
+
+14.4. Grupo de embalaje
+               III                          III                             III                            III                           III
+
+
+
+
+28/08/2026 (Fecha de revisión)                                            ES - es                                                                     13/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+             ADR                          IMDG                             IATA                            ADN                             RID
+
+14.5. Peligros para el medio ambiente
+   Peligroso para el medio        Peligroso para el medio          Peligroso para el medio       Peligroso para el medio        Peligroso para el medio
+        ambiente: No                   ambiente: No                     ambiente: No                  ambiente: No                   ambiente: No
+                                 Contaminante marino: No
+                                   N.° FS (Fuego): F-E
+                                  N.° FS (Derrame): S-D
+
+No se dispone de información adicional
+
+14.6. Precauciones particulares para los usuarios
+Transporte por vía terrestre
+Código de clasificación (ADR)                           :   F1
+Cantidades limitadas (ADR)                              :   5l
+Cantidades exceptuadas (ADR)                            :   E1
+Instrucciones de embalaje (ADR)                         :   P001, IBC03, LP01, R001
+Disposiciones especiales de embalaje (ADR)              :   PP1
+Disposiciones para el embalaje en común (ADR)           :   MP19
+Instrucciones de transporte en cisternas portátiles y   :   T2
+contenedores para granel (ADR)
+Disposiciones especiales relativas a las cisternas      : TP1
+portátiles y los contenedores para graneles (ADR)
+Código cisterna (ADR)                                   :   LGBF
+Vehículo para el transporte en cisternas                :   FL
+Categoría de transporte (ADR)                           :   3
+Disposiciones especiales de transporte - Bultos         :   V12
+(ADR)
+Disposiciones especiales de transporte -                : S2
+Explotación (ADR)
+Número de identificación de peligro (código Kemler)     : 30
+Panel naranja                                           :
+
+
+
+
+Código de restricciones en túneles (ADR)                : D/E
+
+Transporte marítimo
+Disposiciones especiales (IMDG)                         :   223, 955
+Cantidades limitadas (IMDG)                             :   5L
+Cantidades exceptuadas (IMDG)                           :   E1
+Instrucciones de embalaje (IMDG)                        :   P001, LP01
+Disposiciones especiales de embalaje (IMDG)             :   PP1
+Instrucciones de embalaje GRG (IMDG)                    :   IBC03
+Instrucciones para cisternas (IMDG)                     :   T2
+Disposiciones especiales para las cisternas (IMDG)      :   TP1
+Categoría de carga (IMDG)                               :   A
+Propiedades y observaciones (IMDG)                      :   Adhesives are solutions of gums, resins, etc., usually volatile due to the solvents. Miscibility
+                                                            with water depends upon their composition.
+
+Transporte aéreo
+Cantidades exceptuadas para aviones de pasajeros        : E1
+y de carga (IATA)
+Cantidades limitadas para aviones de pasajeros y        : Y344
+de carga (IATA)
+Cantidad neta máxima para cantidad limitada en          : 10L
+aviones de pasajeros y de carga (IATA)
+Instrucciones de embalaje para aviones de               : 355
+pasajeros y de carga (IATA)
+Cantidad neta máxima para aviones de pasajeros y        : 60L
+de carga (IATA)
+
+
+28/08/2026 (Fecha de revisión)                                             ES - es                                                                     14/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+Instrucciones de embalaje exclusivamente para           : 366
+aviones de carga (IATA)
+Cantidad máx. neta exclusivamente para aviones          : 220L
+de carga (IATA)
+Disposiciones especiales (IATA)                         : A3
+Código GRE (IATA)                                       : 3L
+
+Transporte por vía fluvial
+Código de clasificación (ADN)                           :   F1
+Cantidades limitadas (ADN)                              :   5L
+Cantidades exceptuadas (ADN)                            :   E1
+Equipo requerido (ADN)                                  :   PP, EX, A
+Ventilación (ADN)                                       :   VE01
+Número de conos/luces azules (ADN)                      :   0
+
+Transporte ferroviario
+Código de clasificación (RID)                           :   F1
+Cantidades limitadas (RID)                              :   5L
+Cantidades exceptuadas (RID)                            :   E1
+Instrucciones de embalaje (RID)                         :   P001, IBC03, LP01, R001
+Disposiciones especiales de embalaje (RID)              :   PP1
+Disposiciones particulares relativas al embalaje        :   MP19
+común (RID)
+Instrucciones de transporte en cisternas portátiles y   : T2
+contenedores para granel (RID)
+Disposiciones especiales relativas a las cisternas      : TP1
+portátiles y los contenedores para graneles (RID)
+Códigos de cisterna para las cisternas RID (RID)        : LGBF
+Categoría de transporte (RID)                           : 3
+Disposiciones especiales de transporte - Bultos         : W12
+(RID)
+Paquetes exprés (RID)                                   : CE4
+N.° de identificación del peligro (RID)                 : 30
+
+14.7. Transporte marítimo a granel con arreglo a los instrumentos de la OMI
+No aplicable
+
+
+
+SECCIÓN 15: Información reglamentaria
+
+15.1. Reglamentación y legislación en materia de seguridad, salud y medio ambiente específicas para la sustancia o la
+   mezcla
+Normativa de la UE
+
+Anexo XVII de REACH (Lista de restricciones)
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en               Título o descripción de la entrada
+
+3(a)                             PVC TIXOTRÓPICO GEL        Sustancias o mezclas que reúnan los criterios de cualquiera de las siguientes clases o
+                                 ; Ciclohexanona ;          categorías de peligro establecidas en el anexo I del Reglamento (CE) n° 1272/2008:
+                                 Butanona ; Etilbenceno ;   Clases de peligro 2.1 a 2.4, 2.6 y 2.7, 2.8 tipos A y B, 2.9, 2.10, 2.12, 2.13 categorías 1 y
+                                 2-Metilpropan-1-ol; iso-   2, 2.14 categorías 1 y 2, 2.15 tipos A a F
+                                 butanol ; Xileno ;
+                                 Tetrahidrofurano
+
+3(b)                             PVC TIXOTRÓPICO GEL        Sustancias o mezclas que reúnan los criterios de cualquiera de las siguientes clases o
+                                 ; Ciclohexanona ;          categorías de peligro establecidas en el anexo I del Reglamento (CE) n° 1272/2008:
+                                 Butanona ; Etilbenceno ;   Clases de peligro 3.1 a 3.6, 3.7 efectos adversos sobre la función sexual y la fertilidad o
+                                 2-Metilpropan-1-ol; iso-   sobre el desarrollo, 3.8 efectos distintos de los narcóticos, 3.9 y 3.10
+                                 butanol ; Xileno ;
+                                 Tetrahidrofurano
+
+
+28/08/2026 (Fecha de revisión)                                            ES - es                                                                     15/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Lista de restricciones de la UE (Anexo XVII del reglamento REACH)
+Código de referencia             Aplicable en                 Título o descripción de la entrada
+
+78.                              Polímeros de cloruro de      Micropartículas de polímeros sintéticos según los criterios del anexo XVII, entrada 78
+                                 vinilo o de otras olefinas
+                                 halogenadas
+
+Anexo XIV de REACH (lista de autorizaciones)
+No contiene ninguna sustancia incluida en el Anexo XIV de REACH (Lista de autorizaciones)
+
+Lista de sustancias candidatas extremadamente preocupantes (SVHC) de REACH
+No contiene ninguna sustancia incluida en la lista de sustancias candidatas de REACH
+
+Regulación PIC (consentimiento fundamentado previo)
+No contiene ninguna sustancia incluida en la lista PIC (Reglamento UE 649/2012 relativo a la exportación e importación de productos químicos
+peligrosos)
+
+Reglamento COP (Contaminantes orgánicos persistentes)
+No contiene ninguna sustancia incluida en la lista COP (Reglamento UE 2019/1021 sobre contaminantes orgánicos persistentes)
+
+Reglamento sobre el ozono (2024/590)
+No incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590)
+No contiene ninguna sustancia incluida en la lista de sustancias que agotan la capa de ozono (Reglamento UE 2024/590 sobre las sustancias que
+agotan la capa de ozono)
+
+Reglamento (CE) del Consejo para el control de productos de doble uso
+No contiene sustancias sujetas al REGLAMENTO (CE) DEL CONSEJO para el control de productos de doble uso
+
+Reglamento sobre los precursores de explosivo (UE 2019/1148)
+No contiene ninguna sustancia incluida en la lista de precursores de explosivos (Reglamento UE 2019/1148 sobre la comercialización y la
+utilización de precursores de explosivos)
+
+Reglamento sobre precursores de drogas (CE 273/2004)
+Contiene una o varias sustancias incluidas en la lista de precursores de drogas (Reglamento CE 273/2004 relativa a la fabricación y puesta en el
+mercado de determinadas sustancias utilizadas para la fabricación ilícita de estupefacientes y sustancias psicotrópicas)
+Nombre                               Denominació N° CAS                   Código CN            Categoría,         Umbral              Anexo
+                                     n NC                                                      Subcategoría
+Metiletilcetona (MEK)                Butanone           78-93-3           2914 12 00           Categoría 3                            Anexo I
+
+15.2. Evaluación de la seguridad química
+No se ha llevado a cabo la Evaluación de la Seguridad Química
+
+
+
+SECCIÓN 16: Otra información
+
+Indicación de modificaciones
+Sección                          Ítem modificado                                  Observaciones
+
+1.1                              Nombre comercial                                 Modificado
+
+2.2                              Consejos de prudencia (CLP)                      Modificado
+
+2.2                              Frases suplementarias                            Modificado
+
+15.1                             Anexo XVII de REACH                              Modificado
+
+
+Abreviaturas y acrónimos:
+ACGIH                            Asociación Estadounidense de Higienistas Industriales, EE. UU.
+
+ADN                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por vías navegables interiores
+
+ADR                              Acuerdo europeo relativo al transporte internacional de mercancías peligrosas por carretera
+
+28/08/2026 (Fecha de revisión)                                              ES - es                                                                    16/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Abreviaturas y acrónimos:
+ATE                              Estimación de la toxicidad aguda
+
+FBC                              Factor de bioconcentración
+
+VLB                              Valor límite biológico
+
+DBO                              Demanda bioquímica de oxígeno (DBO)
+
+N° CAS                           Número del Servicio de resúmenes químicos (CAS)
+
+CLP                              Reglamento (CE) n° 1272/2008 sobre clasificación, etiquetado y envasado
+
+DQO                              Demanda química de oxígeno (DQO)
+
+CSA                              Evaluación de la seguridad química
+
+DMEL                             Nivel derivado con efecto mínimo
+
+DNEL                             Nivel sin efecto derivado
+
+N° CE                            número CE
+
+CE50                             Concentración efectiva media
+
+AE                               Alterador endocrino
+
+EN                               Norma europea
+
+CER                              Catálogo europeo de residuos
+
+CIIC                             Centro Internacional de Investigaciones sobre el Cáncer
+
+IATA                             Asociación Internacional de Transporte Aéreo
+
+IMDG                             Código Marítimo Internacional de Mercancías Peligrosas
+
+CL50                             Concentración letal para el 50 % de una población de pruebas
+
+DL50                             Dosis letal para el 50 % de una población de pruebas (dosis letal media)
+
+LOAEL                            Nivel más bajo con efecto adverso observado
+
+Log Kow                          Coeficiente de partición n-octanol/agua (Log Kow)
+
+Log Pow                          Coeficiente de partición n-octanol/agua (Log Pow)
+
+MAK                              concentración máxima en el lugar de trabajo
+
+NOAEC                            Concentración sin efecto adverso observado
+
+NOAEL                            Nivel sin efecto adverso observado
+
+NOEC                             Concentración sin efecto observado
+
+N.E.P                            No especificado en otra parte
+
+OCDE                             Organización para la Cooperación y el Desarrollo Económicos
+
+VLA                              Límite de exposición profesional
+
+OSHA                             Agencia Federal de Higiene y Seguridad Profesional del Departamento de Trabajo de los Estados Unidos
+
+PBT                              Sustancia persistente, bioacumulativa y tóxica
+
+PNEC                             Concentración prevista sin efecto
+
+EPI                              Equipos de protección personal
+
+RID                              Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril
+
+FDS                              Ficha de Datos de Seguridad
+
+STP                              Estación depuradora
+
+TF                               Función técnica
+
+DTO                              Necesidad teórica de oxígeno (BThO)
+
+
+28/08/2026 (Fecha de revisión)                                             ES - es                                                      17/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Abreviaturas y acrónimos:
+TLM                              Tolerancia media limite
+
+TWA                              Concentración media ponderada en el tiempo
+
+COV                              Compuestos orgánicos volátiles
+
+mPmB                             Muy persistente y muy bioacumulable
+
+UFI                              Identificador único de fórmula
+
+
+Texto íntegro de las frases H y EUH:
+Acute Tox. 4 (Cutánea)           Toxicidad aguda (cutánea), categoría 4
+
+Acute Tox. 4 (Inhalación)        Toxicidad aguda (por inhalación), categoría 4
+
+Acute Tox. 4 (Oral)              Toxicidad aguda (oral), categoría 4
+
+Acute Tox. No clasificado        Toxicidad aguda (cutánea) No clasificado
+(Cutánea)
+
+Acute Tox. No clasificado        Toxicidad aguda (oral) No clasificado
+(Oral)
+
+Aquatic Chronic No               Peligroso para el medio ambiente acuático – Peligro crónico No clasificado
+clasificado
+
+Asp. Tox. 1                      Peligro por aspiración, categoría 1
+
+Carc. 2                          Carcinogenicidad, categoría 2
+
+Eye Dam. 1                       Lesiones oculares graves o irritación ocular, categoría 1
+
+Eye Irrit. 2                     Lesiones oculares graves o irritación ocular, categoría 2
+
+Flam. Liq. 2                     Líquidos inflamables, categoría 2
+
+Flam. Liq. 3                     Líquidos inflamables, categoría 3
+
+Skin Irrit. 2                    Irritación o corrosión cutáneas, categoría 2
+
+STOT RE 2                        Toxicidad específica en determinados órganos – Exposiciones repetidas, categoría 2
+
+STOT SE 3                        Toxicidad específica en determinados órganos – Exposición única, categoría 3, narcosis
+
+H225                             Líquido y vapores muy inflamables.
+
+H226                             Líquidos y vapores inflamables.
+
+H302                             Nocivo en caso de ingestión.
+
+H304                             Puede ser mortal en caso de ingestión y penetración en las vías respiratorias.
+
+H312                             Nocivo en contacto con la piel.
+
+H315                             Provoca irritación cutánea.
+
+H318                             Provoca lesiones oculares graves.
+
+H319                             Provoca irritación ocular grave.
+
+H332                             Nocivo en caso de inhalación.
+
+H335                             Puede irritar las vías respiratorias.
+
+H336                             Puede provocar somnolencia o vértigo.
+
+H351                             Se sospecha que provoca cáncer.
+
+H373                             Puede provocar daños en los órganos tras exposiciones prolongadas o repetidas.
+
+EUH019                           Puede formar peróxidos explosivos.
+
+EUH066                           La exposición repetida puede provocar sequedad o formación de grietas en la piel.
+
+
+
+28/08/2026 (Fecha de revisión)                                              ES - es                                       18/19
+PVC TIXOTRÓPICO GEL
+Ficha de Datos de Seguridad
+según el Reglamento REACH (CE) 1907/2006 modificado por el Reglamento (EU) 2020/878
+
+
+Clasificación y procedimiento utilizados para determinar la clasificación de las mezclas de conformidad con el
+Reglamento (CE) 1272/2008 [CLP]:
+Flam. Liq. 2                     H225                     Criterio experto
+
+Acute Tox. 4 (Oral)              H302                     Método de cálculo
+
+Skin Corr./Irrit. No                                      Criterio experto
+clasificado
+
+Eye Irrit. 2                     H319                     Método de cálculo
+
+Carc. 2                          H351                     Método de cálculo
+
+STOT SE 3                        H336                     Método de cálculo
+
+STOT SE 3                        H335                     Método de cálculo
+
+STOT RE No clasificado                                    Criterio experto
+
+Ficha de datos de seguridad (FDS), UE
+
+Esta información se basa en nuestro conocimiento actual y tiene como finalidad describir el producto para la tutela de la salud, seguridad y medio
+ambiente. Por lo tanto, no debe ser interpretada como garantía de ninguna característica específica del producto.
+
+
+
+
+28/08/2026 (Fecha de revisión)                                          ES - es                                                                19/19
+
